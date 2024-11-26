@@ -1,0 +1,15 @@
+﻿#EXTM3U8
+#EXTINF:-1 ,MovieSphere (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 ,Filmstream (Australia)
+https://spi-filmstream-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Vevo 90s (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 ,People Are Awesome (Australia)
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Ted (Australia)
+https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,
+https://connection3-ent-au.samsung.wurl.tv/playlist.m3u8

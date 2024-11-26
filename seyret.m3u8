@@ -1,0 +1,95 @@
+﻿#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium1.xml"
+#EXTINF:-1  tvg-name="Bbc Earth [ HD ]" tvg-logo="https://i.hizliresim.com/5oxynyz.png" group-title="Belgesel",Bbc Earth [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/258
+#EXTINF:-1  tvg-name="Discovery Channel [ HD ]" tvg-logo="https://i.hizliresim.com/848h7ka.png" group-title="Belgesel",Discovery Channel [ HD ]
+https://lives.anystreamrectv3.live/live/discovery.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="National Geoprafic [ HD ]" tvg-logo="https://i.hizliresim.com/llrmfx3.png" group-title="Belgesel",National Geoprafic [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/286
+#EXTINF:-1  tvg-name="National Geoprafic Wild [ HD ]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Belgesel",National Geoprafic Wild [ HD ]
+https://lives.anystreamrectv3.live/live/natgeowild.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="beIN Gurme [ HD ]" tvg-logo="https://i.hizliresim.com/qlqk5fm.png" group-title="Belgesel",beIN Gurme [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/271
+#EXTINF:-1  tvg-name="beIN IZ [ HD ]" tvg-logo="https://i.hizliresim.com/5es6vau.png" group-title="Belgesel",beIN IZ [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
+#EXTINF:-1  tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Belgesel",History Channel
+https://lives.anystreamrectv3.live/live/history.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Bein Movies Family " tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png" group-title="Sinema",Bein Movies Family
+https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Bein Movies Premier" tvg-logo="https://media0058.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies Premier
+https://lives.anystreamrectv3.live/live/bspremier1.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Bein Movies turk" tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png" group-title="Sinema",Bein Movies turk
+https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Moviesmart Turk" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Turk
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/64828
+#EXTINF:-1  tvg-name="Epic Drama" tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png" group-title="Sinema",Epic Drama
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/50426
+#EXTINF:-1  tvg-name="Sinema TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj" group-title="Sinema ",Sinema TV
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/163
+#EXTINF:-1  tvg-name="Sinema TV 2" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645" group-title="Sinema ",Sinema TV 2
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/103139
+#EXTINF:-1  tvg-name="Sinema TV 1001" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s" group-title="Sinema ",Sinema TV 1001
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/164
+#EXTINF:-1  tvg-name="Sinema TV 1002" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398" group-title="Sinema ",Sinema TV 1002
+http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/369
+#EXTINF:-1  tvg-name="Sinema TV Aksiyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s" group-title="Sinema ",Sinema TV Aksiyon
+https://lives.anystreamrectv3.live/live/sinemaaksiyon2.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1  tvg-name="Sinema TV Komedi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s" group-title="Sinema ",Sinema TV Komedi
+http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/364
+#EXTINF:-1  tvg-name="Sinema TV Yerli" tvg-logo="https://i.ytimg.com/vi/fbetAjE1_KM/maxresdefault.jpg" group-title="Sinema ",Sinema TV Yerli
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/165
+#EXTINF:-1  tvg-name="Sinema TV Aile" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema ",Sinema TV Aile
+http://magstream.schwarzer-1903.com:8080/Muratzrnacibsbs/Zurnacimuratsbsb/362
+#EXTINF:-1  tvg-name="FX " tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="Sinema",FX
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/12
+#EXTINF:-1  tvg-name="Sinema Mix " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s" group-title="Sinema ",Sinema Mix
+https://lives.anystreamrectv3.live/live/mix2.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
+#EXTINF:-1  tvg-name="Sinema Aksiyon " tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png" group-title="Sinema ",Sinema Aksiyon
+https://lives.anystreamrectv3.live/live/aks3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1  tvg-name="Sinema Animasyon " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s" group-title="Sinema  ",Sinema Animasyon
+https://lives.anystreamrectv3.live/live/anim3.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1  tvg-name="Sinema Korku " tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg" group-title="Sinema  ",Sinema Korku
+https://lives.anystreamrectv3.live/live/kor1.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
+#EXTINF:-1  tvg-name="Sinema Turk " tvg-logo="https://eudzr49nzcv.exactdn.com/wp-content/uploads/2018/03/E-Bursum-13.png?strip=all&lossy=1&ssl=1" group-title="Sinema  ",Sinema Turk
+https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1  tvg-name="Sinema Star Wars " tvg-logo="https://www.emp-online.ch/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dwae6f1d97/108112_MT_Star_Wars_Dark_Side_NEU.jpg?sw=768" group-title="Sinema  ",Sinema Star Wars
+https://lives.anystreamrectv3.live/live/wars.m3u8?token=z9_KENRGG4PwTyDn6RhcdQ&tms=1732030442
+#EXTINF:-1  tvg-name="TR:BEIN BOX OFFICE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png" group-title="Sinema",TR:BEIN BOX OFFICE 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90481
+#EXTINF:-1  tvg-name="TR:BEIN BOX OFFICE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png" group-title="Sinema",TR:BEIN BOX OFFICE 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90482
+#EXTINF:-1  tvg-name="TR:BEIN BOX OFFICE 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinbxoffice3.png" group-title="Sinema",TR:BEIN BOX OFFICE 3 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90483
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beindrama.png" group-title="Sinema",TR:BEIN SERIES 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/92116
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beincomedy.png" group-title="Sinema",TR:BEIN SERIES 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/92115
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesvice.png" group-title="Sinema",TR:BEIN SERIES 3 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89267
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesscfi.png" group-title="Sinema",TR:BEIN SERIES 4 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89266
+#EXTINF:-1  tvg-name="TR:BEIN MOVIES PREMIERE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinmoviepremeire.png" group-title="Sinema",TR:BEIN MOVIES PREMIERE 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90484
+#EXTINF:-1  tvg-name="TR:BEIN MOVIES PREMIERE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/beinmoviepremier2.png" group-title="Sinema",TR:BEIN MOVIES PREMIERE 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89264
+#EXTINF:-1  tvg-name="Bein Movies Stars" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Movies_Stars_TR_logo.png?1630931265" group-title="Sinema",Bein Movies Stars
+https://lives.anystreamrectv3.live/live/bsstars.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="TR:DIZISMART PREMIUM HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/dizismartpremium.png" group-title="Sinema",TR:DIZISMART PREMIUM HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89271
+#EXTINF:-1  tvg-name="TR:FILMBOX HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/filmbox.png" group-title="Sinema",TR:FILMBOX HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89282
+#EXTINF:-1  tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="Sinema",TR:BLUTV PLAY 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89900
+#EXTINF:-1  tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="Sinema",TR:BLUTV PLAY 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89901
+#EXTINF:-1  tvg-name="TR:MOVIE GERILIM KORKU HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movilegerilimkorku.png" group-title="Sinema",TR:MOVIE GERILIM KORKU HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89280
+#EXTINF:-1  tvg-name="TR:MOVIE ANIMASYON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movieanimasyon.png" group-title="Sinema",TR:MOVIE ANIMASYON HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89281
+#EXTINF:-1  tvg-name="TR:MOVIE BILIM KURGU HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movilebilimkurgu.png" group-title="Sinema",TR:MOVIE BILIM KURGU HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89278
+#EXTINF:-1  tvg-name="TR:MOVIE COMEDY HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/moviecomdey.png" group-title="Sinema",TR:MOVIE COMEDY HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89275
+#EXTINF:-1  tvg-name="TR:MOVIE DRAMA ROMANTIK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/moviedramaromantik.png" group-title="Sinema",TR:MOVIE DRAMA ROMANTIK HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89279
+#EXTINF:-1  tvg-name="TR:MOVIE YERLI FILM HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movieyerlifilm.png" group-title="Sinema",TR:MOVIE YERLI FILM HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89277

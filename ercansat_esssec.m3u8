@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:-1 ,Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 ,NRG91 Music
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8
+#EXTINF:-1 ,Vevo 90s (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 ,MovieSphere (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 ,Ted (Australia)
+https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 ,MBC Drama KSA (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 ,Korean TV
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
+#EXTINF:-1 ,Love Magazine (Sweden)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8

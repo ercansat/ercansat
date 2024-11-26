@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1 ,Sky News Now (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV (Australia)
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Breaking News by LeadStory (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+#EXTINF:-1 ,Euronews World (Australia)
+https://euronews-euronews-world-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Aus Biz TV (Australia)
+https://ausbiztv-ausbiz-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Baywatch (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 ,Duck Dynasty (Australia)
+https://d2wxbkuzb50ufu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Dog the Bounty Hunter (Australia)
+https://d3rp50rz5j7gy5.cloudfront.net/DogTheBountyHunter_US.m3u8
+#EXTINF:-1 ,Conan OBrien TV (Australia)
+https://d1di0xodeo3g8i.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,The Wicked Tuna Channel (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1 ,Deal or no Deal (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1 ,Hot Ones (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_hotones_002.m3u8
+#EXTINF:-1 ,Axmen (Australia)
+https://d3u3kiq48rpwlx.cloudfront.net/v1/aenetworks_axmen_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Modern Marvels (Australia)
+https://d36h0wr022ecx.cloudfront.net/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Intervention by AE (US feed)
+https://d1fgpy58dwnjlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9ovuuxeo5r512/playlist.m3u8
+#EXTINF:-1 ,Tiny House Nation (Australia)
+https://d3lp0uiwm2m57l.cloudfront.net/v1/aenetworks_tinyhousenation_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Bondi Vet (Australia)
+https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Anger Management (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 ,Little Women L.A by Lifetime (US feed)
+https://d3uuxmvz9qi6a1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2322wi60v1e15/playlist.m3u8
+#EXTINF:-1 ,The Biggest Loser (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestloser-samsungau/playlist.m3u8
+#EXTINF:-1 ,Wipeout Xtra (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Fear Factor (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1 ,Four in a Bed (Australia)
+https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Homes under the Hammer (Australia)
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Don't Tell The Bride (Substitute via Plex)
+https://amg00426-littledotstudio-donttellbride-plex-21080.amagi.tv/playlist/amg00426-littledotstudio-donttellbride-plex/playlist.m3u8
+#EXTINF:-1 ,Unsolved Mysteries (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_unsolvedmysteries_002.m3u8
+#EXTINF:-1 ,Dr G Medical Examiner (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_drgmedicalexaminer_002.m3u8
+#EXTINF:-1 ,History Hit Channel (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+#EXTINF:-1 ,WaterBear (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungau/playlist.m3u8
+#EXTINF:-1 ,Naturetime (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 ,Bloomberg Originals (Australia)
+https://bloomberg-quicktake-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Wonder (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsungau/playlist.m3u8
+#EXTINF:-1 ,Pulse (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1 ,MovieSphere (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 ,RCM (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-rialtosamsungaustralia/playlist.m3u8
+#EXTINF:-1 ,Action Hollywood Movies (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 ,The Asylum (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_theasylum.m3u8
+#EXTINF:-1 ,Filmstream (Australia)
+https://spi-filmstream-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Archive (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_thearchive_002.m3u8
+#EXTINF:-1 ,Mytime Movie Network (Australia)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Entertainment Hub (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
+#EXTINF:-1 ,Failarmy (Australia)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Pet Collective (Australia)
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Life Downunder (Australia)
+https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Alien Nation by Dust (Australia)
+http://gunpowder-dust-intl-samsung-au-xu3pn.amagi.tv/playlist/gunpowder-dust-intl-samsung-au/playlist.m3u8
+#EXTINF:-1 ,Haunt TV (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1 ,Dry Bar Comedy (Australia)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Ted (Australia)
+https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,People Are Awesome (Australia)
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Weather Spy (Australia)
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Pet Club TV (Australia)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,INWONDER (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 ,INWILD (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 ,Tastemade International (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
+#EXTINF:-1 ,The Design Network (Australia)
+https://thedesignnetwork-tdn-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Travel XP (Australia)
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Gusto TV (Australia)
+https://gustotv-samsung-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,PowerNation (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
+#EXTINF:-1 ,ChopperTown (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_choppertown_001.m3u8
+#EXTINF:-1 ,INFAST (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 ,Cricket Gold (Australia) via plex source
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 ,Cricket Gold (Australia) Test stream via Stirr source
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1 ,Cricket Gold (Australia) Test stream via Youtube
+https://ythls-v3.onrender.com/video/CeAgx48qQ3M.m3u8
+#EXTINF:-1 ,PGA Tour (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_pgatour_001.m3u8
+#EXTINF:-1 ,Fuel TV (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Red Bull TV (Australia)
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Surfer (Australia)
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+#EXTINF:-1 ,MTRSPT 1 (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 ,Motorsport.TV (Australia)
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1 ,Horse and Country (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-hnc-free-samsung-au/playlist.m3u8
+#EXTINF:-1 ,Stingray Holidayscapes (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_stingrayholidayscapes_001.m3u8
+#EXTINF:-1 ,Stingray Holidayscapes alt (Australia)
+https://dd7oxfzdj1tsm.cloudfront.net/master.m3u8
+#EXTINF:-1 ,Stingray Naturescape (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_stingraynaturescape_001.m3u8
+#EXTINF:-1 ,Fireplace 4K (Australia)
+https://d22w22d3eu3t35.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Vevo Pop (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo Retro Rock (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo Country (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo 70s (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo 80s (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo 90s (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 ,Vevo Christmas (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
+#EXTINF:-1 ,Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Qwest TV Jazz and Beyond (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 ,Clubbing TV (Australia)
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,TeleTubbies (Australia)
+https://d1mxjtebmoshcc.cloudfront.net/master.m3u8
+#EXTINF:-1 ,Strawberry Shortcake (Substitute)
+https://d3kuzudxjuzgkx.cloudfront.net/master.m3u8
+#EXTINF:-1 ,Sonic the Hedgehog (Substitute)
+https://d36joy6bh8xxe2.cloudfront.net/master.m3u8
+#EXTINF:-1 ,Duck TV (Australia)
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,PBS Kids (Australia)
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+#EXTINF:-1 ,Caillou (Australia)
+https://d3jm6503vvwy1p.cloudfront.net/Caillou_US.m3u8
+#EXTINF:-1 ,Car City Adventures (Australia)
+https://d2509zmfc5zmey.cloudfront.net/master.m3u8
+#EXTINF:-1 ,Kidoodle.TV (Australia)
+https://kidoodle-tv-kidoodletv-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Toon Goggles (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 ,Kartoon Channel (Australia)
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Ryan and Friends (Australia)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ABC WOLO
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 ,BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 ,beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 ,BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 ,BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 ,Bounce
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1 ,Cartoon Network / [ãdül† swim]
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 ,CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 ,Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 ,DisneyJr East
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 ,EPIX East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 ,EPIX Hits
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 ,ESPN2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 ,ESPNU
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 ,FOX Sports 1 (FS1)
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 ,Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 ,FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 ,getTV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 ,Hallmark Drama
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 ,HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 ,HBO Family East
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 ,HGTV East
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 ,ID (Investigation Discovery)
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 ,Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 ,Lifetime Movie Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 ,MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 ,MTV2 East
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 ,MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 ,NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 ,NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 ,NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 ,Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 ,NickMusic
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 ,OWN (Oprah Winfrey Network)
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 ,Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 ,ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 ,Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 ,Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 ,Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 ,Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 ,Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 ,Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 ,SYFY East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 ,TCM (Turner Classic Movies) East
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 ,TLC (The Learning Channel) East
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 ,truTV East
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 ,TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 ,VH1 East
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 ,Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 ,YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 ,A&E HD
+http://168.181.122.234:8000/play/a010/index.m3u8
+#EXTINF:-1 ,AXN HD
+http://168.181.122.234:8000/play/a00s/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://168.181.122.234:8000/play/a00z/index.m3u8
+#EXTINF:-1 ,BBC World
+http://168.181.122.234:8000/play/a020/index.m3u8
+#EXTINF:-1 ,Baby TV
+http://168.181.122.234:8000/play/a032/index.m3u8
+#EXTINF:-1 ,CINECANAL HD
+http://168.181.122.234:8000/play/a035/index.m3u8
+#EXTINF:-1 ,CNNE
+http://168.181.122.234:8000/play/a01r/index.m3u8
+#EXTINF:-1 ,Canal 7 HD CR
+http://168.181.122.234:8000/play/a039/index.m3u8
+#EXTINF:-1 ,Cine Latino
+http://168.181.122.234:8000/play/a02a/index.m3u8
+#EXTINF:-1 ,CineMax
+http://168.181.122.234:8000/play/a00u/index.m3u8
+#EXTINF:-1 ,DHE
+http://168.181.122.234:8000/play/a03s/index.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://168.181.122.234:8000/play/a01n/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://168.181.122.234:8000/play/a01s/index.m3u8
+#EXTINF:-1 ,Discovery Home & Health
+http://168.181.122.234:8000/play/a01o/index.m3u8
+#EXTINF:-1 ,Discovery ID
+http://168.181.122.234:8000/play/a01l/index.m3u8
+#EXTINF:-1 ,Discovery ID HD
+http://168.181.122.234:8000/play/a02g/index.m3u8
+#EXTINF:-1 ,Discovery Kids HD
+http://168.181.122.234:8000/play/a012/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://168.181.122.234:8000/play/a029/index.m3u8
+#EXTINF:-1 ,Disney
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 ,Disney JR
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 ,E! Entertairment HD
+http://168.181.122.234:8000/play/a01u/index.m3u8
+#EXTINF:-1 ,El Gourmet
+http://168.181.122.234:8000/play/a025/index.m3u8
+#EXTINF:-1 ,Europa HD
+http://168.181.122.234:8000/play/a01w/index.m3u8
+#EXTINF:-1 ,FX HD
+http://168.181.122.234:8000/play/a033/index.m3u8
+#EXTINF:-1 ,Film & arts HD
+http://168.181.122.234:8000/play/a01v/index.m3u8
+#EXTINF:-1 ,Golden
+http://168.181.122.234:8000/play/a01a/index.m3u8
+#EXTINF:-1 ,Golden Premiere 2 HD
+http://168.181.122.234:8000/play/a03r/index.m3u8
+#EXTINF:-1 ,Golden Premiere HD
+http://168.181.122.234:8000/play/a01t/index.m3u8
+#EXTINF:-1 ,H2
+http://168.181.122.234:8000/play/a01e/index.m3u8
+#EXTINF:-1 ,HBO Family HD
+http://168.181.122.234:8000/play/a02r/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://168.181.122.234:8000/play/a02o/index.m3u8
+#EXTINF:-1 ,HBO Plus HD
+http://168.181.122.234:8000/play/a02x/index.m3u8
+#EXTINF:-1 ,HBO XTREME
+http://168.181.122.234:8000/play/a02s/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://168.181.122.234:8000/play/a02p/index.m3u8
+#EXTINF:-1 ,History HD
+http://168.181.122.234:8000/play/a019/index.m3u8
+#EXTINF:-1 ,Home Garden Latino
+http://168.181.122.234:8000/play/a02d/index.m3u8
+#EXTINF:-1 ,LIFE TIME
+http://168.181.122.234:8000/play/a01p/index.m3u8
+#EXTINF:-1 ,MTV 00s
+http://168.181.122.234:8000/play/a030/index.m3u8
+#EXTINF:-1 ,MTV HD
+http://168.181.122.234:8000/play/a02z/index.m3u8
+#EXTINF:-1 ,Mas Chic
+http://168.181.122.234:8000/play/a01y/index.m3u8
+#EXTINF:-1 ,Multipremier
+http://168.181.122.234:8000/play/a00r/index.m3u8
+#EXTINF:-1 ,Nat Geo HD
+http://168.181.122.234:8000/play/a036/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://168.181.122.234:8000/play/a02y/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://168.181.122.234:8000/play/a028/index.m3u8
+#EXTINF:-1 ,Paramount
+http://168.181.122.234:8000/play/a03t/index.m3u8
+#EXTINF:-1 ,Paramount HD
+http://168.181.122.234:8000/play/a031/index.m3u8
+#EXTINF:-1 ,Playboy 🔞
+http://168.181.122.234:8000/play/a03u/index.m3u8
+#EXTINF:-1 ,RCN Novelas
+http://168.181.122.234:8000/play/a024/index.m3u8
+#EXTINF:-1 ,SEMILLITAS
+http://168.181.122.234:8000/play/a01z/index.m3u8
+#EXTINF:-1 ,SONY HD
+http://168.181.122.234:8000/play/a00x/index.m3u8
+#EXTINF:-1 ,SPACE HD
+http://168.181.122.234:8000/play/a03h/index.m3u8
+#EXTINF:-1 ,STAR CHANNEL HD
+http://168.181.122.234:8000/play/a034/index.m3u8
+#EXTINF:-1 ,Star TVE HD
+http://168.181.122.234:8000/play/a02v/index.m3u8
+#EXTINF:-1 ,SyFy
+http://168.181.122.234:8000/play/a03c/index.m3u8
+#EXTINF:-1 ,TLC
+http://168.181.122.234:8000/play/a00y/index.m3u8
+#EXTINF:-1 ,TNT Series HD
+http://168.181.122.234:8000/play/a03i/index.m3u8
+#EXTINF:-1 ,TVChile
+http://168.181.122.234:8000/play/a02f/index.m3u8
+#EXTINF:-1 ,Telemundo HD
+http://168.181.122.234:8000/play/a011/index.m3u8
+#EXTINF:-1 ,UNIVERSAL CINEMA ESTE HD
+http://168.181.122.234:8000/play/a02u/index.m3u8
+#EXTINF:-1 ,Universal
+http://168.181.122.234:8000/play/a03e/index.m3u8
+#EXTINF:-1 ,VENUS 🔞
+http://168.181.122.234:8000/play/a027/index.m3u8
