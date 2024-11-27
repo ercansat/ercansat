@@ -1,0 +1,419 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="TRT Haber" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="Haber Türk" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1  tvg-name="CNN Türk" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/149
+#EXTINF:-1  tvg-name="NTV" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/151
+#EXTINF:-1  tvg-name="A Haber" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/139
+#EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
+https://api1.canlitvplayer.com/haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1  tvg-name="Kanal 24" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1  tvg-name="TV 100" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
+https://api1.canlitvplayer.com/tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:-1  tvg-name="TGRT Haber" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1  tvg-name="KRT TV" tvg-id="Haber_KRTTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="Haber",KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TV
+https://api1.canlitvplayer.com/szctvdvr.blutv.com/blutv_szctv_dvr/live_480p1000000kbps/index.m3u8
+#EXTINF:-1  tvg-name="Halk TV" tvg-id="Haber_HalkTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Haber_BloombergHT" tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk" group-title="Haber",Bloomberg HT
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:-1  tvg-name="Star TV" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1  tvg-name="ATV" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
+https://tatatam.trt1sultanfatihss.workers.dev/https://hw1.jemtv.com/app/ATVHD/chunks.m3u8
+#EXTINF:-1  tvg-name="Now TV" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
+https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Show TV" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+#EXTINF:-1  tvg-name="TV 8" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://alpha.cf-worker-e9afe9d888f3992b.workers.dev/live/tv8/playlist.m3u8
+#EXTINF:-1  tvg-name="TV8.5 " tvg-logo="https://yt3.googleusercontent.com/-vaIq06Du-qfHHBi-NyA37lxaTCOYv3CBl093Hm42IetGFzWtDxZxs3MScfHCBczf26Ldlj2=s900-c-k-c0x00ffffff-no-rj" group-title="Genel",TV 8.5
+https://tatatam.trt1sultanfatihss.workers.dev/https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1  tvg-name="Kanal D" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1  tvg-name="Teve2" tvg-id="Genel_Teve2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="Genel",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1  tvg-name="TV 4" tvg-id="Genel_TV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="Genel",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_360p.m3u8
+#EXTINF:-1  tvg-name="Kanal 7" tvg-id="Genel_Kanal7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Genel",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1  tvg-name="Fashion TV" tvg-id="Genel_FashionTV" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Genel",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Fashion Film" tvg-id="Genel_FashionFilm" tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" group-title="Genel",Fashion Film
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT-Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TLC" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1  tvg-name="DMax" tvg-id="Belgesel_DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1  tvg-name="Bbc Earth [ HD ]" tvg-logo="https://i.hizliresim.com/5oxynyz.png" group-title="Belgesel",Bbc Earth [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/258
+#EXTINF:-1  tvg-name="Discovery Channel [ HD ]" tvg-logo="https://i.hizliresim.com/848h7ka.png" group-title="Belgesel",Discovery Channel [ HD ]
+https://lives.anystreamrectv3.live/live/discovery.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="National Geoprafic [ HD ]" tvg-logo="https://i.hizliresim.com/llrmfx3.png" group-title="Belgesel",National Geoprafic [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/286
+#EXTINF:-1  tvg-name="National Geoprafic Wild [ HD ]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Belgesel",National Geoprafic Wild [ HD ]
+https://lives.anystreamrectv3.live/live/natgeowild.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="beIN Gurme [ HD ]" tvg-logo="https://i.hizliresim.com/qlqk5fm.png" group-title="Belgesel",beIN Gurme [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/271
+#EXTINF:-1  tvg-name="Viasat History [ HD ]" tvg-logo="https://i.hizliresim.com/4b3cx0n.png" group-title="Belgesel",Viasat History [ HD ]
+https://lives.anystreamrectv3.live/live/viasathistory.m3u8?token=vCIq-C2bpJQpJA3ChjgpsA&tms=1730749183
+#EXTINF:-1  tvg-name="Love Nature [ HD ]" tvg-logo="https://i.hizliresim.com/adihb3b.png" group-title="Belgesel",Love Nature [ HD ]
+https://lives.anystreamrectv3.live/live/lovenature.m3u8?token=vCIq-C2bpJQpJA3ChjgpsA&tms=1730749183
+#EXTINF:-1  tvg-name="beIN IZ [ HD ]" tvg-logo="https://i.hizliresim.com/5es6vau.png" group-title="Belgesel",beIN IZ [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
+#EXTINF:-1  tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Belgesel",History Channel
+https://lives.anystreamrectv3.live/live/history.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Tarih TV " tvg-logo="https://yt3.googleusercontent.com/YzOSo8ALy6M5SaP9ofLQaNIqIgv9aYkkH4qMhMmi9CLfZrAfvqEL2ObnjOwsGEYEiLoXcWLKzg=s900-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Tarih TV
+https://lives.anystreamrectv3.live/live/tarihtv.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Dmax" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19" group-title="Belgesel",Dmax
+https://lives.anystreamrectv3.live/live/dmax.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Bein Movies Family " tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png" group-title="Sinema",Bein Movies Family
+https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Bein Movies Stars" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Movies_Stars_TR_logo.png?1630931265" group-title="Sinema",Bein Movies Stars
+https://lives.anystreamrectv3.live/live/bsstars.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Bein Movies Premier" tvg-logo="https://media0058.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies Premier
+https://lives.anystreamrectv3.live/live/bspremier1.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Bein Movies turk" tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png" group-title="Sinema",Bein Movies turk
+https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Epic Drama" tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png" group-title="Sinema",Epic Drama
+https://lives.anystreamrectv3.live/live/epicdrama.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj" group-title="Sinema ",Sinema TV
+https://lives.anystreamrectv3.live/live/sinema.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV 2" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645" group-title="Sinema ",Sinema TV 2
+https://lives.anystreamrectv3.live/live/sinema2.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV 1001" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s" group-title="Sinema ",Sinema TV 1001
+https://lives.anystreamrectv3.live/live/sinema1001.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV 1002" tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398" group-title="Sinema ",Sinema TV 1002
+https://lives.anystreamrectv3.live/live/sinema1002.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV Aksiyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s" group-title="Sinema ",Sinema TV Aksiyon
+https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV Komedi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s" group-title="Sinema ",Sinema TV Komedi
+https://lives.anystreamrectv3.live/live/sinemakomedi.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV Yerli" tvg-logo="https://i.ytimg.com/vi/fbetAjE1_KM/maxresdefault.jpg" group-title="Sinema ",Sinema TV Yerli
+https://lives.anystreamrectv3.live/live/sinemayerli.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="Sinema TV Aile" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema ",Sinema TV Aile
+https://lives.anystreamrectv3.live/live/sinemaaile.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1  tvg-name="FX " tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="Sinema",FX
+https://lives.anystreamrectv3.live/live/fx.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1  tvg-name="Sinema Mix " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbFdcji7WrIpDxqpJaU_jU-_T2ELO7oJdfQ&s" group-title="Sinema ",Sinema Mix
+https://lives.anystreamrectv3.live/live/mix2.m3u8?token=d2QQYe4RVrBz_zTXyqvZDA&tms=1731015064
+#EXTINF:-1  tvg-name="Sinema Aksiyon " tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png" group-title="Sinema ",Sinema Aksiyon
+https://lives.anystreamrectv3.live/live/aks1.m3u8?token=d2QQYe4RVrBz_zTXyqvZDA&tms=1731015064
+#EXTINF:-1  tvg-name="Sinema Animasyon " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5ToLxGwrhed7ICKQWDA-bkVb5mPgiGLFbA&s" group-title="Sinema  ",Sinema Animasyon
+https://lives.anystreamrectv3.live/live/anim1.m3u8?token=d2QQYe4RVrBz_zTXyqvZDA&tms=1731015064
+#EXTINF:-1  tvg-name="Meclis TV" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+#EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TRT Türk" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TRT Avaz" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TRT Kürdi" tvg-id="TRT_Kurdi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" group-title="TRT",TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TRT Arabi" tvg-id="TRT_Arabi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" group-title="TRT",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="Ulusal Kanal" tvg-id="Haber_UlusalKanal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" group-title="Haber",Ulusal Kanal
+https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+#EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="Belgesel_TGRT" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+#EXTINF:-1  tvg-name="A2" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="Genel",A2
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1  tvg-name="CNBC-e" tvg-id="Haber_CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="Genel",CNBC-e (Youtube)
+https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+#EXTINF:-1  tvg-name="Lalegül TV" tvg-id="Genel_LalegulTV" tvg-logo="https://pbs.twimg.com/profile_images/1310471094344781824/mHv5RJn5_400x400.png" group-title="Genel",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1  tvg-name="Life TV" tvg-id="Genel_LifeTV" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Genel",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1  tvg-name="Cine1" tvg-id="Genel_Cine1" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Genel",Cine1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1  tvg-name="CINE 5" tvg-id="Genel_CINE5" tvg-logo="https://imgrosetta.mynet.com.tr/file/2194387/728xauto.jpg" group-title="Genel",CINE 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Moviesmart Turk" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Turk
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/64828
+#EXTINF:-1  tvg-name="Sinema Korku " tvg-logo="https://img-s3.onedio.com/id-5d1b4daf5760d9223b9c6e05/rev-0/w-600/h-337/f-jpg/s-8cf0658528ae28f4205a84424b848da31c753338.jpg" group-title="Sinema  ",Sinema Korku
+https://lives.anystreamrectv3.live/live/kor1.m3u8?token=KD9sEi3opYjO9B-7O5zYgw&tms=1732221762
+#EXTINF:-1  tvg-name="Sinema Turk " tvg-logo="https://eudzr49nzcv.exactdn.com/wp-content/uploads/2018/03/E-Bursum-13.png?strip=all&lossy=1&ssl=1" group-title="Sinema  ",Sinema Turk
+https://lives.anystreamrectv3.live/live/yer1.m3u8?token=Px02j7Qn-H2qv4pNleHSQQ&tms=1732137728
+#EXTINF:-1  tvg-name="Sinema Star Wars " tvg-logo="https://www.emp-online.ch/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dwae6f1d97/108112_MT_Star_Wars_Dark_Side_NEU.jpg?sw=768" group-title="Sinema  ",Sinema Star Wars
+https://lives.anystreamrectv3.live/live/wars.m3u8?token=z9_KENRGG4PwTyDn6RhcdQ&tms=1732030442
+#EXTINF:-1  tvg-name="TR:BEIN BOX OFFICE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png" group-title="Sinema",TR:BEIN BOX OFFICE 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90481
+#EXTINF:-1  tvg-name="TR:BEIN BOX OFFICE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png" group-title="Sinema",TR:BEIN BOX OFFICE 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90482
+#EXTINF:-1  tvg-name="TR:BEIN BOX OFFICE 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinbxoffice3.png" group-title="Sinema",TR:BEIN BOX OFFICE 3 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90483
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beindrama.png" group-title="Sinema",TR:BEIN SERIES 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/92116
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beincomedy.png" group-title="Sinema",TR:BEIN SERIES 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/92115
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesvice.png" group-title="Sinema",TR:BEIN SERIES 3 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89267
+#EXTINF:-1  tvg-name="TR:BEIN SERIES 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesscfi.png" group-title="Sinema",TR:BEIN SERIES 4 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89266
+#EXTINF:-1  tvg-name="TR:BEIN MOVIES PREMIERE 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinmoviepremeire.png" group-title="Sinema",TR:BEIN MOVIES PREMIERE 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/90484
+#EXTINF:-1  tvg-name="TR:BEIN MOVIES PREMIERE 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/beinmoviepremier2.png" group-title="Sinema",TR:BEIN MOVIES PREMIERE 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89264
+#EXTINF:-1  tvg-name="TR:DIZISMART PREMIUM HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/dizismartpremium.png" group-title="Sinema",TR:DIZISMART PREMIUM HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89271
+#EXTINF:-1  tvg-name="TR:FILMBOX HD" tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/filmbox.png" group-title="Sinema",TR:FILMBOX HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89282
+#EXTINF:-1  tvg-name="TR:BLUTV PLAY 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay1.png" group-title="Sinema",TR:BLUTV PLAY 1 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89900
+#EXTINF:-1  tvg-name="TR:BLUTV PLAY 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/blutvplay2.png" group-title="Sinema",TR:BLUTV PLAY 2 HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89901
+#EXTINF:-1  tvg-name="TR:MOVIE GERILIM KORKU HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movilegerilimkorku.png" group-title="Sinema",TR:MOVIE GERILIM KORKU HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89280
+#EXTINF:-1  tvg-name="TR:MOVIE ANIMASYON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movieanimasyon.png" group-title="Sinema",TR:MOVIE ANIMASYON HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89281
+#EXTINF:-1  tvg-name="TR:MOVIE BILIM KURGU HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movilebilimkurgu.png" group-title="Sinema",TR:MOVIE BILIM KURGU HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89278
+#EXTINF:-1  tvg-name="TR:MOVIE COMEDY HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/moviecomdey.png" group-title="Sinema",TR:MOVIE COMEDY HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89275
+#EXTINF:-1  tvg-name="TR:MOVIE DRAMA ROMANTIK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/moviedramaromantik.png" group-title="Sinema",TR:MOVIE DRAMA ROMANTIK HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89279
+#EXTINF:-1  tvg-name="TR:MOVIE YERLI FILM HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/movieyerlifilm.png" group-title="Sinema",TR:MOVIE YERLI FILM HD
+http://tr.germanydns9.com:8080/abdullahkayasw/baYns2pp/89277
+#EXTINF:-1  tvg-name="|TR| TRT HABER HD" tvg-id="ext" group-title="redbox",|TR| TRT HABER HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84533&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| HALK TV" tvg-id="ext" group-title="redbox",|TR| HALK TV
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84534&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| TELE 1" tvg-id="ext" group-title="redbox",|TR| TELE 1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84535&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| KRT TV HD" tvg-id="ext" group-title="redbox",|TR| KRT TV HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84537&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| A HABER HD" tvg-id="ext" group-title="redbox",|TR| A HABER HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84538&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| CNN TURK HD" tvg-id="ext" group-title="redbox",|TR| CNN TURK HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84539&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| HABERTURK HD" tvg-id="ext" group-title="redbox",|TR| HABERTURK HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84540&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| HABER GLOBAL HD" tvg-id="ext" group-title="redbox",|TR| HABER GLOBAL HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84541&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| ARTI TV" tvg-id="ext" group-title="redbox",|TR| ARTI TV
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84543&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| CNN TURK " tvg-id="ext" group-title="redbox",|TR| CNN TURK
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84544&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| ULUSAL KANAL" tvg-id="ext" group-title="redbox",|TR| ULUSAL KANAL
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84545&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| 24 TV HD" tvg-id="ext" group-title="redbox",|TR| 24 TV HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84549&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| T R  B E L G E S E L" tvg-id="ext" group-title="redbox",|TR| T R  B E L G E S E L
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84577&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| TLC TURKEY" tvg-id="ext" group-title="redbox",|TR| TLC TURKEY
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84580&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| BBC EARTH HD TR" tvg-id="ext" group-title="redbox",|TR| BBC EARTH HD TR
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84583&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| DISCOVERY SIENCE HD" tvg-id="ext" group-title="redbox",|TR| DISCOVERY SIENCE HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84585&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| NAT GEO WILD HD" tvg-id="ext" group-title="redbox",|TR| NAT GEO WILD HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84588&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| NAT GEO HD" tvg-id="ext" group-title="redbox",|TR| NAT GEO HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84589&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| VIASAT NATURE/HISTORY  HD" tvg-id="ext" group-title="redbox",|TR| VIASAT NATURE/HISTORY  HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84591&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| LOVE NATURE HD" tvg-id="ext" group-title="redbox",|TR| LOVE NATURE HD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84592&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| TRT BELGESEL HD 1080P" tvg-id="ext" group-title="redbox",|TR| TRT BELGESEL HD 1080P
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84593&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| ANIMAL PLANET TR" tvg-id="ext" group-title="redbox",|TR| ANIMAL PLANET TR
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84595&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| MOVIE SMART FAMILY HD (LIVE)" tvg-id="ext" group-title="redbox",|TR| MOVIE SMART FAMILY HD (LIVE)
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84864&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| MOVIE SMART PREMIUM 2 HD (LIVE)" tvg-id="ext" group-title="redbox",|TR| MOVIE SMART PREMIUM 2 HD (LIVE)
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84866&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| MOVIE SMART PREMIUM HD (LIVE)" tvg-id="ext" group-title="redbox",|TR| MOVIE SMART PREMIUM HD (LIVE)
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84867&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| MOVIE SMART TURK HD (LIVE)" tvg-id="ext" group-title="redbox",|TR| MOVIE SMART TURK HD (LIVE)
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84868&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX VIZYON 1" tvg-id="ext" group-title="redbox",|TR| REDBOX VIZYON 1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84910&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KONUSANLAR" tvg-id="ext" group-title="redbox",|TR| REDBOX KONUSANLAR
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84917&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX  SQUID GAME" tvg-id="ext" group-title="redbox",|TR| REDBOX  SQUID GAME
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84918&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR|    R E D B O X  V I P  C I N E M A " tvg-id="ext" group-title="redbox",|TR|    R E D B O X  V I P  C I N E M A
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84993&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX 4K UHD" tvg-id="ext" group-title="redbox",|TR| REDBOX 4K UHD
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84995&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX THRILLER 2" tvg-id="ext" group-title="redbox",|TR| REDBOX THRILLER 2
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84997&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX THRILLER 3" tvg-id="ext" group-title="redbox",|TR| REDBOX THRILLER 3
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84998&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX TEKEN FILM" tvg-id="ext" group-title="redbox",|TR| REDBOX TEKEN FILM
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=84999&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX ANIMATIE 3" tvg-id="ext" group-title="redbox",|TR| REDBOX ANIMATIE 3
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85000&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX ANIMATIE 1" tvg-id="ext" group-title="redbox",|TR| REDBOX ANIMATIE 1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85001&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX ANIMATIE 2" tvg-id="ext" group-title="redbox",|TR| REDBOX ANIMATIE 2
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85002&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX SCI FI 1" tvg-id="ext" group-title="redbox",|TR| REDBOX SCI FI 1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85003&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX DOCU" tvg-id="ext" group-title="redbox",|TR| REDBOX DOCU
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85005&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KOMEDIE 1" tvg-id="ext" group-title="redbox",|TR| REDBOX KOMEDIE 1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85009&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KOMEDIE 2" tvg-id="ext" group-title="redbox",|TR| REDBOX KOMEDIE 2
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85010&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX HORROR 1" tvg-id="ext" group-title="redbox",|TR| REDBOX HORROR 1
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85011&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX ACTIE 2" tvg-id="ext" group-title="redbox",|TR| REDBOX ACTIE 2
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85014&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX ACTIE 3" tvg-id="ext" group-title="redbox",|TR| REDBOX ACTIE 3
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85015&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX CABARET" tvg-id="ext" group-title="redbox",|TR| REDBOX CABARET
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85016&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX CONCERT" tvg-id="ext" group-title="redbox",|TR| REDBOX CONCERT
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85017&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX SHAUN THE SHEEP" tvg-id="ext" group-title="redbox",|TR| REDBOX SHAUN THE SHEEP
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85018&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 3" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 3
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85025&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 4" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 4
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85026&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 5" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 5
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85027&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 7" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 7
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85029&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 8" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 8
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85030&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 10" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 10
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85032&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 11" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 11
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85033&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 12" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 12
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85034&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 13" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 13
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85035&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 14" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 14
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85036&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 15" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 15
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85037&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 18" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 18
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85040&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 19" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 19
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85041&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 20" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 20
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85042&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO MARVEL" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO MARVEL
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85044&t=live&f=ts
+#EXTINF:-1  tvg-name="|TR| REDBOX KINO 007" tvg-id="ext" group-title="redbox",|TR| REDBOX KINO 007
+http://9d3dd09ce8bb421b4490ecdecad5e8e8.pw.riondi.me/live/s.php?z=111&u=JZ606011034U40M&s=046113611000161&id=85045&t=live&f=ts
+#EXTINF:-1  tvg-name="360tv" group-title="BluTV Kanalları",360tv
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+#EXTINF:-1  tvg-name="360tv DVR" group-title="BluTV Kanalları",360tv DVR
+https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
+#EXTINF:-1  tvg-name="agrotv" group-title="BluTV Kanalları",agrotv
+https://agrotv.blutv.com/blutv_agrotv/blutv_agrotv/playlist.m3u8
+#EXTINF:-1  tvg-name="beyaztv" group-title="BluTV Kanalları",beyaztv
+https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
+#EXTINF:-1  tvg-name="beyaztv DVR" group-title="BluTV Kanalları",beyaztv DVR
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+#EXTINF:-1  tvg-name="bloomberght DVR" group-title="BluTV Kanalları",bloomberght DVR
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:-1  tvg-name="bloomberght2" group-title="BluTV Kanalları",bloomberght2
+https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1  tvg-name="cartoonnetwork" group-title="BluTV Kanalları",cartoonnetwork
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:-1  tvg-name="cnnint" group-title="BluTV Kanalları",cnnint
+https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="discovery" group-title="BluTV Kanalları",discovery
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="discoveryid" group-title="BluTV Kanalları",discoveryid
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="dmax DVR" group-title="BluTV Kanalları",dmax DVR
+https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
+#EXTINF:-1  tvg-name="dmax2" group-title="BluTV Kanalları",dmax2
+https://dmax.blutv.com/blutv_dmax2/live.m3u8
+#EXTINF:-1  tvg-name="ekoturk DVR" group-title="BluTV Kanalları",ekoturk DVR
+https://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live.m3u8
+#EXTINF:-1  tvg-name="ekoturk2" group-title="BluTV Kanalları",ekoturk2
+https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
+#EXTINF:-1  tvg-name="eurosport2" group-title="BluTV Kanalları",eurosport2
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="flashtv" group-title="BluTV Kanalları",flashtv
+https://flashtv.blutv.com/blutv_flashtv/live.m3u8
+#EXTINF:-1  tvg-name="flashtv DVR" group-title="BluTV Kanalları",flashtv DVR
+https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live.m3u8
+#EXTINF:-1  tvg-name="haberturk" group-title="BluTV Kanalları",haberturk
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1  tvg-name="haberturk DVR" group-title="BluTV Kanalları",haberturk DVR
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
+#EXTINF:-1  tvg-name="halktv" group-title="BluTV Kanalları",halktv
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1  tvg-name="halktv2 DVR" group-title="BluTV Kanalları",halktv2 DVR
+https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
+#EXTINF:-1  tvg-name="kanal24" group-title="BluTV Kanalları",kanal24
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:-1  tvg-name="kanal24 DVR" group-title="BluTV Kanalları",kanal24 DVR
+https://kanal24dvr.blutv.com/blutv_kanal24_dvr/live.m3u8
+#EXTINF:-1  tvg-name="kanal7" group-title="BluTV Kanalları",kanal7
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1  tvg-name="kanal7 DVR" group-title="BluTV Kanalları",kanal7 DVR
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+#EXTINF:-1  tvg-name="krt" group-title="BluTV Kanalları",krt
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1  tvg-name="krt DVR" group-title="BluTV Kanalları",krt DVR
+https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
+#EXTINF:-1  tvg-name="n1" group-title="BluTV Kanalları",n1
+https://nr1.blutv.com/blutv_n1/blutv_n1/playlist.m3u8
+#EXTINF:-1  tvg-name="n1turk" group-title="BluTV Kanalları",n1turk
+https://nr1turk.blutv.com/blutv_n1turk/live.m3u8
+#EXTINF:-1  tvg-name="play1" group-title="BluTV Kanalları",play1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="play2" group-title="BluTV Kanalları",play2
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8?DVR","drm":false,"hevc":false}]},{"type":"channel","category":"Discovery+ Kanalları","id":"608d59f5866ac31c0c351a76","channelId":"66","title":"EUROSPORT1","url":"/canli-yayin/eurosport1-izle","logo":"66ab7a22866ac318108e1f6d","order":3,"isFree":false,"mediaUrl":[{"url":"https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="sportstv2" group-title="BluTV Kanalları",sportstv2
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
+#EXTINF:-1  tvg-name="szctv" group-title="BluTV Kanalları",szctv
+https://szctv.blutv.com/blutv_szctv/live.m3u8
+#EXTINF:-1  tvg-name="szctv DVR" group-title="BluTV Kanalları",szctv DVR
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+#EXTINF:-1  tvg-name="tele1" group-title="BluTV Kanalları",tele1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1  tvg-name="tele1 DVR" group-title="BluTV Kanalları",tele1 DVR
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+#EXTINF:-1  tvg-name="tgrthaber2" group-title="BluTV Kanalları",tgrthaber2
+https://tgrthaber.blutv.com/blutv_tgrthaber2/live.m3u8
+#EXTINF:-1  tvg-name="tgrthaber2 DVR" group-title="BluTV Kanalları",tgrthaber2 DVR
+https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live.m3u8
+#EXTINF:-1  tvg-name="tlc" group-title="BluTV Kanalları",tlc
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:-1  tvg-name="tlc DVR" group-title="BluTV Kanalları",tlc DVR
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+#EXTINF:-1  tvg-name="tv100" group-title="BluTV Kanalları",tv100
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+#EXTINF:-1  tvg-name="tv1002 DVR" group-title="BluTV Kanalları",tv1002 DVR
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
+#EXTINF:-1  tvg-name="tv4" group-title="BluTV Kanalları",tv4
+https://tv4.blutv.com/blutv_tv4/live.m3u8
+#EXTINF:-1  tvg-name="tv4 DVR" group-title="BluTV Kanalları",tv4 DVR
+https://tv4dvr.blutv.com/blutv_tv4_dvr/live.m3u8
+#EXTINF:-1  tvg-name="ulketv2" group-title="BluTV Kanalları",ulketv2
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1  tvg-name="ulusalkanal" group-title="BluTV Kanalları",ulusalkanal
+https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/playlist.m3u8
+#EXTINF:-1  tvg-name="vuslattv2" group-title="BluTV Kanalları",vuslattv2
+https://vuslattv.blutv.com/blutv_vuslattv2/live.m3u8
+#EXTINF:-1  tvg-name="womantv" group-title="BluTV Kanalları",womantv
+https://womantv.blutv.com/blutv_womantv/smil:blutv_womantv.smil/playlist.m3u8
