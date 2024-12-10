@@ -1,0 +1,283 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="Action Hollywood Movies (Australia)" tvg-id="ext" group-title="australia",Action Hollywood Movies (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Alien Nation by Dust (Australia)" tvg-id="ext" group-title="australia",Alien Nation by Dust (Australia)
+http://gunpowder-dust-intl-samsung-au-xu3pn.amagi.tv/playlist/gunpowder-dust-intl-samsung-au/playlist.m3u8
+#EXTINF:-1  tvg-name="Anger Management (Australia)" tvg-id="ext" group-title="australia",Anger Management (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Aus Biz TV (Australia)" tvg-id="ext" group-title="australia",Aus Biz TV (Australia)
+https://ausbiztv-ausbiz-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Axmen (Australia)" tvg-id="ext" group-title="australia",Axmen (Australia)
+https://d3u3kiq48rpwlx.cloudfront.net/v1/aenetworks_axmen_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1  tvg-name="Baywatch (Australia)" tvg-id="ext" group-title="australia",Baywatch (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="beIN Sports" tvg-id="ext" group-title="australia",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1  tvg-name="BET Gospel" tvg-id="ext" group-title="australia",BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1  tvg-name="BET Soul" tvg-id="ext" group-title="australia",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1  tvg-name="Bloomberg Originals (Australia)" tvg-id="ext" group-title="australia",Bloomberg Originals (Australia)
+https://bloomberg-quicktake-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Bloomberg TV (Australia)" tvg-id="ext" group-title="australia",Bloomberg TV (Australia)
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Bondi Vet (Australia)" tvg-id="ext" group-title="australia",Bondi Vet (Australia)
+https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Bounce" tvg-id="ext" group-title="australia",Bounce
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1  tvg-name="Breaking News by LeadStory (Australia)" tvg-id="ext" group-title="australia",Breaking News by LeadStory (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Caillou (Australia)" tvg-id="ext" group-title="australia",Caillou (Australia)
+https://d3jm6503vvwy1p.cloudfront.net/Caillou_US.m3u8
+#EXTINF:-1  tvg-name="Car City Adventures (Australia)" tvg-id="ext" group-title="australia",Car City Adventures (Australia)
+https://d2509zmfc5zmey.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="Cartoon Network / [�d�l� swim]" tvg-id="ext" group-title="australia",Cartoon Network / [�d�l� swim]
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="CBS Sports Network" tvg-id="ext" group-title="australia",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="ChopperTown (Australia)" tvg-id="ext" group-title="australia",ChopperTown (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_choppertown_001.m3u8
+#EXTINF:-1  tvg-name="Clubbing TV (Australia)" tvg-id="ext" group-title="australia",Clubbing TV (Australia)
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Conan OBrien TV (Australia)" tvg-id="ext" group-title="australia",Conan OBrien TV (Australia)
+https://d1di0xodeo3g8i.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="Cricket Gold (Australia) Test stream via Stirr source" tvg-id="ext" group-title="australia",Cricket Gold (Australia) Test stream via Stirr source
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1  tvg-name="Cricket Gold (Australia) Test stream via Youtube" tvg-id="ext" group-title="australia",Cricket Gold (Australia) Test stream via Youtube
+https://ythls-v3.onrender.com/video/CeAgx48qQ3M.m3u8
+#EXTINF:-1  tvg-name="Cricket Gold (Australia) via plex source" tvg-id="ext" group-title="australia",Cricket Gold (Australia) via plex source
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1  tvg-name="Deal or no Deal (Australia)" tvg-id="ext" group-title="australia",Deal or no Deal (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Discovery Life" tvg-id="ext" group-title="australia",Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1  tvg-name="DisneyJr East" tvg-id="ext" group-title="australia",DisneyJr East
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1  tvg-name="Dog the Bounty Hunter (Australia)" tvg-id="ext" group-title="australia",Dog the Bounty Hunter (Australia)
+https://d3rp50rz5j7gy5.cloudfront.net/DogTheBountyHunter_US.m3u8
+#EXTINF:-1  tvg-name="Dont Tell The Bride (Substitute via Plex)" tvg-id="ext" group-title="australia",Dont Tell The Bride (Substitute via Plex)
+https://amg00426-littledotstudio-donttellbride-plex-21080.amagi.tv/playlist/amg00426-littledotstudio-donttellbride-plex/playlist.m3u8
+#EXTINF:-1  tvg-name="Dr G Medical Examiner (Australia)" tvg-id="ext" group-title="australia",Dr G Medical Examiner (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_drgmedicalexaminer_002.m3u8
+#EXTINF:-1  tvg-name="Dry Bar Comedy (Australia)" tvg-id="ext" group-title="australia",Dry Bar Comedy (Australia)
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Duck Dynasty (Australia)" tvg-id="ext" group-title="australia",Duck Dynasty (Australia)
+https://d2wxbkuzb50ufu.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="Duck TV (Australia)" tvg-id="ext" group-title="australia",Duck TV (Australia)
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="Entertainment Hub (Australia)" tvg-id="ext" group-title="australia",Entertainment Hub (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="EPIX East" tvg-id="ext" group-title="australia",EPIX East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1  tvg-name="EPIX Hits" tvg-id="ext" group-title="australia",EPIX Hits
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1  tvg-name="ESPN2" tvg-id="ext" group-title="australia",ESPN2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1  tvg-name="ESPNU" tvg-id="ext" group-title="australia",ESPNU
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1  tvg-name="Euronews World (Australia)" tvg-id="ext" group-title="australia",Euronews World (Australia)
+https://euronews-euronews-world-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Failarmy (Australia)" tvg-id="ext" group-title="australia",Failarmy (Australia)
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Fear Factor (Australia)" tvg-id="ext" group-title="australia",Fear Factor (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Filmstream (Australia)" tvg-id="ext" group-title="australia",Filmstream (Australia)
+https://spi-filmstream-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Fireplace 4K (Australia)" tvg-id="ext" group-title="australia",Fireplace 4K (Australia)
+https://d22w22d3eu3t35.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="Four in a Bed (Australia)" tvg-id="ext" group-title="australia",Four in a Bed (Australia)
+https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="FOX Sports 1 (FS1)" tvg-id="ext" group-title="australia",FOX Sports 1 (FS1)
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1  tvg-name="Fuel TV (Australia)" tvg-id="ext" group-title="australia",Fuel TV (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="FXX East" tvg-id="ext" group-title="australia",FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1  tvg-name="Gusto TV (Australia)" tvg-id="ext" group-title="australia",Gusto TV (Australia)
+https://gustotv-samsung-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Hallmark Drama" tvg-id="ext" group-title="australia",Hallmark Drama
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1  tvg-name="Haunt TV (Australia)" tvg-id="ext" group-title="australia",Haunt TV (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="HBO Family East" tvg-id="ext" group-title="australia",HBO Family East
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1  tvg-name="HBO2 East" tvg-id="ext" group-title="australia",HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1  tvg-name="HGTV East" tvg-id="ext" group-title="australia",HGTV East
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1  tvg-name="History Hit Channel (Australia)" tvg-id="ext" group-title="australia",History Hit Channel (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Homes under the Hammer (Australia)" tvg-id="ext" group-title="australia",Homes under the Hammer (Australia)
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Horse and Country (Australia)" tvg-id="ext" group-title="australia",Horse and Country (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-hnc-free-samsung-au/playlist.m3u8
+#EXTINF:-1  tvg-name="Hot Ones (Australia)" tvg-id="ext" group-title="australia",Hot Ones (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_hotones_002.m3u8
+#EXTINF:-1  tvg-name="ID (Investigation Discovery)" tvg-id="ext" group-title="australia",ID (Investigation Discovery)
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1  tvg-name="INFAST (Australia)" tvg-id="ext" group-title="australia",INFAST (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Intervention by AE (US feed)" tvg-id="ext" group-title="australia",Intervention by AE (US feed)
+https://d1fgpy58dwnjlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9ovuuxeo5r512/playlist.m3u8
+#EXTINF:-1  tvg-name="INTROUBLE (Australia)" tvg-id="ext" group-title="australia",INTROUBLE (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-introuble-samsungtv-au/playlist.m3u8
+#EXTINF:-1  tvg-name="INWILD (Australia)" tvg-id="ext" group-title="australia",INWILD (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="INWONDER (Australia)" tvg-id="ext" group-title="australia",INWONDER (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Kartoon Channel (Australia)" tvg-id="ext" group-title="australia",Kartoon Channel (Australia)
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Kidoodle.TV (Australia)" tvg-id="ext" group-title="australia",Kidoodle.TV (Australia)
+https://kidoodle-tv-kidoodletv-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Laff TV" tvg-id="ext" group-title="australia",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1  tvg-name="Life Downunder (Australia)" tvg-id="ext" group-title="australia",Life Downunder (Australia)
+https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Lifetime Movie Network" tvg-id="ext" group-title="australia",Lifetime Movie Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="Little Women L.A by Lifetime (US feed)" tvg-id="ext" group-title="australia",Little Women L.A by Lifetime (US feed)
+https://d3uuxmvz9qi6a1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2322wi60v1e15/playlist.m3u8
+#EXTINF:-1  tvg-name="MLB Network" tvg-id="ext" group-title="australia",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="Modern Marvels (Australia)" tvg-id="ext" group-title="australia",Modern Marvels (Australia)
+https://d36h0wr022ecx.cloudfront.net/v1/aenetworks_modernmarvels_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1  tvg-name="Motorsport.TV (Australia)" tvg-id="ext" group-title="australia",Motorsport.TV (Australia)
+https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8
+#EXTINF:-1  tvg-name="MovieSphere (Australia)" tvg-id="ext" group-title="australia",MovieSphere (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="MTRSPT 1 (Australia)" tvg-id="ext" group-title="australia",MTRSPT 1 (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="MTV Live" tvg-id="ext" group-title="australia",MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1  tvg-name="MTV2 East" tvg-id="ext" group-title="australia",MTV2 East
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1  tvg-name="Mytime Movie Network (Australia)" tvg-id="ext" group-title="australia",Mytime Movie Network (Australia)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Naturetime (Australia)" tvg-id="ext" group-title="australia",Naturetime (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="ext" group-title="australia",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1  tvg-name="NBC Golf" tvg-id="ext" group-title="australia",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1  tvg-name="NFL Network" tvg-id="ext" group-title="australia",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="Nickelodeon East" tvg-id="ext" group-title="australia",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-name="OWN (Oprah Winfrey Network)" tvg-id="ext" group-title="australia",OWN (Oprah Winfrey Network)
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1  tvg-name="Oxygen East" tvg-id="ext" group-title="australia",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1  tvg-name="PBS Kids (Australia)" tvg-id="ext" group-title="australia",PBS Kids (Australia)
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+#EXTINF:-1  tvg-name="People Are Awesome (Australia)" tvg-id="ext" group-title="australia",People Are Awesome (Australia)
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Pet Club TV (Australia)" tvg-id="ext" group-title="australia",Pet Club TV (Australia)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="PGA Tour (Australia)" tvg-id="ext" group-title="australia",PGA Tour (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_pgatour_001.m3u8
+#EXTINF:-1  tvg-name="PowerNation (Australia)" tvg-id="ext" group-title="australia",PowerNation (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Pulse (Australia)" tvg-id="ext" group-title="australia",Pulse (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Qwest TV Jazz and Beyond (Australia)" tvg-id="ext" group-title="australia",Qwest TV Jazz and Beyond (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1  tvg-name="RCM (Australia)" tvg-id="ext" group-title="australia",RCM (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungau-rialtosamsungaustralia/playlist.m3u8
+#EXTINF:-1  tvg-name="Red Bull TV (Australia)" tvg-id="ext" group-title="australia",Red Bull TV (Australia)
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="ReelzChannel" tvg-id="ext" group-title="australia",ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1  tvg-name="Ryan and Friends (Australia)" tvg-id="ext" group-title="australia",Ryan and Friends (Australia)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="SEC Network" tvg-id="ext" group-title="australia",SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1  tvg-name="Showtime Next East" tvg-id="ext" group-title="australia",Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1  tvg-name="Sky News Now (Australia)" tvg-id="ext" group-title="australia",Sky News Now (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Sonic the Hedgehog (Substitute)" tvg-id="ext" group-title="australia",Sonic the Hedgehog (Substitute)
+https://d36joy6bh8xxe2.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="Starz Comedy East" tvg-id="ext" group-title="australia",Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1  tvg-name="Starz Encore East" tvg-id="ext" group-title="australia",Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1  tvg-name="Stingray Holidayscapes (Australia)" tvg-id="ext" group-title="australia",Stingray Holidayscapes (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_stingrayholidayscapes_001.m3u8
+#EXTINF:-1  tvg-name="Stingray Holidayscapes alt (Australia)" tvg-id="ext" group-title="australia",Stingray Holidayscapes alt (Australia)
+https://dd7oxfzdj1tsm.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Naturescape (Australia)" tvg-id="ext" group-title="australia",Stingray Naturescape (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_stingraynaturescape_001.m3u8
+#EXTINF:-1  tvg-name="Strawberry Shortcake (Substitute)" tvg-id="ext" group-title="australia",Strawberry Shortcake (Substitute)
+https://d3kuzudxjuzgkx.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="Surfer (Australia)" tvg-id="ext" group-title="australia",Surfer (Australia)
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="SYFY East" tvg-id="ext" group-title="australia",SYFY East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1  tvg-name="Tastemade International (Australia)" tvg-id="ext" group-title="australia",Tastemade International (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="TCM (Turner Classic Movies) East" tvg-id="ext" group-title="australia",TCM (Turner Classic Movies) East
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1  tvg-name="Ted (Australia)" tvg-id="ext" group-title="australia",Ted (Australia)
+https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="TeleTubbies (Australia)" tvg-id="ext" group-title="australia",TeleTubbies (Australia)
+https://d1mxjtebmoshcc.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="The Archive (Australia)" tvg-id="ext" group-title="australia",The Archive (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_thearchive_002.m3u8
+#EXTINF:-1  tvg-name="The Asylum (Australia)" tvg-id="ext" group-title="australia",The Asylum (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_theasylum.m3u8
+#EXTINF:-1  tvg-name="The Biggest Loser (Australia)" tvg-id="ext" group-title="australia",The Biggest Loser (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestloser-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="The Chatshow Channel (AU)" tvg-id="ext" group-title="australia",The Chatshow Channel (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="The Design Network (Australia)" tvg-id="ext" group-title="australia",The Design Network (Australia)
+https://thedesignnetwork-tdn-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="The Pet Collective (Australia)" tvg-id="ext" group-title="australia",The Pet Collective (Australia)
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="The Wicked Tuna Channel (Australia)" tvg-id="ext" group-title="australia",The Wicked Tuna Channel (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Tiny House Nation (Australia)" tvg-id="ext" group-title="australia",Tiny House Nation (Australia)
+https://d3lp0uiwm2m57l.cloudfront.net/v1/aenetworks_tinyhousenation_2/samsungheadend_ca/latest/main/hls/playlist.m3u8
+#EXTINF:-1  tvg-name="TLC (The Learning Channel) East" tvg-id="ext" group-title="australia",TLC (The Learning Channel) East
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1  tvg-name="Toon Goggles (Australia)" tvg-id="ext" group-title="australia",Toon Goggles (Australia)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Trace Sport Stars (Australia)" tvg-id="ext" group-title="australia",Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Trace Urban (Australia)" tvg-id="ext" group-title="australia",Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Travel XP (Australia)" tvg-id="ext" group-title="australia",Travel XP (Australia)
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="truTV East" tvg-id="ext" group-title="australia",truTV East
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1  tvg-name="TVOne" tvg-id="ext" group-title="australia",TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1  tvg-name="Unsolved Mysteries (Australia)" tvg-id="ext" group-title="australia",Unsolved Mysteries (Australia)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_unsolvedmysteries_002.m3u8
+#EXTINF:-1  tvg-name="Vevo 2K (Australia)" tvg-id="ext" group-title="australia",Vevo 2K (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo 70s (Australia)" tvg-id="ext" group-title="australia",Vevo 70s (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo 80s (Australia)" tvg-id="ext" group-title="australia",Vevo 80s (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo 90s (Australia)" tvg-id="ext" group-title="australia",Vevo 90s (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo Christmas (Australia)" tvg-id="ext" group-title="australia",Vevo Christmas (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo Country (Australia)" tvg-id="ext" group-title="australia",Vevo Country (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo Pop (Australia)" tvg-id="ext" group-title="australia",Vevo Pop (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Vevo Retro Rock (Australia)" tvg-id="ext" group-title="australia",Vevo Retro Rock (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="WaterBear (Australia)" tvg-id="ext" group-title="australia",WaterBear (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Weather Channel" tvg-id="ext" group-title="australia",Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1  tvg-name="Weather Spy (Australia)" tvg-id="ext" group-title="australia",Weather Spy (Australia)
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Wipeout Xtra (Australia)" tvg-id="ext" group-title="australia",Wipeout Xtra (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="Wonder (Australia)" tvg-id="ext" group-title="australia",Wonder (Australia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-name="YES Network" tvg-id="ext" group-title="australia",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
