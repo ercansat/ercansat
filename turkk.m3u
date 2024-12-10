@@ -382,7 +382,7 @@ https://nr1turk.blutv.com/blutv_n1turk/live.m3u8
 #EXTINF:-1  tvg-name="play1" group-title="BluTV Kanalları",play1
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="play2" group-title="BluTV Kanalları",play2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8?DVR","drm":false,"hevc":false}]},{"type":"channel","category":"Discovery+ Kanalları","id":"608d59f5866ac31c0c351a76","channelId":"66","title":"EUROSPORT1","url":"/canli-yayin/eurosport1-izle","logo":"66ab7a22866ac318108e1f6d","order":3,"isFree":false,"mediaUrl":[{"url":"https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="sportstv2" group-title="BluTV Kanalları",sportstv2
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1  tvg-name="szctv" group-title="BluTV Kanalları",szctv
