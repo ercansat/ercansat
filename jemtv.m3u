@@ -1,0 +1,67 @@
+﻿#EXTM3U
+#EXTINF:-1 ,TRT 1
+http://hw1.jemtv.com/app/trt1/playlist.m3u8
+#EXTINF:-1 ,TRT 2
+http://hw1.jemtv.com/app/trt2/playlist.m3u8
+#EXTINF:-1 ,KANAL D
+http://hw1.jemtv.com/app/KanalD/playlist.m3u8
+#EXTINF:-1 ,TV 8
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
+#EXTINF:-1 ,ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:-1 ,STAR
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+#EXTINF:-1 ,SHOW
+http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+#EXTINF:-1 ,FOX
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+#EXTINF:-1 ,BEYAZ TV
+http://hw1.jemtv.com/app/beyaz/playlist.m3u8
+#EXTINF:-1 ,360 TV
+http://hw1.jemtv.com/app/360tv/playlist.m3u8
+#EXTINF:-1 ,TLC HD
+http://hw1.jemtv.com/app/tlchd/playlist.m3u8
+#EXTINF:-1 ,DMAX
+http://hw1.jemtv.com/app/Dmax/playlist.m3u8
+#EXTINF:-1 ,TRT HABER
+http://hw1.jemtv.com/app/trthaber/playlist.m3u8
+#EXTINF:-1 ,HABERTURK
+http://hw1.jemtv.com/app/haberturk/playlist.m3u8
+#EXTINF:-1 ,NTV
+http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8
+#EXTINF:-1 ,KRT HD
+http://hw1.jemtv.com/app/krt/playlist.m3u8
+#EXTINF:-1 ,CNNTURK
+http://hw1.jemtv.com/app/cnnturk/playlist.m3u8
+#EXTINF:-1 ,HALK TV
+http://hw1.jemtv.com/app/halktv/playlist.m3u8
+#EXTINF:-1 ,sozcu2
+https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+#EXTINF:-1 ,TV 100
+http://hw1.jemtv.com/app/tv100/playlist.m3u8
+#EXTINF:-1 ,ULKE TV
+http://hw1.jemtv.com/app/ulketv/playlist.m3u8
+#EXTINF:-1 ,TELE 1
+http://hw1.jemtv.com/app/tele1/playlist.m3u8
+#EXTINF:-1 ,aHABER HD
+http://hw1.jemtv.com/app/AHaber/playlist.m3u8
+#EXTINF:-1 ,AKİT
+http://hw1.jemtv.com/app/akittv/playlist.m3u8
+#EXTINF:-1 ,TV 5
+http://hw1.jemtv.com/app/tv5/playlist.m3u8
+#EXTINF:-1 ,KANAL B
+http://hw1.jemtv.com/app/kanalB/playlist.m3u8
+#EXTINF:-1 ,TRT TURK
+http://hw2.jemtv.com/app/10062.stream/playlist.m3u8
+#EXTINF:-1 ,BLOOMBERG HT
+http://hw1.jemtv.com/app/bloomberght/playlist.m3u8
+#EXTINF:-1 ,KANAL 26
+http://hw1.jemtv.com/app/kanal26/playlist.m3u8
+#EXTINF:-1 ,ANEWS HD
+http://hw1.jemtv.com/app/anewshd/playlist.m3u8
+#EXTINF:-1 ,MEDYA HABER
+http://hw1.jemtv.com/app/medyahaber/playlist.m3u8
+#EXTINF:-1 ,TRT MUZIK
+http://hw2.jemtv.com/app/10063.stream/playlist.m3u8
+#EXTINF:-1 ,NR1 TURK HD
+http://hw1.jemtv.com/app/NR1/playlist.m3u8
