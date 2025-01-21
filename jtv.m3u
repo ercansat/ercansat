@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>IPTV Player</title><link type="text/css" rel="stylesheet" href="player.min.css" media="all"><link rel="icon" type="image/png" href="/play-on.png"></head><body><div id="playlist"></div><div id="player"></div><script src="/js/jwplayer.js"></script><script src="player.js"></script></body></html>
