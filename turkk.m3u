@@ -6,7 +6,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
 #EXTINF:-1  tvg-name="NTV" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1  tvg-name="Kanal 24" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
@@ -49,53 +49,3 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="TRT Avaz" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  tvg-name="bloomberght DVR" group-title="BluTV Kanalları",bloomberght DVR
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
-#EXTINF:-1  tvg-name="bloomberght2" group-title="BluTV Kanalları",bloomberght2
-https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
-#EXTINF:-1  tvg-name="cartoonnetwork" group-title="BluTV Kanalları",cartoonnetwork
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
-#EXTINF:-1  tvg-name="cnnint" group-title="BluTV Kanalları",cnnint
-https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="discovery" group-title="BluTV Kanalları",discovery
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="dmax2" group-title="BluTV Kanalları",dmax2
-https://dmax.blutv.com/blutv_dmax2/live.m3u8
-#EXTINF:-1  tvg-name="ekoturk DVR" group-title="BluTV Kanalları",ekoturk DVR
-https://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live.m3u8
-#EXTINF:-1  tvg-name="ekoturk2" group-title="BluTV Kanalları",ekoturk2
-https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
-#EXTINF:-1  tvg-name="eurosport2" group-title="BluTV Kanalları",eurosport2
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="haberturk" group-title="BluTV Kanalları",haberturk
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-#EXTINF:-1  tvg-name="halktv2 DVR" group-title="BluTV Kanalları",halktv2 DVR
-https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
-#EXTINF:-1  tvg-name="krt" group-title="BluTV Kanalları",krt
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1  tvg-name="krt DVR" group-title="BluTV Kanalları",krt DVR
-https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8
-#EXTINF:-1  tvg-name="play1" group-title="BluTV Kanalları",play1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="szctv" group-title="BluTV Kanalları",szctv
-https://szctv.blutv.com/blutv_szctv/live.m3u8
-#EXTINF:-1  tvg-name="szctv DVR" group-title="BluTV Kanalları",szctv DVR
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
-#EXTINF:-1  tvg-name="tele1" group-title="BluTV Kanalları",tele1
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:-1  tvg-name="tele1 DVR" group-title="BluTV Kanalları",tele1 DVR
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
-#EXTINF:-1  tvg-name="tlc" group-title="BluTV Kanalları",tlc
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-#EXTINF:-1  tvg-name="tlc DVR" group-title="BluTV Kanalları",tlc DVR
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
-#EXTINF:-1  tvg-name="tv100" group-title="BluTV Kanalları",tv100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-#EXTINF:-1  tvg-name="tv1002 DVR" group-title="BluTV Kanalları",tv1002 DVR
-https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
-#EXTINF:-1  tvg-name="ulketv2" group-title="BluTV Kanalları",ulketv2
-https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-#EXTINF:-1  tvg-name="vuslattv2" group-title="BluTV Kanalları",vuslattv2
-https://vuslattv.blutv.com/blutv_vuslattv2/live.m3u8
-#EXTINF:-1  tvg-name="womantv" group-title="BluTV Kanalları",womantv
-https://womantv.blutv.com/blutv_womantv/smil:blutv_womantv.smil/playlist.m3u8
