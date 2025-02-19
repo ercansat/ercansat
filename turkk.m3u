@@ -16,7 +16,7 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="TGRT Haber" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1  tvg-name="KRT TV" tvg-id="Haber_KRTTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="Haber",KRT TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Haber_HalkTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",Halk TV
