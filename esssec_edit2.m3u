@@ -1,65 +1,51 @@
-﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
-#EXTINF:-1  tvg-name="Vevo 2K (Australia)" tvg-id="ext" group-title="esssec",Vevo 2K (Australia)
+#EXTM3U
+#EXTINF:-1 group-title="esssec",Vevo 2K (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1  tvg-name="NRG91 Music" tvg-id="ext" group-title="esssec",NRG91 Music
+#EXTINF:-1 group-title="esssec",NRG91 Music
 http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8
-#EXTINF:-1  tvg-name="Vevo 90s (Australia)" tvg-id="ext" group-title="esssec",Vevo 90s (Australia)
+#EXTINF:-1 group-title="esssec",Vevo 90s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1  tvg-name="MovieSphere (Australia)" tvg-id="ext" group-title="esssec",MovieSphere (Australia)
+#EXTINF:-1 group-title="esssec",MovieSphere (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:-1  tvg-name="Ted (Australia)" tvg-id="ext" group-title="esssec",Ted (Australia)
+#EXTINF:-1 group-title="esssec",Ted (Australia)
 https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-name="MBC 1 (1080p)" tvg-id="ext" group-title="esssec",MBC 1 (1080p)
+#EXTINF:-1 group-title="esssec",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1  tvg-name="MBC Drama KSA (1080p)" tvg-id="ext" group-title="esssec",MBC Drama KSA (1080p)
+#EXTINF:-1 group-title="esssec",MBC Drama KSA (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1  tvg-name="Korean TV" tvg-id="ext" group-title="esssec",Korean TV
+#EXTINF:-1 group-title="esssec",Korean TV
 https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
-#EXTINF:-1  tvg-name="Love Magazine (Sweden)" tvg-id="ext" group-title="esssec",Love Magazine (Sweden)
+#EXTINF:-1 group-title="esssec",Love Magazine (Sweden)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QKbegbG.png" group-title="Fashion",Fashion TV
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/QKbegbG.png",Fashion TV
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/2q1e319.png" group-title="Fashion",Fashion TV
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/2q1e319.png",Fashion TV
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/1Rw5hy3.png" group-title="Fashion",Fashion TV4K
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/1Rw5hy3.png",Fashion TV4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/pxCcrJz.png" group-title="Fashion",Fashion TV Midnight Secrets
+#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/pxCcrJz.png",Fashion TV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Bv4s0YH.png" group-title="Movie",HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Bv4s0YH.png" group-title="Movie",HBO2
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/wJCHnwQ.png" group-title="Movie",Hallmark Drama
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/wJCHnwQ.png",Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1  tvg-id="axnhd" tvg-logo="https://i.imgur.com/jCfW4jp.png" group-title="Movie",AXN Espanyol
-http://168.181.122.234:8000/play/a00s/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9mzUQZQ.png" group-title="Movie",USA Network 1
-http://supersonictv.live:8080/686554/799757/22129
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9mzUQZQ.png" group-title="Movie",USA Network 2
-http://streamsy.online:2999/korrigan17/25AUFBdqOi/251
-#EXTINF:-1  tvg-id="boxmovie1" tvg-logo="https://i.imgur.com/leWw1zz.png" group-title="Movie",Box Movie 1
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.imgur.com/KNT57YG.png" group-title="Movie",Freeform East
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/KNT57YG.png",Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1  group-title="Movie",Action Holywood Movies
+#EXTINF:-1 group-title="Movie",Action Holywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Movie",AsianCrush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1  tvg-id="CelestialClasicMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png" group-title="Movie",Celestial Classic Movies
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png",Celestial Classic Movies
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial2.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QoksZG3.png" group-title="News",C-Span
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/QoksZG3.png",C-Span
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1  tvg-id="foxnews.us" tvg-logo="https://i.imgur.com/kvyVn1k.png" group-title="News",Fox News
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kvyVn1k.png",Fox News
 http://tvmate.icu:8080/owuraku@duck.com/owuraku@2023/47281
-#EXTINF:-1  tvg-logo="https://i.imgur.com/YI6MnKU.png" group-title="News",BBC News Asia Pacific (720p)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/YI6MnKU.png",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/XWIcVFs.png" group-title="News",ABC News
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/XWIcVFs.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/JibSs7m.jpeg" group-title="News",DW
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/JibSs7m.jpeg",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/C2s4zfh.png" group-title="News",FOX News Now
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/C2s4zfh.png",FOX News Now
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="News",CNN News 18
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WrmeIco.png",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/w2wjr4e.png" group-title="News",CNN USA
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/w2wjr4e.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
