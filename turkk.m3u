@@ -4,7 +4,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
 #EXTINF:-1  tvg-name="NTV" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
