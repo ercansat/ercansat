@@ -9,10 +9,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1  tvg-name="KRT TV" tvg-id="Haber_KRTTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="Haber",KRT TV
-https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TV
-https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Haber_HalkTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1  tvg-name="TGRT Haber" tvg-id="Ekol Tv" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",Ekol Haber
@@ -21,8 +19,6 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  tvg-name="Kanal 24" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1  tvg-name="TGRT Haber" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Haber_BloombergHT" tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk" group-title="Haber",Bloomberg HT
