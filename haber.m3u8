@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:0,KRT TV
+#EXTGRP:unsorted
+https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
+#EXTINF:0,TELE 1
+#EXTGRP:unsorted
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:0,Sozcu 
+#EXTGRP:unsorted
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+#EXTINF:0,Halk TV 
+#EXTGRP:unsorted
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:0,HABERTURK
+#EXTGRP:unsorted
+https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
+#EXTINF:0,NTV
+#EXTGRP:unsorted
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:0,Haber Global
+#EXTGRP:unsorted
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:0,tv100
+#EXTGRP:unsorted
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:0,kanal 24
+#EXTGRP:unsorted
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
