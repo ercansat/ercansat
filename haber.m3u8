@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0,KRT TV
 #EXTGRP:unsorted
-https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
+http://185.234.111.229:8000/play/a06f
 #EXTINF:0,TELE 1
 #EXTGRP:unsorted
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:0,Sozcu 
 #EXTGRP:unsorted
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+http://185.234.111.229:8000/play/a00y
 #EXTINF:0,Halk TV 
 #EXTGRP:unsorted
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
