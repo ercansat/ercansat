@@ -26,3 +26,27 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:0,kanal 24
 #EXTGRP:unsorted
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:0,TRTHaber.tr
+#EXTGRP:unsorted
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TGRT Haber
+#EXTGRP:unsorted
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:0,BLOOMBERG HT
+#EXTGRP:unsorted
+https://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+#EXTINF:0,CNBC-E
+#EXTGRP:unsorted
+https://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+#EXTINF:0,Meclis Tv
+#EXTGRP:unsorted
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:0,A Haber
+#EXTGRP:unsorted
+https://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:0,Tv Net
+#EXTGRP:unsorted
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:0,TürkHaber
+#EXTGRP:unsorted
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
