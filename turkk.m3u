@@ -7,7 +7,7 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1  tvg-name="GZT" tvg-id="Haber_GZT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",GZT
+#EXTINF:-1  tvg-name="GZT" tvg-id="Haber_GZT" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png" group-title="Haber",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
@@ -17,7 +17,7 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1  tvg-name="Ekol Tv" tvg-id="Ekol Tv" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",Ekol Haber
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-id="FLASH HABER FHD" tvg-name="FLASH HABER FHD" tvg-logo="" group-title="Haber",FLASH HABER FHD
+#EXTINF:-1 tvg-id="FLASH HABER FHD" tvg-name="FLASH HABER FHD" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Haber",FLASH HABER FHD
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
