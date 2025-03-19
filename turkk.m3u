@@ -8,7 +8,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="Haber_TV100" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="Krt Tv" tvg-name="KRT TV HD" tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="Haber",KRT TV HD
-https://ythls.kekikakademi.org/youtube/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
+http://185.234.111.229:8000/play/a06f
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
@@ -42,7 +42,7 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="Genel_TV8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="Genel_NowTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
-https://stream.tvcdn.net/ulusal/now-tv.m3u8
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3c9hLjZbOIbny4bXovwqiA&e=1742390059
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Genel_ShowTV" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Genel_KanalD" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
