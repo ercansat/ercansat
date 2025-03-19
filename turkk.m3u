@@ -35,6 +35,8 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
 #EXTINF:-1 tvg-name="Tv Net" tvg-id="Tv Net" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="Meclis Tv" tvg-id="Meclis Tv" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Haber",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Haber_BloombergHT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Haber",Bloomberg HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="Genel_TV8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
