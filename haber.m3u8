@@ -28,15 +28,15 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:0,TRT Haber
 #EXTGRP:unsorted
-185.234.111.229:8000/play/a004
+http://185.234.111.229:8000/play/a004
 #EXTINF:0,TGRT Haber
 #EXTGRP:unsorted
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:0,A Haber
 #EXTGRP:unsorted
-185.234.111.229:8000/play/a01n
+http://185.234.111.229:8000/play/a01n
 #EXTINF:0,Tv Net
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0,CNN TÜRK
-185.234.111.229:8000/play/a022
+http://185.234.111.229:8000/play/a022
