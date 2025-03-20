@@ -39,4 +39,5 @@ http://185.234.111.229:8000/play/a01n
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0,CNN TÜRK
+#EXTGRP:unsorted
 http://185.234.111.229:8000/play/a022
