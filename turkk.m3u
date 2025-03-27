@@ -44,7 +44,7 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="Genel_TV8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1  tvg-name="Now TV" tvg-id="Genel_NowTV" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3c9hLjZbOIbny4bXovwqiA&e=1742390059
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Genel_ShowTV" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Genel_KanalD" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
