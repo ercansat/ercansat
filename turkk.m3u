@@ -22,9 +22,9 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="Haber_TRT" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Cnn Turk" tvg-id="CNN Turk" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber",CNN Turk
-#http://stream.tvcdn.net/haber/cnn-turk.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1  tvg-name="A Haber" tvg-id="A Haber" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="Haber",A Haber
-#http://stream.tvcdn.net/haber/a-haber.m3u8
+http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTINF:-1  tvg-name="TGRT Haber" tvg-id="Haber_TGRT" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 #EXTINF:-1  tvg-name="Tv 24" tvg-id="Tv 24" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber",Tv 24
