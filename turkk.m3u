@@ -44,7 +44,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Genel_KanalD" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="Star Tv" tvg-id="StarTV" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Genel_BeyazTV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Genel",Beyaz TV
