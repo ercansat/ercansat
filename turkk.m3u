@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="Haber Türk" tvg-id="Haber_HaberTurk" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",Haber Türk
-https://cdn402.canlitv.vip/haberturk.m3u8?tkn=Q1yssg88IDoW_DRvWQcfwg&tms=1744853380&hst=tv.canlitv.vip&ip=85.153.231.29
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1  tvg-name="NTV" tvg-id="Haber_NTV" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber_HaberGlobal" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
