@@ -19,7 +19,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:0,Haber Global
 #EXTGRP:unsorted
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+http://185.234.111.229:8000/play/a05x
 #EXTINF:0,tv100
 #EXTGRP:unsorted
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
