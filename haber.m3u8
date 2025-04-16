@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:0,KRT TV
-#EXTGRP:unsorted
-http://185.234.111.229:8000/play/a06f
 #EXTINF:0,TELE 1
 #EXTGRP:unsorted
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+http://185.234.111.229:8000/play/a01y
 #EXTINF:0,Sozcu 
 #EXTGRP:unsorted
 http://185.234.111.229:8000/play/a00y
@@ -38,6 +35,3 @@ http://185.234.111.229:8000/play/a01n
 #EXTINF:0,Tv Net
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0,CNN TÜRK
-#EXTGRP:unsorted
-http://185.234.111.229:8000/play/a022
