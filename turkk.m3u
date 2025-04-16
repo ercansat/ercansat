@@ -7,8 +7,6 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="Haber_TV100" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1 tvg-id="Krt Tv" tvg-name="KRT TV HD" tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="Haber",KRT TV HD
-http://185.234.111.229:8000/play/a06f
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/tele1-canli
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
