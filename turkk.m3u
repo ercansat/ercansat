@@ -10,7 +10,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/tele1-canli
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-https://cdn900.canlitv.vip/sozcutv.m3u8?tkn=PnZ3cvOd-s3nYttBNcjOcw&tms=1744852247&hst=tv.canlitv.vip&ip=85.153.231.29
+http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/sozcu-tv-canli
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Haber_HalkTV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1  tvg-name="Ekol Tv" tvg-id="Ekol Tv" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Tv
