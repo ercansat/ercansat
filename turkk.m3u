@@ -30,7 +30,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Net" tvg-id="Tv Net" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-https://b.fulltvizle.com/cnn/index.m3u8
+https://trn03.tulix.tv/gt-cnn-turktv/index.m3u8
 #EXTINF:-1 tvg-name="Meclis Tv" tvg-id="Meclis Tv" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Haber_BloombergHT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Haber",Bloomberg HT
@@ -46,7 +46,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-name="Star Tv" tvg-id="StarTV" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus-live.daioncdn.net\startv\startv_720p.m3u8
 #EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Genel_BeyazTV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Genel",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="Belgesel_TRT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="Belgesel",TRT-Belgesel
