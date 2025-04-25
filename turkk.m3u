@@ -9,6 +9,8 @@ https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Haber_Tele1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/tele1-canli
+#EXTINF:-1  tvg-name="Tele 1-2" tvg-id="Haber_Tele1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1-2
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/sozcu-tv-canli
 #EXTINF:-1  tvg-name="Sözcü TV2" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV2
