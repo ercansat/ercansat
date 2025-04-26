@@ -1,0 +1,1580 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="https://t.me/kankatv" tvg-logo="https://i.postimg.cc/wvvrmLHc/In-Shot-20250209-192107003.png",https://t.me/kankatv
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1  tvg-name="AZTV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/sg126ZT1/a.png",AZTV ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="ATV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png",ATV ᵏᵃᵑᵏᵃ
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+#EXTINF:-1  tvg-name="BAKU TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png",BAKU TV ᵏᵃᵑᵏᵃ
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1  tvg-name="CBC ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/BbWhyD53/CBC-Azerbaijan-Logo.png",CBC ᵏᵃᵑᵏᵃ
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1  tvg-name="GÜNAZ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png",GÜNAZ TV ᵏᵃᵑᵏᵃ
+http://135.181.115.81:8000/play/a04o/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="QAFQAZ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png",QAFQAZ TV ᵏᵃᵑᵏᵃ
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563743&extension=m3u8
+#EXTINF:-1  tvg-name="NAXÇIVAN TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/529XW97H/logo.png",NAXÇIVAN TV ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="APA TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/Bny2M3B9/logo-apatv.png",APA TV ᵏᵃᵑᵏᵃ
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1  tvg-name="KANAL 35 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png",KANAL 35 ᵏᵃᵑᵏᵃ
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="KANAL S ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png",KANAL S ᵏᵃᵑᵏᵃ
+http://135.181.115.81:8000/play/a04r/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="AGRO TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/Y0kvx1Pj/logo-7sz-XRi4-1.png",AGRO TV ᵏᵃᵑᵏᵃ
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563726&extension=ts
+#EXTINF:-1  tvg-name="TMB ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png",TMB ᵏᵃᵑᵏᵃ
+http://135.181.115.81:8000/play/a031/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="VOSTOK TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/NfmDy569/2018.png",VOSTOK TV ᵏᵃᵑᵏᵃ
+http://65.21.85.175:8000/play/a032/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="STV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png",STV ᵏᵃᵑᵏᵃ
+http://135.181.115.81:8000/play/a04x/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="AZSTAR TV ᵏᵃᵑᵏᵃ" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png",AZSTAR TV ᵏᵃᵑᵏᵃ
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:-1  tvg-name="FTV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png",FTV ᵏᵃᵑᵏᵃ
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1  tvg-name="LİVE TV ᵏᵃᵑᵏᵃ" tvg-logo="http://assets.tvcdn.net/8bcd2f7a-d53e-4ef2-9fc6-03e32c7f7465.png",LİVE TV ᵏᵃᵑᵏᵃ
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1  tvg-name="AzadSözAzTv ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/bv4Gwmr2/In-Shot-20250321-221409432.png",AzadSözAzTv ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3530/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="KƏPƏZ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png",KƏPƏZ TV ᵏᵃᵑᵏᵃ
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1  tvg-name="KÖNÜL TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png",KÖNÜL TV ᵏᵃᵑᵏᵃ
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1  tvg-name="ALVİN CHANNEL ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png",ALVİN CHANNEL ᵏᵃᵑᵏᵃ
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1  tvg-name="VİLAYƏT TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png",VİLAYƏT TV ᵏᵃᵑᵏᵃ
+https://nl.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:-1  tvg-name="HADİ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/DZGJCby1/logo-hadi-tv.png",HADİ TV ᵏᵃᵑᵏᵃ
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1  tvg-name="ZAHRA TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png",ZAHRA TV ᵏᵃᵑᵏᵃ
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="SƏHƏR AZƏRİ ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/3rPfZYSt/In-Shot-20250219-202704263.png",SƏHƏR AZƏRİ ᵏᵃᵑᵏᵃ
+http://185.11.145.188:8080/live/live:.cid.d793630db0cd57d6/7yGGmNox9Z/10599.m3u8
+#EXTINF:-1  tvg-name="MAHNI TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/pTRPMbdh/In-Shot-20250303-143546125.png",MAHNI TV ᵏᵃᵑᵏᵃ
+http://xantv.site:41480/MahniTV/video.m3u8
+#EXTINF:-1  tvg-name="CTV AZƏRBAYCAN ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/MHLZ5zzY/In-Shot-20250306-184346375.png",CTV AZƏRBAYCAN ᵏᵃᵑᵏᵃ
+https://livectv.radyotelekom.com.tr:3766/stream/play.m3u8
+#EXTINF:-1  tvg-name="ARI Music ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/sXLR6KRG/In-Shot-20250420-231835426.png",ARI Music ᵏᵃᵑᵏᵃ
+http://11.team.ga:80/ch1699/mono.m3u8?token=jaki05593682221025.7VjMD5k7P3oSHDvYasd_1NJZegAeIyMVcqh5L3BVwoI525-H7x-7XtsIuXpkwSkt0rHXSmXMZZk5WRr4tQhpZg.dubldot
+#EXTINF:-1  tvg-name="HTV SİNEMA ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/8cw1RhXF/In-Shot-20250317-111819716.png",HTV SİNEMA ᵏᵃᵑᵏᵃ
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/vipcinema/playlist.m3u8
+#EXTINF:-1  tvg-name="GEM AZ ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/CKry2FML/In-Shot-20250218-193734479.png",GEM AZ ᵏᵃᵑᵏᵃ
+http://185.11.145.188:8080/live/live:.cid.d793630db0cd57d6/7yGGmNox9Z/107126.ts
+#EXTINF:-1  tvg-name="AYAZ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png",AYAZ TV ᵏᵃᵑᵏᵃ
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:-1  tvg-name="MEGA HDTV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/ZYVRyGPc/In-Shot-20250411-173624294.png",MEGA HDTV ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="MEGA GƏNCƏ ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/CL2xcbQn/IMG-20250411-173425-396.jpg",MEGA GƏNCƏ ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+#EXTINF:-1  tvg-name="KİNOSTAR ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/1z3WC0V7/In-Shot-20250324-074646845.png",KİNOSTAR ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3445/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="ESMA TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/L8tF0mhn/In-Shot-20250423-230428311.png",ESMA TV ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3466/stream/play.m3u8
+#EXTINF:-1  tvg-name="ATV CİNEMA ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/ZRGrMLbg/In-Shot-20250213-182731296.png",ATV CİNEMA ᵏᵃᵑᵏᵃ
+http://135.181.115.81:8000/play/a04k/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="K@TV 1 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/tgFs620W/In-Shot-20250220-184643193.png",K@TV 1 ᵏᵃᵑᵏᵃ
+http://135.181.115.81:8000/play/a04s/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="İSMAYILLI TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png",İSMAYILLI TV ᵏᵃᵑᵏᵃ
+https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
+#EXTINF:-1  tvg-name="MUSİC AZERBAYCAN ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png",MUSİC AZERBAYCAN ᵏᵃᵑᵏᵃ
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1  tvg-name="SİRİUS TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/vHMNrJQZ/In-Shot-20250209-195632491.png",SİRİUS TV ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1  tvg-name="EL TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png",EL TV ᵏᵃᵑᵏᵃ
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1  tvg-name="SON ÜMİD TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",SON ÜMİD TV ᵏᵃᵑᵏᵃ
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:-1  tvg-name="SƏHƏND TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/bwrLL84p/1200px-Sahand-TV-logo-svg.png",SƏHƏND TV ᵏᵃᵑᵏᵃ
+https://cdn-azd2055.telewebion.com/ek/sahand/live/576p/index.m3u8
+#EXTINF:-1  tvg-name="RETRO TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/28X3LrFq/kiss-cut-stickers-5-5x5-5-default-61560d802b93c.png",RETRO TV ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3706/stream/play.m3u8
+#EXTINF:-1  tvg-name="ŞİRVAN TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/J0xx5G4C/In-Shot-20250324-081151799.png",ŞİRVAN TV ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3326/stream/play.m3u8
+#EXTINF:-1  tvg-name="AMEDIA TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/VvsX6W8m/In-Shot-20250209-201712039.png",AMEDIA TV ᵏᵃᵑᵏᵃ
+https://a8.radyotelekom.com.tr:3427/stream/play.m3u8
+#EXTINF:-1  tvg-name="POP⚡STAR ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/6p2y277J/In-Shot-20250425-200153282.png",POP⚡STAR ᵏᵃᵑᵏᵃ
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1  tvg-name="YURD FM TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/2yv3Cqqr/In-Shot-20250209-203412332.png",YURD FM TV ᵏᵃᵑᵏᵃ
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
+#EXTINF:-1  tvg-name="MEDİA FM TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/T2WKVstF/admin-ajax.png",MEDİA FM TV ᵏᵃᵑᵏᵃ
+https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
+#EXTINF:-1  tvg-name="106 FM ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/Fsy1qL5x/In-Shot-20250209-203727551.png",106 FM ᵏᵃᵑᵏᵃ
+https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
+#EXTINF:-1  tvg-name="106.3 FM ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/7ZqbyZqr/106-3-white.png",106.3 FM ᵏᵃᵑᵏᵃ
+https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
+#EXTINF:-1  tvg-name="TRT 1 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/VLqpCYn6/TRT-1-logo-2021-svg.png",TRT 1 ᵏᵃᵑᵏᵃ
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1  tvg-name="TABİİ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png",TABİİ TV ᵏᵃᵑᵏᵃ
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1  tvg-name="ATV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/PxH8NQjN/Atv-logo-2010-svg.png",ATV ᵏᵃᵑᵏᵃ
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="SHOW TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/PJrpQfNj/Show-TV-logo-svg.png",SHOW TV ᵏᵃᵑᵏᵃ
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1  tvg-name="KANAL D ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/Y2bmqFyq/Logo-Kanal-D-svg.png",KANAL D ᵏᵃᵑᵏᵃ
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1  tvg-name="NOW TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/xT8NkdWG/NOW-TV-Turkey-wordmark-red-svg.png",NOW TV ᵏᵃᵑᵏᵃ
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1  tvg-name="STAR TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/rFH05kkB/Star-TV-svg.png",STAR TV ᵏᵃᵑᵏᵃ
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1  tvg-name="BEYAZ TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/13NgHjRf/unnamed-1.png",BEYAZ TV ᵏᵃᵑᵏᵃ
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1  tvg-name="TV 8 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/5tdXkSjp/Tv8-Yeni-Logo.png",TV 8 ᵏᵃᵑᵏᵃ
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1  tvg-name="KANAL 7 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/PrSc4SVs/In-Shot-20250209-224757709.png",KANAL 7 ᵏᵃᵑᵏᵃ
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1  tvg-name="360 TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/LXF0Xw5f/In-Shot-20250209-224919699.png",360 TV ᵏᵃᵑᵏᵃ
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1  tvg-name="TEVE 2 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/SxrKDbFQ/Teve2-logo.png",TEVE 2 ᵏᵃᵑᵏᵃ
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF:-1  tvg-name="TV4 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/R0hvd3LG/TV4-logo-2022-Current.png",TV4 ᵏᵃᵑᵏᵃ
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1  tvg-name="TRT TURK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/c1m5xDSg/TRT-T-rk-logo-svg.png",TRT TURK ᵏᵃᵑᵏᵃ
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TRT AVAZ ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/xCQtYmp3/TRT-Avaz.png",TRT AVAZ ᵏᵃᵑᵏᵃ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="EUROSTAR ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/yxQPFb1L/Euro-Star-loqosu-3-yanvar-2012-indi.png",EUROSTAR ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+#EXTINF:-1  tvg-name="TV8 INT ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/1tW6TVkt/In-Shot-20250209-230714110.png",TV8 INT ᵏᵃᵑᵏᵃ
+http://185.234.111.229:8000/play/a01x
+#EXTINF:-1  tvg-name="TGRT EU ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/W4L76rVc/logo-1.png",TGRT EU ᵏᵃᵑᵏᵃ
+http://185.234.111.229:8000/play/a048
+#EXTINF:-1  tvg-name="EURO D ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png",EURO D ᵏᵃᵑᵏᵃ
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1  tvg-name="SHOW MAX ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/fTV7G5Th/In-Shot-20250209-230201857.png",SHOW MAX ᵏᵃᵑᵏᵃ
+https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
+#EXTINF:-1  tvg-name="SHOW TURK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/P5ZWxxw3/In-Shot-20250209-230304310.png",SHOW TURK ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
+#EXTINF:-1  tvg-name="ATV AURUPA ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/R0BcnB1M/In-Shot-20250209-230553624.png",ATV AURUPA ᵏᵃᵑᵏᵃ
+http://185.234.111.229:8000/play/a018
+#EXTINF:-1  tvg-name="TLC ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/pLDjv6w3/TLC-Logo-svg.png",TLC ᵏᵃᵑᵏᵃ
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1  tvg-name="TRTBELGESEL ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png",TRTBELGESEL ᵏᵃᵑᵏᵃ
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-name="TEBER STAR 1 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 1 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+#EXTINF:-1  tvg-name="TEBER STAR 2 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 2 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+#EXTINF:-1  tvg-name="TEBER STAR 3 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 3 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+#EXTINF:-1  tvg-name="TEBER STAR 4 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 4 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+#EXTINF:-1  tvg-name="TEBER STAR 5 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 5 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+#EXTINF:-1  tvg-name="TEBER STAR 6 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 6 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+#EXTINF:-1  tvg-name="TEBER STAR 7 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 7 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+#EXTINF:-1  tvg-name="TEBER STAR 8 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 8 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+#EXTINF:-1  tvg-name="TEBER STAR 9 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 9 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+#EXTINF:-1  tvg-name="TEBER STAR 10 HD" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 10 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+#EXTINF:-1  tvg-name="KANAL10 HD" tvg-logo="https://i.postimg.cc/nz9jSYhk/In-Shot-20250421-094505294.png" group-title="Türkiyə",KANAL10 HD
+https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+#EXTINF:-1  tvg-name="CİNE 6 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/Twgj3P7N/In-Shot-20250317-113102442.png",CİNE 6 ᵏᵃᵑᵏᵃ
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+#EXTINF:-1  tvg-name="CİNE 6 max ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/MGZWNKN0/In-Shot-20250325-105657204.png",CİNE 6 max ᵏᵃᵑᵏᵃ
+https://canli.cinemax6.com:3220/stream/play.m3u8
+#EXTINF:-1  tvg-name="TİVİ TÜRK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/rpNBfNPX/In-Shot-20250210-120408886.png",TİVİ TÜRK ᵏᵃᵑᵏᵃ
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1  tvg-name="SUPERTÜRK TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/QCMn4kZC/Fqf-J37n-Xs-AAD9-2.png",SUPERTÜRK TV ᵏᵃᵑᵏᵃ
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1  tvg-name="SUPERTÜRK MAX ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/7YkNZnW2/In-Shot-20250210-104353828.png",SUPERTÜRK MAX ᵏᵃᵑᵏᵃ
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1  tvg-name="SDM SİNEMA ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/B621rdsw/In-Shot-20250210-104639637.png",SDM SİNEMA ᵏᵃᵑᵏᵃ
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="TRAKYA TÜRK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/Hxc3SdGh/6519f50f032b3-1696199951-202310-238.png",TRAKYA TÜRK ᵏᵃᵑᵏᵃ
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+#EXTINF:-1  tvg-name="KANAL 19 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/y81PMF49/In-Shot-20250223-113143453.png",KANAL 19 ᵏᵃᵑᵏᵃ
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="PAZARCIK TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/kXcZRM7Q/In-Shot-20250223-123902565.png",PAZARCIK TV ᵏᵃᵑᵏᵃ
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="LİFE TV HD ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/T2c5ZBR7/logo-97.png",LİFE TV HD ᵏᵃᵑᵏᵃ
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1  tvg-name="ÖNDE TV ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/HLk6RCmv/onde-small-thumbnail.png",ÖNDE TV ᵏᵃᵑᵏᵃ
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="TV25 ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/mkY3hdRF/In-Shot-20250228-173230471.png",TV25 ᵏᵃᵑᵏᵃ
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
+#EXTINF:-1  tvg-name="TRT COCUK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/N0WV0rXP/TRT-ocuk-logo-2021-svg.png",TRT COCUK ᵏᵃᵑᵏᵃ
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  tvg-name="MİNİKA GO ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/BZKZDX1h/In-Shot-20250406-114740889.png",MİNİKA GO ᵏᵃᵑᵏᵃ
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+#EXTINF:-1  tvg-name="MİNİKA ÇOCUK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/bvZfhBx6/In-Shot-20250406-115116972.png",MİNİKA ÇOCUK ᵏᵃᵑᵏᵃ
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1  tvg-name="TRT DİYANET ÇOCUK ᵏᵃᵑᵏᵃ" tvg-logo="https://i.postimg.cc/BQ7h0Qm0/In-Shot-20250406-115415378.png",TRT DİYANET ÇOCUK ᵏᵃᵑᵏᵃ
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  tvg-name="TRT SPOR 2" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",TRT SPOR 2
+http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/158
+#EXTINF:-1  tvg-name="|TR|  EXXEN SPORTS 2" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 2
+http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/168
+#EXTINF:-1  tvg-name="|TR|  EXXEN SPORTS 6" tvg-logo="https://e7.pngegg.com/pngimages/563/242/png-clipart-flag-of-turkey-flags-of-the-world-flag-of-spain-flag-miscellaneous-flag.png" group-title="Bein-Sport",|TR|  EXXEN SPORTS 6
+http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/172
+#EXTINF:-1  tvg-name="MEDENIYYET TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MEDENIYYET TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78626
+#EXTINF:-1  tvg-name="XEZER TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",XEZER TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78628
+#EXTINF:-1  tvg-name="AMC AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",AMC AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78629
+#EXTINF:-1  tvg-name="ATV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ATV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78630
+#EXTINF:-1  tvg-name="AZ TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",AZ TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78631
+#EXTINF:-1  tvg-name="CBC AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",CBC AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78632
+#EXTINF:-1  tvg-name="ICTIMAI TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ICTIMAI TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78633
+#EXTINF:-1  tvg-name="Setanta Eurasia HD AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Setanta Eurasia HD AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78635
+#EXTINF:-1  tvg-name="CBC Sport HD AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",CBC Sport HD AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78634
+#EXTINF:-1  tvg-name="Setanta Eurasia 2 HD AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Setanta Eurasia 2 HD AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78636
+#EXTINF:-1  tvg-name="Real TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Real TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78639
+#EXTINF:-1  tvg-name="MUZ TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MUZ TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78641
+#EXTINF:-1  tvg-name="Dunya TV AZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Dunya TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78642
+#EXTINF:-1  tvg-name="TRT 1 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT 1 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6115
+#EXTINF:-1  tvg-name="Show HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Show HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/467
+#EXTINF:-1  tvg-name="Show Turk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Show Turk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2095
+#EXTINF:-1  tvg-name="Kanal D HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal D HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/455
+#EXTINF:-1  tvg-name="Kanal D FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal D FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6130
+#EXTINF:-1  tvg-name="Euro D TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Euro D TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1118
+#EXTINF:-1  tvg-name="ATV HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ATV HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/445
+#EXTINF:-1  tvg-name="ATV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ATV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6120
+#EXTINF:-1  tvg-name="ATV Avrupa TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ATV Avrupa TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2096
+#EXTINF:-1  tvg-name="Star HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Star HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/469
+#EXTINF:-1  tvg-name="Star TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Star TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6125
+#EXTINF:-1  tvg-name="Euro Star TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Euro Star TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1119
+#EXTINF:-1  tvg-name="Fox HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Fox HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/451
+#EXTINF:-1  tvg-name="TV8 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV8 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/480
+#EXTINF:-1  tvg-name="Kanal 7 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 7 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/454
+#EXTINF:-1  tvg-name="Kanal 7 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 7 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6131
+#EXTINF:-1  tvg-name="Kanal 7 Avrupa TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 7 Avrupa TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2094
+#EXTINF:-1  tvg-name="Kanal 15 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 15 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/114095
+#EXTINF:-1  tvg-name="Fox Life HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Fox Life HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2087
+#EXTINF:-1  tvg-name="Show Max TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Show Max TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1122
+#EXTINF:-1  tvg-name="Beyaz HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Beyaz HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/446
+#EXTINF:-1  tvg-name="Beyaz TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Beyaz TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6119
+#EXTINF:-1  tvg-name="TV 8.5 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV 8.5 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2083
+#EXTINF:-1  tvg-name="beINSport 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINSport 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/835
+#EXTINF:-1  tvg-name="beINSport 3 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINSport 3 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/834
+#EXTINF:-1  tvg-name="beINSport 4 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINSport 4 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/833
+#EXTINF:-1  tvg-name="beIN SPORTS 4 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beIN SPORTS 4 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/7230
+#EXTINF:-1  tvg-name="beINSports Max 1 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINSports Max 1 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/17628
+#EXTINF:-1  tvg-name="beINSports Max 1 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINSports Max 1 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/17629
+#EXTINF:-1  tvg-name="beINSports Max 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINSports Max 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/18802
+#EXTINF:-1  tvg-name="beIN Sport Max 2 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beIN Sport Max 2 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/48633
+#EXTINF:-1  tvg-name="Bein Sports 4K TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Bein Sports 4K TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/114094
+#EXTINF:-1  tvg-name="Exxen 1 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Exxen 1 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/101888
+#EXTINF:-1  tvg-name="Exxen 2 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Exxen 2 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/101889
+#EXTINF:-1  tvg-name="Tivibu Sport 1 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tivibu Sport 1 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125784
+#EXTINF:-1  tvg-name="TiviBu Sport 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TiviBu Sport 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1093
+#EXTINF:-1  tvg-name="TiviBu Sport 3 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TiviBu Sport 3 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2082
+#EXTINF:-1  tvg-name="Tabii Spor 1 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 1 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125272
+#EXTINF:-1  tvg-name="Tabii Spor 2 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 2 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125273
+#EXTINF:-1  tvg-name="Tabii Spor 3 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 3 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125274
+#EXTINF:-1  tvg-name="Tabii Spor 4 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 4 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125275
+#EXTINF:-1  tvg-name="Tabii Spor 5 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 5 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125277
+#EXTINF:-1  tvg-name="Tabii Spor 6 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 6 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125278
+#EXTINF:-1  tvg-name="Tabii Spor 7 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 7 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125279
+#EXTINF:-1  tvg-name="Tabii Spor 8 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 8 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125276
+#EXTINF:-1  tvg-name="Tabii Spor 9 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 9 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125284
+#EXTINF:-1  tvg-name="Tabii Spor 10 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 10 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125280
+#EXTINF:-1  tvg-name="Tabii Spor 11 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 11 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125281
+#EXTINF:-1  tvg-name="Tabii Spor 12 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tabii Spor 12 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/125282
+#EXTINF:-1  tvg-name="Smart Sport 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Smart Sport 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1091
+#EXTINF:-1  tvg-name="Saran Sport HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Saran Sport HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/23278
+#EXTINF:-1  tvg-name="S Sport 1 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",S Sport 1 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1100
+#EXTINF:-1  tvg-name="S Sport 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",S Sport 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/114096
+#EXTINF:-1  tvg-name="S SPORT plus HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",S SPORT plus HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4746
+#EXTINF:-1  tvg-name="S Sport Plus TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",S Sport Plus TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/114767
+#EXTINF:-1  tvg-name="S Sport+ FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",S Sport+ FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/114661
+#EXTINF:-1  tvg-name="A Sport HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",A Sport HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/442
+#EXTINF:-1  tvg-name="A Spor FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",A Spor FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6135
+#EXTINF:-1  tvg-name="BJK TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",BJK TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1088
+#EXTINF:-1  tvg-name="GS TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",GS TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1121
+#EXTINF:-1  tvg-name="Fenerbahce TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Fenerbahce TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1120
+#EXTINF:-1  tvg-name="TRT Spor HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Spor HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/476
+#EXTINF:-1  tvg-name="TRT Spor FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Spor FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6122
+#EXTINF:-1  tvg-name="TRT Haber FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Haber FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6123
+#EXTINF:-1  tvg-name="TRT Haber HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Haber HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/472
+#EXTINF:-1  tvg-name="EuroSport 1 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",EuroSport 1 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1090
+#EXTINF:-1  tvg-name="EuroSport 2 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",EuroSport 2 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1089
+#EXTINF:-1  tvg-name="A Haber FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",A Haber FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6136
+#EXTINF:-1  tvg-name="A Haber HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",A Haber HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1113
+#EXTINF:-1  tvg-name="24 TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",24 TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2084
+#EXTINF:-1  tvg-name="360 TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",360 TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1115
+#EXTINF:-1  tvg-name="A2 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",A2 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2093
+#EXTINF:-1  tvg-name="Bloomberg HT FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Bloomberg HT FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6118
+#EXTINF:-1  tvg-name="Bloomberg TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Bloomberg TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4486
+#EXTINF:-1  tvg-name="CNN Turk FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",CNN Turk FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6117
+#EXTINF:-1  tvg-name="CNN Turk HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",CNN Turk HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1117
+#EXTINF:-1  tvg-name="TGRT Haber HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TGRT Haber HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4473
+#EXTINF:-1  tvg-name="TGRT Haber TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TGRT Haber TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/444
+#EXTINF:-1  tvg-name="Haber Turk HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Haber Turk HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/453
+#EXTINF:-1  tvg-name="NTV HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",NTV HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/461
+#EXTINF:-1  tvg-name="NTV Haber FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",NTV Haber FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6127
+#EXTINF:-1  tvg-name="TRT Belgesel HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Belgesel HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/470
+#EXTINF:-1  tvg-name="TRT World TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT World TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/477
+#EXTINF:-1  tvg-name="Sinema Aile 2 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Sinema Aile 2 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2074
+#EXTINF:-1  tvg-name="Discovery Channel TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Discovery Channel TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1123
+#EXTINF:-1  tvg-name="Discovery IDX HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Discovery IDX HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1116
+#EXTINF:-1  tvg-name="Discovery ShowCase HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Discovery ShowCase HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/448
+#EXTINF:-1  tvg-name="History Channel HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",History Channel HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1098
+#EXTINF:-1  tvg-name="IDMan TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",IDMan TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4484
+#EXTINF:-1  tvg-name="Nat Geo HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Nat Geo HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1097
+#EXTINF:-1  tvg-name="Nat Geo People TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Nat Geo People TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1108
+#EXTINF:-1  tvg-name="Nat Geo Wild HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Nat Geo Wild HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1096
+#EXTINF:-1  tvg-name="Yaban TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Yaban TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4472
+#EXTINF:-1  tvg-name="TRT Cocuk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Cocuk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1109
+#EXTINF:-1  tvg-name="Disney Junior TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Disney Junior TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1102
+#EXTINF:-1  tvg-name="Disney XD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Disney XD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/443
+#EXTINF:-1  tvg-name="Minika Cocuk HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Minika Cocuk HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/459
+#EXTINF:-1  tvg-name="Minika Cocuk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Minika Cocuk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4482
+#EXTINF:-1  tvg-name="Minika Go HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Minika Go HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/460
+#EXTINF:-1  tvg-name="Nick JR TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Nick JR TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2078
+#EXTINF:-1  tvg-name="Nickelodeon HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Nickelodeon HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2079
+#EXTINF:-1  tvg-name="Baby TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Baby TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2076
+#EXTINF:-1  tvg-name="Boomerang HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Boomerang HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/463
+#EXTINF:-1  tvg-name="Cartoon Network HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Cartoon Network HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/471
+#EXTINF:-1  tvg-name="Salon 1 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Salon 1 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/7092
+#EXTINF:-1  tvg-name="Salon 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Salon 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/7093
+#EXTINF:-1  tvg-name="Salon 3 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Salon 3 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/7094
+#EXTINF:-1  tvg-name="Sinema 1002 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Sinema 1002 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/825
+#EXTINF:-1  tvg-name="Sinema TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Sinema TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/468
+#EXTINF:-1  tvg-name="Kral POP HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kral POP HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/457
+#EXTINF:-1  tvg-name="Kral POP TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kral POP TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6129
+#EXTINF:-1  tvg-name="Kral TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kral TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/456
+#EXTINF:-1  tvg-name="Kral TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kral TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6128
+#EXTINF:-1  tvg-name="NR1 Turk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",NR1 Turk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2075
+#EXTINF:-1  tvg-name="DMAX FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",DMAX FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6116
+#EXTINF:-1  tvg-name="Dream TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Dream TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4485
+#EXTINF:-1  tvg-name="Dream Truk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Dream Truk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1103
+#EXTINF:-1  tvg-name="TRT Muzik HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Muzik HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/475
+#EXTINF:-1  tvg-name="Dost TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Dost TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2056
+#EXTINF:-1  tvg-name="Adana TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Adana TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2050
+#EXTINF:-1  tvg-name="Aksu TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Aksu TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2052
+#EXTINF:-1  tvg-name="BRT 1 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",BRT 1 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/458
+#EXTINF:-1  tvg-name="BRT 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",BRT 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/466
+#EXTINF:-1  tvg-name="BenguTurk TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",BenguTurk TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2086
+#EXTINF:-1  tvg-name="Cay TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Cay TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2054
+#EXTINF:-1  tvg-name="Da Vinci Learning HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Da Vinci Learning HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2073
+#EXTINF:-1  tvg-name="Sinema Aile 1 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Sinema Aile 1 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2058
+#EXTINF:-1  tvg-name="Genc TV HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Genc TV HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/452
+#EXTINF:-1  tvg-name="Halk TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Halk TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2085
+#EXTINF:-1  tvg-name="Istanbul TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Istanbul TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2053
+#EXTINF:-1  tvg-name="Kanal 24 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 24 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6132
+#EXTINF:-1  tvg-name="Kanal 24 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 24 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4483
+#EXTINF:-1  tvg-name="Kanal 26 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 26 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2060
+#EXTINF:-1  tvg-name="Kanal 3 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 3 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2061
+#EXTINF:-1  tvg-name="Kanal 58 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kanal 58 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2068
+#EXTINF:-1  tvg-name="Mavi Karadeniz TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Mavi Karadeniz TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2062
+#EXTINF:-1  tvg-name="Kon TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kon TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2092
+#EXTINF:-1  tvg-name="Planet Turk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Planet Turk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/464
+#EXTINF:-1  tvg-name="Power Turk HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Power Turk HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/465
+#EXTINF:-1  tvg-name="Semerkant TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Semerkant TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2070
+#EXTINF:-1  tvg-name="TRT Diyanet TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Diyanet TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1110
+#EXTINF:-1  tvg-name="TRT Turk TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TRT Turk TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1112
+#EXTINF:-1  tvg-name="TV 2 FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV 2 FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6114
+#EXTINF:-1  tvg-name="TV 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/481
+#EXTINF:-1  tvg-name="TV 4 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV 4 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2077
+#EXTINF:-1  tvg-name="TV 5 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV 5 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2067
+#EXTINF:-1  tvg-name="TV EM TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV EM TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2090
+#EXTINF:-1  tvg-name="TV Kayser TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TV Kayser TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/2071
+#EXTINF:-1  tvg-name="Ulke TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Ulke TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/6113
+#EXTINF:-1  tvg-name="Ulke TV TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Ulke TV TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1104
+#EXTINF:-1  tvg-name="Tele 1 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Tele 1 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78612
+#EXTINF:-1  tvg-name="YESiLCAM HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",YESiLCAM HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82779
+#EXTINF:-1  tvg-name="SLTV KEMAL SUNAL TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",SLTV KEMAL SUNAL TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82786
+#EXTINF:-1  tvg-name="SLTV KEMAL SUNAL 1 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",SLTV KEMAL SUNAL 1 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82787
+#EXTINF:-1  tvg-name="Kemal Sunal HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Kemal Sunal HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82791
+#EXTINF:-1  tvg-name="iFlix Animasyon FHD TR VIP" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",iFlix Animasyon FHD TR VIP
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/12520
+#EXTINF:-1  tvg-name="TGRT BELGESEL TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TGRT BELGESEL TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/83506
+#EXTINF:-1  tvg-name="TLC TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TLC TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/90956
+#EXTINF:-1  tvg-name="TLC HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TLC HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/90957
+#EXTINF:-1  tvg-name="TLC FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TLC FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/90955
+#EXTINF:-1  tvg-name="Filmbox YERLI HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",Filmbox YERLI HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/818
+#EXTINF:-1  tvg-name="FILMBOX SINEVIZYON 6 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",FILMBOX SINEVIZYON 6 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82788
+#EXTINF:-1  tvg-name="CINEMAXX KEMAL SUNAL TV FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",CINEMAXX KEMAL SUNAL TV FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82789
+#EXTINF:-1  tvg-name="MOVIE SMART TURK FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MOVIE SMART TURK FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/94029
+#EXTINF:-1  tvg-name="MOVIE SMART PREMIUM HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MOVIE SMART PREMIUM HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/94027
+#EXTINF:-1  tvg-name="MOVIE SMART FAMILY FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MOVIE SMART FAMILY FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/94022
+#EXTINF:-1  tvg-name="MOVIE SMART CLASSIC FHD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MOVIE SMART CLASSIC FHD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/94021
+#EXTINF:-1  tvg-name="MOVIE SMART ACTION HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MOVIE SMART ACTION HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/94020
+#EXTINF:-1  tvg-name="MOVIE SMART CLASSIC HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MOVIE SMART CLASSIC HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93960
+#EXTINF:-1  tvg-name="MovieSmart Gold HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MovieSmart Gold HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4480
+#EXTINF:-1  tvg-name="beIN Box Office 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beIN Box Office 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1125
+#EXTINF:-1  tvg-name="beINMovies Action HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINMovies Action HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1129
+#EXTINF:-1  tvg-name="beINMovies Family HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINMovies Family HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1130
+#EXTINF:-1  tvg-name="beINMovies Premiere 1 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINMovies Premiere 1 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1128
+#EXTINF:-1  tvg-name="beINMovies Premiere 2 HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINMovies Premiere 2 HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1127
+#EXTINF:-1  tvg-name="beINMovies Stars HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINMovies Stars HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1132
+#EXTINF:-1  tvg-name="beINMovies Turk HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",beINMovies Turk HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/1133
+#EXTINF:-1  tvg-name="DIZI SMART PREMIUM HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",DIZI SMART PREMIUM HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93977
+#EXTINF:-1  tvg-name="ENO ANiMASYON TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ANiMASYON TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93916
+#EXTINF:-1  tvg-name="ENO TURK TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO TURK TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93915
+#EXTINF:-1  tvg-name="ENO ViZYON 1 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 1 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93913
+#EXTINF:-1  tvg-name="ENO ViZYON 2 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 2 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93912
+#EXTINF:-1  tvg-name="ENO ViZYON 3 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 3 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93911
+#EXTINF:-1  tvg-name="ENO ViZYON 4 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 4 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93910
+#EXTINF:-1  tvg-name="ENO ViZYON 5 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 5 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93909
+#EXTINF:-1  tvg-name="ENO ViZYON 6 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 6 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93908
+#EXTINF:-1  tvg-name="ENO ViZYON 7 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 7 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93907
+#EXTINF:-1  tvg-name="ENO ViZYON 8 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 8 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93906
+#EXTINF:-1  tvg-name="ENO ViZYON 9 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 9 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93905
+#EXTINF:-1  tvg-name="ENO ViZYON 10 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 10 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93904
+#EXTINF:-1  tvg-name="ENO ViZYON 11 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 11 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93903
+#EXTINF:-1  tvg-name="ENO ViZYON 12 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 12 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93902
+#EXTINF:-1  tvg-name="ENO ViZYON 14 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 14 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93901
+#EXTINF:-1  tvg-name="ENO ViZYON 15 TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO ViZYON 15 TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93900
+#EXTINF:-1  tvg-name="ENO WESTERN TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",ENO WESTERN TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93899
+#EXTINF:-1  tvg-name="FiberBox Fantastik HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",FiberBox Fantastik HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93895
+#EXTINF:-1  tvg-name="MaGicBoX Kemal Sunal HD TR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",MaGicBoX Kemal Sunal HD TR
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/93890
+#EXTINF:-1  tvg-name="TR: Baby TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Baby TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/634
+#EXTINF:-1  tvg-name="TR: Caillou" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Caillou
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192581
+#EXTINF:-1  tvg-name="TR: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cartoon Network
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8261
+#EXTINF:-1  tvg-name="TR: Cartoonito" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cartoonito
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/672
+#EXTINF:-1  tvg-name="TR: CBeebies" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: CBeebies
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1844
+#EXTINF:-1  tvg-name="TR: Çocuk Smart" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Çocuk Smart
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1851
+#EXTINF:-1  tvg-name="TR: Da Vinci" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Da Vinci
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1850
+#EXTINF:-1  tvg-name="TR: Disney Channel" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Disney Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/278570
+#EXTINF:-1  tvg-name="TR: Disney Junior" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Disney Junior
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/633
+#EXTINF:-1  tvg-name="TR: Minika Cocuk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Minika Cocuk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/671
+#EXTINF:-1  tvg-name="TR: Minika Go" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Minika Go
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/662
+#EXTINF:-1  tvg-name="TR: Nick Junior" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Nick Junior
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/675
+#EXTINF:-1  tvg-name="TR: nickelodeon" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: nickelodeon
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/278469
+#EXTINF:-1  tvg-name="TR: SL Niloya" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: SL Niloya
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/70743
+#EXTINF:-1  tvg-name="TR: TRT Cocuk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Cocuk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/629
+#EXTINF:-1  tvg-name="TR: TRT eba" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT eba
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/304337
+#EXTINF:-1  tvg-name="TR: FB TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: FB TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/575
+#EXTINF:-1  tvg-name="TR: Galatasaray TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Galatasaray TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/618
+#EXTINF:-1  tvg-name="TR: A Spor" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: A Spor
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/529
+#EXTINF:-1  tvg-name="TR: beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1735
+#EXTINF:-1  tvg-name="TR: beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1737
+#EXTINF:-1  tvg-name="TR: beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1739
+#EXTINF:-1  tvg-name="TR: beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/7450
+#EXTINF:-1  tvg-name="TR: beIN Sports 4K" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports 4K
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/302332
+#EXTINF:-1  tvg-name="TR: beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports 5
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300982
+#EXTINF:-1  tvg-name="TR: beIN Sports Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports Haber
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/7448
+#EXTINF:-1  tvg-name="TR: beIN Sports Max 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports Max 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8224
+#EXTINF:-1  tvg-name="TR: beIN Sports Max 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Sports Max 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/16878
+#EXTINF:-1  tvg-name="TR: CosmoSports" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: CosmoSports
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300392
+#EXTINF:-1  tvg-name="TR: Eurosport 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Eurosport 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1755
+#EXTINF:-1  tvg-name="TR: Eurosport 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Eurosport 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1756
+#EXTINF:-1  tvg-name="TR: NBA TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NBA TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306245
+#EXTINF:-1  tvg-name="TR: S Sport" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: S Sport
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1753
+#EXTINF:-1  tvg-name="TR: S Sport 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: S Sport 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/10167
+#EXTINF:-1  tvg-name="TR: Spor Smart" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Spor Smart
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1750
+#EXTINF:-1  tvg-name="TR: Spor Smart 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Spor Smart 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/50121
+#EXTINF:-1  tvg-name="TR: Sports TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sports TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/89846
+#EXTINF:-1  tvg-name="TR: Tabii Spor" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306221
+#EXTINF:-1  tvg-name="TR: Tabii Spor 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306218
+#EXTINF:-1  tvg-name="TR: Tabii Spor 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306219
+#EXTINF:-1  tvg-name="TR: Tabii Spor 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306220
+#EXTINF:-1  tvg-name="TR: Tabii Spor 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306222
+#EXTINF:-1  tvg-name="TR: Tabii Spor 5" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor 5
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306223
+#EXTINF:-1  tvg-name="TR: Tabii Spor 6" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tabii Spor 6
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306224
+#EXTINF:-1  tvg-name="TR: TAY TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TAY TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/16887
+#EXTINF:-1  tvg-name="TR: Tivibu Spor" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tivibu Spor
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1746
+#EXTINF:-1  tvg-name="TR: Tivibu Spor 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tivibu Spor 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299705
+#EXTINF:-1  tvg-name="TR: Tivibu Spor 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tivibu Spor 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1748
+#EXTINF:-1  tvg-name="TR: Tivibu Spor 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tivibu Spor 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1749
+#EXTINF:-1  tvg-name="TR: Tivibu Spor 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tivibu Spor 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/286778
+#EXTINF:-1  tvg-name="TR: TJK TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TJK TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/594
+#EXTINF:-1  tvg-name="TR: TRT Spor" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Spor
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/528
+#EXTINF:-1  tvg-name="TR: TRT Spor Yildiz" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Spor Yildiz
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/32095
+#EXTINF:-1  tvg-name="TR: Akustik" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Akustik
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300461
+#EXTINF:-1  tvg-name="TR: Dream Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Dream Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/669
+#EXTINF:-1  tvg-name="TR: Kral TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kral TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1838
+#EXTINF:-1  tvg-name="TR: Mavi Karadeniz TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Mavi Karadeniz TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/590
+#EXTINF:-1  tvg-name="TR: Med Muzik" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Med Muzik
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/14709
+#EXTINF:-1  tvg-name="TR: Milyon TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Milyon TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/647
+#EXTINF:-1  tvg-name="TR: NR1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NR1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1842
+#EXTINF:-1  tvg-name="TR: NR1 Ask" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NR1 Ask
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174387
+#EXTINF:-1  tvg-name="TR: NR1 Damar" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NR1 Damar
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174385
+#EXTINF:-1  tvg-name="TR: NR1 Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NR1 Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/5714
+#EXTINF:-1  tvg-name="TR: Power Dance" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Power Dance
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291168
+#EXTINF:-1  tvg-name="TR: Power Love" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Power Love
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291169
+#EXTINF:-1  tvg-name="TR: Power Turk TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Power Turk TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1840
+#EXTINF:-1  tvg-name="TR: Power TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Power TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/830
+#EXTINF:-1  tvg-name="TR: PowerTurk Akustik" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: PowerTurk Akustik
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291166
+#EXTINF:-1  tvg-name="TR: PowerTurk Slow" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: PowerTurk Slow
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291165
+#EXTINF:-1  tvg-name="TR: PowerTurk Taptaze" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: PowerTurk Taptaze
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291164
+#EXTINF:-1  tvg-name="TR: Sun RTV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sun RTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162297
+#EXTINF:-1  tvg-name="TR: Tatlises TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tatlises TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/280103
+#EXTINF:-1  tvg-name="TR: Tempo TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tempo TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/29841
+#EXTINF:-1  tvg-name="TR: TRT Muzik" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Muzik
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/630
+#EXTINF:-1  tvg-name="TR: TV 52" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 52
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162300
+#EXTINF:-1  tvg-name="TR: 24 TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: 24 TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/636
+#EXTINF:-1  tvg-name="TR: A Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: A Haber
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/666
+#EXTINF:-1  tvg-name="TR: A News" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: A News
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/284578
+#EXTINF:-1  tvg-name="TR: Akit TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Akit TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/631
+#EXTINF:-1  tvg-name="TR: ATV Para" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ATV Para
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/10153
+#EXTINF:-1  tvg-name="TR: Bengu Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Bengu Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/611
+#EXTINF:-1  tvg-name="TR: CNN Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: CNN Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/628
+#EXTINF:-1  tvg-name="TR: Flash Haber TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Flash Haber TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/148308
+#EXTINF:-1  tvg-name="TR: Haber 61" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Haber 61
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/596
+#EXTINF:-1  tvg-name="TR: Haber Global" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Haber Global
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/652
+#EXTINF:-1  tvg-name="TR: Haberturk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Haberturk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/651
+#EXTINF:-1  tvg-name="TR: Kanal 23" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 23
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58139
+#EXTINF:-1  tvg-name="TR: Kanal B" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal B
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/605
+#EXTINF:-1  tvg-name="TR: KRT" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: KRT
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1826
+#EXTINF:-1  tvg-name="TR: Medya Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Medya Haber
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/72562
+#EXTINF:-1  tvg-name="TR: NTV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/668
+#EXTINF:-1  tvg-name="TR: SZC" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: SZC
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300436
+#EXTINF:-1  tvg-name="TR: Tele 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tele 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/654
+#EXTINF:-1  tvg-name="TR: TGRT Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TGRT Haber
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/616
+#EXTINF:-1  tvg-name="TR: TRT Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Haber
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/627
+#EXTINF:-1  tvg-name="TR: TRT World" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT World
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/11025
+#EXTINF:-1  tvg-name="TR: TürkHaber TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TürkHaber TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/19202
+#EXTINF:-1  tvg-name="TR: TV 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76645
+#EXTINF:-1  tvg-name="TR: TV 42" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 42
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192604
+#EXTINF:-1  tvg-name="TR: TV Den" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV Den
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/19257
+#EXTINF:-1  tvg-name="TR: TV Net" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV Net
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1822
+#EXTINF:-1  tvg-name="TR: Ulusal Kanal" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ulusal Kanal
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/5699
+#EXTINF:-1  tvg-name="TR: Vizyon 58" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Vizyon 58
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/665
+#EXTINF:-1  tvg-name="TR: Yol TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Yol TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/583
+#EXTINF:-1  tvg-name="TR: ATV Alanya" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ATV Alanya
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/280341
+#EXTINF:-1  tvg-name="TR: beIN Box Office 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Box Office 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/536
+#EXTINF:-1  tvg-name="TR: beIN Box Office 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Box Office 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/281863
+#EXTINF:-1  tvg-name="TR: beIN Box Office 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Box Office 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/538
+#EXTINF:-1  tvg-name="TR: beIN Box Office Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Box Office Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/539
+#EXTINF:-1  tvg-name="TR: beIN Movies Action" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Action
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1761
+#EXTINF:-1  tvg-name="TR: beIN Movies Action 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Action 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/278527
+#EXTINF:-1  tvg-name="TR: beIN Movies Family" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Family
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1763
+#EXTINF:-1  tvg-name="TR: beIN Movies Premiere" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Premiere
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1764
+#EXTINF:-1  tvg-name="TR: beIN Movies Premiere 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Premiere 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1765
+#EXTINF:-1  tvg-name="TR: beIN Movies Stars" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Stars
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1766
+#EXTINF:-1  tvg-name="TR: beIN Movies Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Movies Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1767
+#EXTINF:-1  tvg-name="TR: beIN Series 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Series 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298429
+#EXTINF:-1  tvg-name="TR: beIN Series 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Series 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298427
+#EXTINF:-1  tvg-name="TR: beIN Series 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Series 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298428
+#EXTINF:-1  tvg-name="TR: beIN Series 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Series 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298430
+#EXTINF:-1  tvg-name="TR: beIN Series Comedy" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Series Comedy
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1768
+#EXTINF:-1  tvg-name="TR: beIN Series Drama" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Series Drama
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1769
+#EXTINF:-1  tvg-name="TR: Cine 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cine 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300983
+#EXTINF:-1  tvg-name="TR: Cine 5" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cine 5
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/297035
+#EXTINF:-1  tvg-name="TR: DiziSmart Max" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: DiziSmart Max
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/32147
+#EXTINF:-1  tvg-name="TR: DiziSmart Premium" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: DiziSmart Premium
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/15714
+#EXTINF:-1  tvg-name="TR: FilmBox Action" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: FilmBox Action
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192414
+#EXTINF:-1  tvg-name="TR: FilmBox Family" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: FilmBox Family
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192417
+#EXTINF:-1  tvg-name="TR: Line TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Line TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/29833
+#EXTINF:-1  tvg-name="TR: Meltem TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Meltem TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/73228
+#EXTINF:-1  tvg-name="TR: Moviesmart Classic" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Moviesmart Classic
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1773
+#EXTINF:-1  tvg-name="TR: Moviesmart Premium" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Moviesmart Premium
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1778
+#EXTINF:-1  tvg-name="TR: Moviesmart Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Moviesmart Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1780
+#EXTINF:-1  tvg-name="TR: Now" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Now
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306096
+#EXTINF:-1  tvg-name="TR: Sinema 1001" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema 1001
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1789
+#EXTINF:-1  tvg-name="TR: Sinema 1002" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema 1002
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76722
+#EXTINF:-1  tvg-name="TR: Sinema 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1774
+#EXTINF:-1  tvg-name="TR: Sinema Aile" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Aile
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1794
+#EXTINF:-1  tvg-name="TR: Sinema Aile 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Aile 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165582
+#EXTINF:-1  tvg-name="TR: Sinema Aksiyon" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Aksiyon
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1793
+#EXTINF:-1  tvg-name="TR: Sinema Aksiyon 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Aksiyon 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1772
+#EXTINF:-1  tvg-name="TR: Sinema Komedi" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Komedi
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1795
+#EXTINF:-1  tvg-name="TR: Sinema Komedi 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Komedi 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/43541
+#EXTINF:-1  tvg-name="TR: Sinema TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1790
+#EXTINF:-1  tvg-name="TR: Sinema Yerli" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Yerli
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1791
+#EXTINF:-1  tvg-name="TR: Sinema Yerli 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sinema Yerli 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163186
+#EXTINF:-1  tvg-name="TR: TIVI TÜRK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TIVI TÜRK
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192597
+#EXTINF:-1  tvg-name="TR: Ton TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ton TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58134
+#EXTINF:-1  tvg-name="TR: TRT 4K" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT 4K
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1810
+#EXTINF:-1  tvg-name="TR: beIN Gurme" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Gurme
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1807
+#EXTINF:-1  tvg-name="TR: 360" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: 360
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/615
+#EXTINF:-1  tvg-name="TR: A2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: A2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/523
+#EXTINF:-1  tvg-name="TR: Aksu TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Aksu TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/659
+#EXTINF:-1  tvg-name="TR: Aktif TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Aktif TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/146675
+#EXTINF:-1  tvg-name="TR: Aras TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Aras TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/304006
+#EXTINF:-1  tvg-name="TR: AS TV Bursa" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: AS TV Bursa
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58133
+#EXTINF:-1  tvg-name="TR: ATV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ATV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/521
+#EXTINF:-1  tvg-name="TR: ATV Avrupa" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ATV Avrupa
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/296360
+#EXTINF:-1  tvg-name="TR: beIN Iz" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: beIN Iz
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1806
+#EXTINF:-1  tvg-name="TR: Beyaz TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Beyaz TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/524
+#EXTINF:-1  tvg-name="TR: bir TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: bir TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/19203
+#EXTINF:-1  tvg-name="TR: Can TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Can TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/648
+#EXTINF:-1  tvg-name="TR: Cay TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cay TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/7710
+#EXTINF:-1  tvg-name="TR: Cem TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cem TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/663
+#EXTINF:-1  tvg-name="TR: Ciftci TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ciftci TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76684
+#EXTINF:-1  tvg-name="TR: DMAX" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: DMAX
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1805
+#EXTINF:-1  tvg-name="TR: Euro D" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Euro D
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/39324
+#EXTINF:-1  tvg-name="TR: EuroStar" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: EuroStar
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/5038
+#EXTINF:-1  tvg-name="TR: Fashion TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Fashion TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/193756
+#EXTINF:-1  tvg-name="TR: FOX" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: FOX
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/514
+#EXTINF:-1  tvg-name="TR: FX" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: FX
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/580
+#EXTINF:-1  tvg-name="TR: Guneydogu TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Guneydogu TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/32611
+#EXTINF:-1  tvg-name="TR: IBB TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: IBB TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166861
+#EXTINF:-1  tvg-name="TR: Kanal 32" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 32
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76641
+#EXTINF:-1  tvg-name="TR: Kanal 7" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 7
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/525
+#EXTINF:-1  tvg-name="TR: Kanal 7 Avrupa" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 7 Avrupa
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4777
+#EXTINF:-1  tvg-name="TR: Kanal D" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal D
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/510
+#EXTINF:-1  tvg-name="TR: Kanal Ege" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal Ege
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291146
+#EXTINF:-1  tvg-name="TR: Kanal V" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal V
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/657
+#EXTINF:-1  tvg-name="TR: KOZA TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: KOZA TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/197881
+#EXTINF:-1  tvg-name="TR: LIFE TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: LIFE TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58145
+#EXTINF:-1  tvg-name="TR: Olay Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Olay Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174382
+#EXTINF:-1  tvg-name="TR: SHOW MAX" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: SHOW MAX
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/534
+#EXTINF:-1  tvg-name="TR: SHOW TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: SHOW TURK
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/278466
+#EXTINF:-1  tvg-name="TR: SHOW TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: SHOW TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/516
+#EXTINF:-1  tvg-name="TR: Star TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Star TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/512
+#EXTINF:-1  tvg-name="TR: Teve 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Teve 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/535
+#EXTINF:-1  tvg-name="TR: TGRT EU" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TGRT EU
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/32907
+#EXTINF:-1  tvg-name="TR: TLC" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TLC
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/585
+#EXTINF:-1  tvg-name="TR: TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/507
+#EXTINF:-1  tvg-name="TR: TRT 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/635
+#EXTINF:-1  tvg-name="TR: TRT Avaz" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Avaz
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/622
+#EXTINF:-1  tvg-name="TR: TRT Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/831
+#EXTINF:-1  tvg-name="TR: TV 100" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 100
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1776
+#EXTINF:-1  tvg-name="TR: TV 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/646
+#EXTINF:-1  tvg-name="TR: TV 5" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 5
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/599
+#EXTINF:-1  tvg-name="TR: TV 8" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 8
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/278465
+#EXTINF:-1  tvg-name="TR: TV 8 International" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 8 International
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/43500
+#EXTINF:-1  tvg-name="TR: TV 8.5" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 8.5
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/518
+#EXTINF:-1  tvg-name="TR: BBC Earth" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: BBC Earth
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8238
+#EXTINF:-1  tvg-name="TR: Chasse & Peche" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Chasse & Peche
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/21246
+#EXTINF:-1  tvg-name="TR: Love Nature" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Love Nature
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/837
+#EXTINF:-1  tvg-name="TR: NAT GEO Wild" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NAT GEO Wild
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/838
+#EXTINF:-1  tvg-name="TR: Viasat Nature" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Viasat Nature
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/284470
+#EXTINF:-1  tvg-name="TR: Yaban" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Yaban
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/582
+#EXTINF:-1  tvg-name="TR: Discovery Science" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Discovery Science
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/5693
+#EXTINF:-1  tvg-name="TR: Discovery World" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Discovery World
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8236
+#EXTINF:-1  tvg-name="TR: DocuBox" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: DocuBox
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/532
+#EXTINF:-1  tvg-name="TR: Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Investigation Discovery
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/8237
+#EXTINF:-1  tvg-name="TR: Kadirga TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kadirga TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/645
+#EXTINF:-1  tvg-name="TR: Köy TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Köy TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/586
+#EXTINF:-1  tvg-name="TR: NAT GEO" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: NAT GEO
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/278566
+#EXTINF:-1  tvg-name="TR: Tarim TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tarim TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174433
+#EXTINF:-1  tvg-name="TR: TGRT Belgesel" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TGRT Belgesel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/16828
+#EXTINF:-1  tvg-name="TR: TRT Belgesel" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Belgesel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/577
+#EXTINF:-1  tvg-name="TR: Ülke TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ülke TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/626
+#EXTINF:-1  tvg-name="TR: Viasat History" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Viasat History
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/32589
+#EXTINF:-1  tvg-name="TR: Vuslat TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Vuslat TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/597
+#EXTINF:-1  tvg-name="TR: Ada TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ada TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300981
+#EXTINF:-1  tvg-name="TR: ADANA TV A" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ADANA TV A
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/304331
+#EXTINF:-1  tvg-name="TR: Altas TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Altas TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/656
+#EXTINF:-1  tvg-name="TR: Anadolu Dernek TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Anadolu Dernek TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/36065
+#EXTINF:-1  tvg-name="TR: Anadolu TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Anadolu TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/173369
+#EXTINF:-1  tvg-name="TR: Bloomberg HT" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Bloomberg HT
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/664
+#EXTINF:-1  tvg-name="TR: BRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: BRT 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301861
+#EXTINF:-1  tvg-name="TR: BRT 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: BRT 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301862
+#EXTINF:-1  tvg-name="TR: BRT 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: BRT 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192602
+#EXTINF:-1  tvg-name="TR: BRTV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: BRTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58143
+#EXTINF:-1  tvg-name="TR: Cekmekoy TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Cekmekoy TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299402
+#EXTINF:-1  tvg-name="TR: Damar TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Damar TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/197566
+#EXTINF:-1  tvg-name="TR: Deha TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Deha TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/36073
+#EXTINF:-1  tvg-name="TR: Deniz Postasi TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Deniz Postasi TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174429
+#EXTINF:-1  tvg-name="TR: Dim TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Dim TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58152
+#EXTINF:-1  tvg-name="TR: Diyanet TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Diyanet TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/7711
+#EXTINF:-1  tvg-name="TR: Dost TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Dost TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/7712
+#EXTINF:-1  tvg-name="TR: DRT Denizli" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: DRT Denizli
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/36070
+#EXTINF:-1  tvg-name="TR: EBA TV Ilkokul" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: EBA TV Ilkokul
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/148006
+#EXTINF:-1  tvg-name="TR: EBA TV Lise" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: EBA TV Lise
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/148008
+#EXTINF:-1  tvg-name="TR: EBA TV Ortaokul" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: EBA TV Ortaokul
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/148007
+#EXTINF:-1  tvg-name="TR: Edessa TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Edessa TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/29844
+#EXTINF:-1  tvg-name="TR: Ekin Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ekin Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/267866
+#EXTINF:-1  tvg-name="TR: Ekol TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ekol TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300464
+#EXTINF:-1  tvg-name="TR: Ekoturk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ekoturk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/5712
+#EXTINF:-1  tvg-name="TR: ERCiS TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ERCiS TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300958
+#EXTINF:-1  tvg-name="TR: ERTV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ERTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/621
+#EXTINF:-1  tvg-name="TR: ES TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ES TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/593
+#EXTINF:-1  tvg-name="TR: Exxen Sports 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Exxen Sports 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/281455
+#EXTINF:-1  tvg-name="TR: Exxen TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Exxen TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300384
+#EXTINF:-1  tvg-name="TR: FM TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: FM TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/146678
+#EXTINF:-1  tvg-name="TR: GRT TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: GRT TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/174416
+#EXTINF:-1  tvg-name="TR: Gurbet24 TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Gurbet24 TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300479
+#EXTINF:-1  tvg-name="TR: Halk TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Halk TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/617
+#EXTINF:-1  tvg-name="TR: History" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: History
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1801
+#EXTINF:-1  tvg-name="TR: HRT Akdeniz TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: HRT Akdeniz TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/36075
+#EXTINF:-1  tvg-name="TR: Hunat TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Hunat TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/186993
+#EXTINF:-1  tvg-name="TR: Icel TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Icel TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298612
+#EXTINF:-1  tvg-name="TR: Kanal 12" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 12
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166214
+#EXTINF:-1  tvg-name="TR: Kanal 15" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 15
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58132
+#EXTINF:-1  tvg-name="TR: Kanal 26" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 26
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/11052
+#EXTINF:-1  tvg-name="TR: Kanal 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/603
+#EXTINF:-1  tvg-name="TR: Kanal 33" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 33
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/15697
+#EXTINF:-1  tvg-name="TR: Kanal 34" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 34
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/89930
+#EXTINF:-1  tvg-name="TR: Kanal 58" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal 58
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/609
+#EXTINF:-1  tvg-name="TR: Kanal Avrupa" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal Avrupa
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/16813
+#EXTINF:-1  tvg-name="TR: Kanal Firat" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal Firat
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/19242
+#EXTINF:-1  tvg-name="TR: Kanal Urfa" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal Urfa
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/286752
+#EXTINF:-1  tvg-name="TR: Kanal Z" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kanal Z
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58173
+#EXTINF:-1  tvg-name="TR: Kardelen TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kardelen TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/199174
+#EXTINF:-1  tvg-name="TR: Kent Türk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kent Türk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/58163
+#EXTINF:-1  tvg-name="TR: Kibris Kanal T" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kibris Kanal T
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/32625
+#EXTINF:-1  tvg-name="TR: Kibris TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kibris TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301860
+#EXTINF:-1  tvg-name="TR: Kocaeli TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kocaeli TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/36112
+#EXTINF:-1  tvg-name="TR: Kon TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kon TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/667
+#EXTINF:-1  tvg-name="TR: KONSERLER 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: KONSERLER 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300476
+#EXTINF:-1  tvg-name="TR: KONSERLER 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: KONSERLER 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300477
+#EXTINF:-1  tvg-name="TR: KONSERLER 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: KONSERLER 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300478
+#EXTINF:-1  tvg-name="TR: Köroglu TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Köroglu TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299400
+#EXTINF:-1  tvg-name="TR: Kudüs TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Kudüs TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163248
+#EXTINF:-1  tvg-name="TR: Lâlegül TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Lâlegül TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/613
+#EXTINF:-1  tvg-name="TR: Luys TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Luys TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/90236
+#EXTINF:-1  tvg-name="TR: Max" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306227
+#EXTINF:-1  tvg-name="TR: Max 007" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max 007
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163196
+#EXTINF:-1  tvg-name="TR: Max Animasyon 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Animasyon 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300089
+#EXTINF:-1  tvg-name="TR: Max Animasyon 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Animasyon 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300090
+#EXTINF:-1  tvg-name="TR: Max Gold" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Gold
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163195
+#EXTINF:-1  tvg-name="TR: Max Premier" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Premier
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163190
+#EXTINF:-1  tvg-name="TR: Max Turk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Turk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163192
+#EXTINF:-1  tvg-name="TR: Max Vizyon 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Vizyon 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300083
+#EXTINF:-1  tvg-name="TR: Max Vizyon 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Vizyon 2
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163201
+#EXTINF:-1  tvg-name="TR: Max Vizyon 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Vizyon 3
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163191
+#EXTINF:-1  tvg-name="TR: Max Vizyon 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Max Vizyon 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163203
+#EXTINF:-1  tvg-name="TR: MC EU" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: MC EU
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76648
+#EXTINF:-1  tvg-name="TR: Medine TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Medine TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76652
+#EXTINF:-1  tvg-name="TR: Mercan TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Mercan TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/163235
+#EXTINF:-1  tvg-name="TR: MUSLUM GURSES" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: MUSLUM GURSES
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300401
+#EXTINF:-1  tvg-name="TR: On 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: On 4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/44751
+#EXTINF:-1  tvg-name="TR: On 6" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: On 6
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/146680
+#EXTINF:-1  tvg-name="TR: Ordu Buyuksehir Belediyesi (OBB)" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Ordu Buyuksehir Belediyesi (OBB)
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300466
+#EXTINF:-1  tvg-name="TR: Qaf TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Qaf TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/304005
+#EXTINF:-1  tvg-name="TR: Rehber TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Rehber TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/15676
+#EXTINF:-1  tvg-name="TR: Rumeli TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Rumeli TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76644
+#EXTINF:-1  tvg-name="TR: Sat 7 Türk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sat 7 Türk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76639
+#EXTINF:-1  tvg-name="TR: Semerkand TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Semerkand TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/834
+#EXTINF:-1  tvg-name="TR: Sünger Bob" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Sünger Bob
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300953
+#EXTINF:-1  tvg-name="TR: Tarih TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tarih TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300437
+#EXTINF:-1  tvg-name="TR: TBMM TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TBMM TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/192558
+#EXTINF:-1  tvg-name="TR: Thaqalayn TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Thaqalayn TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166209
+#EXTINF:-1  tvg-name="TR: Tivi 6" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Tivi 6
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291159
+#EXTINF:-1  tvg-name="TR: TMB" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TMB
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/76692
+#EXTINF:-1  tvg-name="TR: Trakya Türk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Trakya Türk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162830
+#EXTINF:-1  tvg-name="TR: TRT Diyanet Cocuk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TRT Diyanet Cocuk
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300381
+#EXTINF:-1  tvg-name="TR: TurkAsat KEMAL SUNAL" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TurkAsat KEMAL SUNAL
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300417
+#EXTINF:-1  tvg-name="TR: Turkmenli TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Turkmenli TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/283082
+#EXTINF:-1  tvg-name="TR: TV 264" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 264
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/162299
+#EXTINF:-1  tvg-name="TR: TV 41" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV 41
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/6857
+#EXTINF:-1  tvg-name="TR: TV A" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV A
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/21198
+#EXTINF:-1  tvg-name="TR: TV Kayseri" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: TV Kayseri
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/269641
+#EXTINF:-1  tvg-name="TR: UR FANATiK TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: UR FANATiK TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300946
+#EXTINF:-1  tvg-name="TR: ÜÜ TV 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ÜÜ TV 1
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306367
+#EXTINF:-1  tvg-name="TR: ÜÜ TV Üsküdar Üniversitesi TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: ÜÜ TV Üsküdar Üniversitesi TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306366
+#EXTINF:-1  tvg-name="TR: Van TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Van TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300412
+#EXTINF:-1  tvg-name="TR: Vintage Music" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Vintage Music
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306382
+#EXTINF:-1  tvg-name="TR: Viyana TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Viyana TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300944
+#EXTINF:-1  tvg-name="TR: Woman TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Woman TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/527
+#EXTINF:-1  tvg-name="TR: World Turk TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: World Turk TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/306368
+#EXTINF:-1  tvg-name="TR: Yesilcam" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Yesilcam
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/31169
+#EXTINF:-1  tvg-name="TR: Yildiz TV En" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",TR: Yildiz TV En
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300945
+#EXTINF:-1  tvg-name="⚜️ TURKIYE ULUSAL ⚜️" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png",⚜️ TURKIYE ULUSAL ⚜️
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/624
+#EXTINF:-1  tvg-name="EXXEN SPORT 1 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 1 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036039
+#EXTINF:-1  tvg-name="EXXEN SPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036040
+#EXTINF:-1  tvg-name="EXXEN SPORT 3 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 3 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036041
+#EXTINF:-1  tvg-name="EXXEN SPORT 4 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 4 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036042
+#EXTINF:-1  tvg-name="EXXEN SPORT 5 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 5 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036043
+#EXTINF:-1  tvg-name="EXXEN SPORT 6 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 6 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036044
+#EXTINF:-1  tvg-name="EXXEN SPORT 7 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 7 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036045
+#EXTINF:-1  tvg-name="EXXEN SPORT 8 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",EXXEN SPORT 8 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/665036046
+#EXTINF:-1  tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN SPORTS MAX 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10030
+#EXTINF:-1  tvg-name="FENERBAHCE TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",FENERBAHCE TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10025
+#EXTINF:-1  tvg-name="TLC TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TLC TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10125
+#EXTINF:-1  tvg-name="TRT 1 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT 1 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10158
+#EXTINF:-1  tvg-name="TRT AVAZ" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT AVAZ
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10136
+#EXTINF:-1  tvg-name="TRT DIYANET" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT DIYANET
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10248
+#EXTINF:-1  tvg-name="TRT HABER HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT HABER HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10139
+#EXTINF:-1  tvg-name="TRT KURDI" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT KURDI
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10254
+#EXTINF:-1  tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10249
+#EXTINF:-1  tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT WORLD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10250
+#EXTINF:-1  tvg-name="TV 100 FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TV 100 FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10157
+#EXTINF:-1  tvg-name="TV8 FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TV8 FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10145
+#EXTINF:-1  tvg-name="TV8 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TV8 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10146
+#EXTINF:-1  tvg-name="TV8.5 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TV8.5 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10144
+#EXTINF:-1  tvg-name="ULKE TV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",ULKE TV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10122
+#EXTINF:-1  tvg-name="ULUSAL KANAL" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",ULUSAL KANAL
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10133
+#EXTINF:-1  tvg-name="TELE 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TELE 1
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10134
+#EXTINF:-1  tvg-name="TEVE 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TEVE 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10143
+#EXTINF:-1  tvg-name="TGRT HABER" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TGRT HABER
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10123
+#EXTINF:-1  tvg-name="SHOW HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SHOW HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10152
+#EXTINF:-1  tvg-name="SHOW MAX" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SHOW MAX
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10247
+#EXTINF:-1  tvg-name="SHOW TV FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SHOW TV FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10151
+#EXTINF:-1  tvg-name="A HABER HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",A HABER HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10140
+#EXTINF:-1  tvg-name="360 TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",360 TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10131
+#EXTINF:-1  tvg-name="A2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",A2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10124
+#EXTINF:-1  tvg-name="ATV FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",ATV FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10153
+#EXTINF:-1  tvg-name="ATV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",ATV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10154
+#EXTINF:-1  tvg-name="HABER TURK HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",HABER TURK HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10127
+#EXTINF:-1  tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",HALK TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10137
+#EXTINF:-1  tvg-name="KANAL 24 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KANAL 24 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10182
+#EXTINF:-1  tvg-name="KANAL 7 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KANAL 7 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10141
+#EXTINF:-1  tvg-name="KANAL D FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KANAL D FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10147
+#EXTINF:-1  tvg-name="KANAL D HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KANAL D HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10148
+#EXTINF:-1  tvg-name="KANAL D" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KANAL D
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10129
+#EXTINF:-1  tvg-name="JUNIOR TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",JUNIOR TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10084
+#EXTINF:-1  tvg-name="BABY TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BABY TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10007
+#EXTINF:-1  tvg-name="DiSNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DiSNEY CHANNEL
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10005
+#EXTINF:-1  tvg-name="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISNEY JR
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
+#EXTINF:-1  tvg-name="DISNEY XD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISNEY XD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10252
+#EXTINF:-1  tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NICK JR
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10001
+#EXTINF:-1  tvg-name="NICKELODEON TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NICKELODEON TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10000
+#EXTINF:-1  tvg-name="MINIKA COCUK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MINIKA COCUK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10003
+#EXTINF:-1  tvg-name="MINIKA GO TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MINIKA GO TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10002
+#EXTINF:-1  tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT COCUK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9997
+#EXTINF:-1  tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",CARTOON NETWORK HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10179
+#EXTINF:-1  tvg-name="TRT BELGESEL HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT BELGESEL HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10108
+#EXTINF:-1  tvg-name="DAVINCI LEARNING." tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DAVINCI LEARNING.
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9993
+#EXTINF:-1  tvg-name="DAVINCI LEARNING" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DAVINCI LEARNING
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10112
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISCOVERY CHANNEL HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
+#EXTINF:-1  tvg-name="DISCOVERY ID FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISCOVERY ID FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9989
+#EXTINF:-1  tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISCOVERY ID HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9990
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISCOVERY SCIENCE
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9988
+#EXTINF:-1  tvg-name="DISCOVERY SHOWCASE HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DISCOVERY SHOWCASE HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10177
+#EXTINF:-1  tvg-name="DMAX HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DMAX HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10107
+#EXTINF:-1  tvg-name="NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NAT GEO HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9986
+#EXTINF:-1  tvg-name="NAT GEO PEOPLE HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NAT GEO PEOPLE HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9985
+#EXTINF:-1  tvg-name="NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NAT GEO WILD HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9983
+#EXTINF:-1  tvg-name="NATGEO PEOPLE FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NATGEO PEOPLE FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9984
+#EXTINF:-1  tvg-name="YABAN TV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",YABAN TV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10110
+#EXTINF:-1  tvg-name="HISTORY HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",HISTORY HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10111
+#EXTINF:-1  tvg-name="IDX DISCOVERY FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",IDX DISCOVERY FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
+#EXTINF:-1  tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",ANIMAL PLANET HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9995
+#EXTINF:-1  tvg-name="BBC EARTH HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BBC EARTH HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
+#EXTINF:-1  tvg-name="KRAL TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KRAL TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10103
+#EXTINF:-1  tvg-name="KRAL POP TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",KRAL POP TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10253
+#EXTINF:-1  tvg-name="POWER TURK HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",POWER TURK HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10105
+#EXTINF:-1  tvg-name="DREAM TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DREAM TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10104
+#EXTINF:-1  tvg-name="DREAM TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",DREAM TV
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10183
+#EXTINF:-1  tvg-name="NUMBER1 TURK HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NUMBER1 TURK HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10102
+#EXTINF:-1  tvg-name="NUMBER1 TV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NUMBER1 TV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10101
+#EXTINF:-1  tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT MUZIK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10100
+#EXTINF:-1  tvg-name="FOX FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",FOX FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10155
+#EXTINF:-1  tvg-name="FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",FOX LIFE HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10176
+#EXTINF:-1  tvg-name="SINEMA TV 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMA TV 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10062
+#EXTINF:-1  tvg-name="SINEMA TV AKSIYON 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMA TV AKSIYON 1
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10117
+#EXTINF:-1  tvg-name="SINEMA TV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMA TV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10063
+#EXTINF:-1  tvg-name="SINEMATV 1001" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMATV 1001
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10120
+#EXTINF:-1  tvg-name="SINEMATV AILE 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMATV AILE 1
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10119
+#EXTINF:-1  tvg-name="SINEMATV AILE 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMATV AILE 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10118
+#EXTINF:-1  tvg-name="SINEMATV AKSIYON 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMATV AKSIYON 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10116
+#EXTINF:-1  tvg-name="SINEMATV KOMEDI" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMATV KOMEDI
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10115
+#EXTINF:-1  tvg-name="SINEMATV YERLI" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SINEMATV YERLI
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10114
+#EXTINF:-1  tvg-name="BEIN MOVIES ACTION 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES ACTION 1
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10096
+#EXTINF:-1  tvg-name="BEIN MOVIE  PREMIERE" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIE  PREMIERE
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10093
+#EXTINF:-1  tvg-name="BEIN MOVIE TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIE TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10097
+#EXTINF:-1  tvg-name="BEIN MOVIES ACTION 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES ACTION 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10095
+#EXTINF:-1  tvg-name="BEIN MOVIES COMEDY" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES COMEDY
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10094
+#EXTINF:-1  tvg-name="MOVIESMART FEST" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART FEST
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10055
+#EXTINF:-1  tvg-name="BEIN MOVIES ACTION 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES ACTION 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10054
+#EXTINF:-1  tvg-name="BEIN MOVIES STARS  HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES STARS  HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10053
+#EXTINF:-1  tvg-name="BEIN MOVIES PREMIER 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES PREMIER 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10092
+#EXTINF:-1  tvg-name="MOVIE SMART COCUK FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIE SMART COCUK FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9998
+#EXTINF:-1  tvg-name="MOVIESMART ACTION FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART ACTION FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10066
+#EXTINF:-1  tvg-name="MOVIESMART CLASSIC HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART CLASSIC HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10174
+#EXTINF:-1  tvg-name="MOVIESMART FAMILY HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART FAMILY HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10175
+#EXTINF:-1  tvg-name="MOVIESMART FEST" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART FEST
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10073
+#EXTINF:-1  tvg-name="MOVIESMART TURK HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART TURK HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
+#EXTINF:-1  tvg-name="MOVIESMART PLATIN" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART PLATIN
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10071
+#EXTINF:-1  tvg-name="MOVIESMART PLATIN 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART PLATIN 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069
+#EXTINF:-1  tvg-name="MOVIESMART PLATIN HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART PLATIN HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10070
+#EXTINF:-1  tvg-name="MOVIESMART PREMIUM 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART PREMIUM 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10074
+#EXTINF:-1  tvg-name="MOVIESMART PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART PREMIUM HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10076
+#EXTINF:-1  tvg-name="MOVIESMART TURK FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",MOVIESMART TURK FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10064
+#EXTINF:-1  tvg-name="BEIN MOVIES FAMILY HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN MOVIES FAMILY HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10056
+#EXTINF:-1  tvg-name="LOCA 1 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",LOCA 1 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10083
+#EXTINF:-1  tvg-name="LOCA KOMEDI HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",LOCA KOMEDI HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
+#EXTINF:-1  tvg-name="LOCA AKSIYON" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",LOCA AKSIYON
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
+#EXTINF:-1  tvg-name="LOCA AILE" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",LOCA AILE
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
+#EXTINF:-1  tvg-name="BEIN SERIES DRAMA  HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN SERIES DRAMA  HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10051
+#EXTINF:-1  tvg-name="BEIN SERIES 1 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN SERIES 1 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10050
+#EXTINF:-1  tvg-name="CINESTAR VIZYON 1 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",CINESTAR VIZYON 1 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10091
+#EXTINF:-1  tvg-name="CINESTAR VIZYON 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",CINESTAR VIZYON 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10306
+#EXTINF:-1  tvg-name="CINESTAR VIZYON 3 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",CINESTAR VIZYON 3 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10307
+#EXTINF:-1  tvg-name="VIZYON TV Plus" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",VIZYON TV Plus
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10060
+#EXTINF:-1  tvg-name="SALON OFICIAL MUZIK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SALON OFICIAL MUZIK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10059
+#EXTINF:-1  tvg-name="SALON 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SALON 2
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10263
+#EXTINF:-1  tvg-name="SALON 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",SALON 3
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10262
+#EXTINF:-1  tvg-name="BEIN BOX OFFICE 1 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN BOX OFFICE 1 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10048
+#EXTINF:-1  tvg-name="BEIN BOX OFFICE 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN BOX OFFICE 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10047
+#EXTINF:-1  tvg-name="BEIN BOX OFFICE 3 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN BOX OFFICE 3 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10046
+#EXTINF:-1  tvg-name="BEIN BOX OFFICE  4 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN BOX OFFICE  4 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10045
+#EXTINF:-1  tvg-name="BEIN SERIES COMEDY HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN SERIES COMEDY HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10052
+#EXTINF:-1  tvg-name="BEIN SERIES 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN SERIES 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10049
+#EXTINF:-1  tvg-name="PLANET COCUK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",PLANET COCUK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/9999
+#EXTINF:-1  tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",FX HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10085
+#EXTINF:-1  tvg-name="FOX CRIME HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",FOX CRIME HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10086
+#EXTINF:-1  tvg-name="CNN TURK HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",CNN TURK HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10126
+#EXTINF:-1  tvg-name="BLOOMBERG HT HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BLOOMBERG HT HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10128
+#EXTINF:-1  tvg-name="BEYAZ TV FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEYAZ TV FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10138
+#EXTINF:-1  tvg-name="NTV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",NTV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10142
+#EXTINF:-1  tvg-name="STAR TV FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",STAR TV FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10149
+#EXTINF:-1  tvg-name="STAR TV HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",STAR TV HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10150
+#EXTINF:-1  tvg-name="FOX TV FHD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",FOX TV FHD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10156
+#EXTINF:-1  tvg-name="BEIN IZ HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",BEIN IZ HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10251
+#EXTINF:-1  tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT TURK
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10260
+#EXTINF:-1  tvg-name="TRT 2 HD" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="TURKİSH",TRT 2 HD
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10261
+#EXTINF:-1  tvg-name="4K" tvg-logo="https://i.postimg.cc/sXDHJ0kK/online-movies-entertainment-banner-1419-2246.jpg",4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/206513_master.m3u8
