@@ -29,9 +29,6 @@ https://tv.ensonhaber.com/trthaber/trthaber.m3u8
 #EXTINF:0,TGRT Haber
 #EXTGRP:unsorted
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-#EXTINF:0,A Haber
-#EXTGRP:unsorted
-http://185.234.111.229:8000/play/a01n
 #EXTINF:0,Tv Net
 #EXTGRP:unsorted
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
