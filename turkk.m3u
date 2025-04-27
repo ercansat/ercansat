@@ -32,7 +32,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tv Net" tvg-id="Tv Net" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1  tvg-name="CNN TURK" tvg-id="CNNTurk" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-https://b.fulltvizle.com/cnn/tracks-v1a1/mono.m3u8
+https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1  tvg-name="Meclis Tv" tvg-id="Meclis Tv" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Haber_BloombergHT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Haber",Bloomberg HT
@@ -76,8 +76,3 @@ http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
 #EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  tvg-name="TRT Türk" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="TRT",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  tvg-name="TRT Avaz" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
