@@ -13,6 +13,8 @@ http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/tele1-canli
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/sozcu-tv-canli
+#EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV2
+http://51.20.137.71/yt/yt.m3u8?kanal=@sozcutelevizyonu
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Haber_HalkTV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1  tvg-name="Ekol Tv" tvg-id="Ekol Tv" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Tv
