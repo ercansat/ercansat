@@ -73,6 +73,8 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
 https://tv1.arectv30.sbs/live/discovery.m3u8
+#EXTINF:-1  tvg-name="DISCOVERY ID" tvg-id="DISCOVERY ID" group-title="Belgesel",DISCOVERY ID
+https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="History" tvg-id="History" group-title="Belgesel",History
 https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1  tvg-name="BBC EARTH" tvg-id="BBC EARTH" group-title="Belgesel",BBC EARTH
