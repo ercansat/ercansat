@@ -11,10 +11,12 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/tele1-canli
 #EXTINF:-1  tvg-name="Tele 1-2" tvg-id="Haber_Tele1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1-2
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
+#EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV1
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/sozcu-tv-canli
 #EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV2
 http://13.60.64.58/stream/yt/sozcu.m3u8
+#EXTINF:-1  tvg-name="Sözcü TV" tvg-id="Haber_SozcuTV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV3
+https://b.fulltvizle.com/sozcu/playlist.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Haber_HalkTV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1  tvg-name="Ekol Tv" tvg-id="Ekol Tv" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Tv
@@ -70,12 +72,12 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="NAT GEO WILD" tvg-id="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
-#EXTINF:-1  tvg-name="ID" tvg-id="ID" group-title="Belgesel",ID
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
+https://tv1.arectv30.sbs/live/discovery.m3u8
+#EXTINF:-1  tvg-name="History" tvg-id="History" group-title="Belgesel",History
+https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1  tvg-name="BBC EARTH" tvg-id="BBC EARTH" group-title="Belgesel",BBC EARTH
-http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
-#EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
+https://tv1.arectv30.sbs/live/bbc.m3u8
+#EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
+#EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="Genel",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
