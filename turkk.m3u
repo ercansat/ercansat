@@ -55,6 +55,8 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1  tvg-name="Star Tv" tvg-id="StarTV" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://tinyurl.com/logo7cnbce" group-title="Genel",CNBC-e
+https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Genel_BeyazTV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Genel",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="Belgesel_TRT" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="Belgesel",TRT-Belgesel
