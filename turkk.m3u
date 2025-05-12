@@ -21,7 +21,7 @@ https://b.fulltvizle.com/sozcu/playlist.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1  tvg-name="Ekol Tv" tvg-id="Ekol.TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1  tvg-name="MK TV" tvg-id="MK TV" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Haber",MK TV
+#EXTINF:-1  tvg-name="MK TV" tvg-id="Mk.TV.tr" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1  tvg-name="FLASH HABER FHD" tvg-id="Flash.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Haber",FLASH HABER FHD
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
