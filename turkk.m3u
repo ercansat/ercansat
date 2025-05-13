@@ -73,7 +73,7 @@ https://tv1.arectv30.sbs/live/discovery.m3u8
 https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" group-title="Belgesel",History
 https://tv1.arectv30.sbs/live/history.m3u8
-#EXTINF:-1  tvg-name="BBC Earth" tvg-id="BBC.Earth.tr" group-title="Belgesel",BBC EARTH
+#EXTINF:-1  tvg-name="BBC EARTH" tvg-id="BBCEarth.uk@Turkey" group-title="Belgesel",BBC EARTH
 https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
