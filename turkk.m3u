@@ -14,8 +14,6 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV1
 http://raalbatros.serv00.net/ctv.php?url=https://tv.canlitv.vip/sozcu-tv-canli
 #EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV2
-http://13.60.64.58/stream/yt/sozcu.m3u8
-#EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV3
 https://b.fulltvizle.com/sozcu/playlist.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Halk.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
