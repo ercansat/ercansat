@@ -67,13 +67,13 @@ http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="Belgesel",NAT GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.tr" tvg-logo="http://f.pure-redirect.com/TR/discoverychannel.png" group-title="Belgesel",DISCOVERY CHANNEL
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="Belgesel",DISCOVERY CHANNEL
 https://tv1.arectv30.sbs/live/discovery.m3u8
-#EXTINF:-1  tvg-name="ID" tvg-id="ID.tr" tvg-logo="ttps://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="Belgesel",DISCOVERY ID
+#EXTINF:-1  tvg-name="ID" tvg-id="ID.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="Belgesel",DISCOVERY ID
 https://tv1.arectv30.sbs/live/discs.m3u8
-#EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="http://f.pure-redirect.com/TR/historychannel.png" group-title="Belgesel",History
+#EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="Belgesel",History
 https://tv1.arectv30.sbs/live/history.m3u8
-#EXTINF:-1  tvg-name="BBC EARTH" tvg-id="BBCEarth.uk@Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg" group-title="Belgesel",BBC EARTH
+#EXTINF:-1  tvg-name="BBC EARTH" tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Belgesel",BBC EARTH
 https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
