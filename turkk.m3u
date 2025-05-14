@@ -61,19 +61,19 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Belgesel",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" group-title="Belgesel",TRT BELGESEL
+#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT BELGESEL
 http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.tr" group-title="Belgesel",NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" group-title="Belgesel",NAT GEO WILD
+#EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="Belgesel",NAT GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.tr" group-title="Belgesel",DISCOVERY CHANNEL
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.tr" tvg-logo="http://f.pure-redirect.com/TR/discoverychannel.png" group-title="Belgesel",DISCOVERY CHANNEL
 https://tv1.arectv30.sbs/live/discovery.m3u8
-#EXTINF:-1  tvg-name="ID" tvg-id="ID.tr" group-title="Belgesel",DISCOVERY ID
+#EXTINF:-1  tvg-name="ID" tvg-id="ID.tr" tvg-logo="ttps://4.bp.blogspot.com/-EZBZyNogCEI/Wvv0-PoK6pI/AAAAAAABOTo/YPgRTyb4g6wxce8Ars0rBTYmQYEZkZWNgCLcBGAs/s1600/ID_HD.png" group-title="Belgesel",DISCOVERY ID
 https://tv1.arectv30.sbs/live/discs.m3u8
-#EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" group-title="Belgesel",History
+#EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="http://f.pure-redirect.com/TR/historychannel.png" group-title="Belgesel",History
 https://tv1.arectv30.sbs/live/history.m3u8
-#EXTINF:-1  tvg-name="BBC EARTH" tvg-id="BBCEarth.uk@Turkey" group-title="Belgesel",BBC EARTH
+#EXTINF:-1  tvg-name="BBC EARTH" tvg-id="BBCEarth.uk@Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BBC_Earth.jpg" group-title="Belgesel",BBC EARTH
 https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
