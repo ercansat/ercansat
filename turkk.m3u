@@ -70,7 +70,7 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="Belgesel",DISCOVERY CHANNEL
 https://tv1.arectv30.sbs/live/discovery.m3u8
 #EXTINF:-1  tvg-name="ID" tvg-id="ID.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="Belgesel",DISCOVERY ID
-https://217.30.11.74/e/500.m3u8
+https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="Belgesel",History
 https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1  tvg-name="BBC EARTH" tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Belgesel",BBC EARTH
