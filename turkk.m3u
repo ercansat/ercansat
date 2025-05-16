@@ -2,9 +2,9 @@
 #EXTINF:-1  tvg-name="HABERTÜRK TV" tvg-id="HABERTÜRK.TV.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",Haber Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1  tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber.Global.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="tv.100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="TELE 1" tvg-id="TELE.1.tr" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
@@ -32,7 +32,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tvnet" tvg-id="Tvnet.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1  tvg-name="CNN Türk" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-http://176.65.146.123:6002/play/a00z/index.m3u8
+https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1  tvg-name="Meclis Tv" tvg-id="Meclis.TV.tr" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Bloomberg.HT.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Haber",Bloomberg HT
@@ -42,7 +42,7 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1  tvg-name="NOW TV" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
-http://176.65.146.123:6002/play/a01j/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Show.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal.D.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
