@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,TELE 1
+#EXTGRP:unsorted
+http://185.234.111.229:8000/play/a01y
+#EXTINF:0,Sozcu 
+#EXTGRP:unsorted
+http://185.234.111.229:8000/play/a00y
+#EXTINF:0,Halk TV 
+#EXTGRP:unsorted
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:0,HABERTURK
+#EXTGRP:unsorted
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
+#EXTINF:0,NTV
+#EXTGRP:unsorted
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:0,Haber Global
+#EXTGRP:unsorted
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:0,tv100
+#EXTGRP:unsorted
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:0,kanal 24
+#EXTGRP:unsorted
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:0,TRT Haber
+#EXTGRP:unsorted
+https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:0,TGRT Haber
+#EXTGRP:unsorted
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:0,Tv Net
+#EXTGRP:unsorted
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
