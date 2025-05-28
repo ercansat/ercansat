@@ -35,8 +35,6 @@ https://b.fulltvizle.com/cnn/playlist.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Bloomberg.HT.tr" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="Haber",Bloomberg HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1  tvg-name="GZT" tvg-id="GZT.tr" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png" group-title="Haber",GZT
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1  tvg-name="NOW TV" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
@@ -51,8 +49,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-name="CNBC-e" tvg-id="CNBC-e.tr" tvg-logo="https://tinyurl.com/logo7cnbce" group-title="Genel",CNBC-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-#EXTINF:-1  tvg-name="Beyaz TV" tvg-id="Beyaz.TV.tr" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="Genel",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Belgesel",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Belgesel",DMax
