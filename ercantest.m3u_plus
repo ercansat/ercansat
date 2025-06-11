@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Duyurular" tvg-logo="https://derbisports.com/maxguncelbilgiler.png" group-title="TR/ RelaxTV DUYURULAR",TR/ Duyurular
+http://bydnuhecb.pro:8080/symn385/cmrts01062024/183792
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Show Tv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="TR/ ULUSAL TV [HD]",|TR| Show Tv HD
+http://bydnuhecb.pro:8080/symn385/cmrts01062024/6273
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="|TR| Beyaz TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beyaz.png" group-title="TR/ ULUSAL TV [HD]",|TR| Beyaz TV HD
+http://bydnuhecb.pro:8080/symn385/cmrts01062024/6277
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="|TR| Kanal 7 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanal_7.png" group-title="TR/ ULUSAL TV [HD]",|TR| Kanal 7 HD
+http://bydnuhecb.pro:8080/symn385/cmrts01062024/6278
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="|TR| Tv 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR/ ULUSAL TV [HD]",|TR| Tv 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="Kopenhag'da Bir Aşk Hikâyesi (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8IK1sdoQScmXVfn11wFnn3Nvl4G.jpg" group-title="TR |  M/ MUBI Filmler",Kopenhag'da Bir Aşk Hikâyesi (2025)
+http://bydnuhecb.pro:8080/movie/symn385/cmrts01062024/462447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones - TAHT OYUNLARI S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg" group-title="TR | S/ NETFLIX / YABANCI DIZI",Game of Thrones - TAHT OYUNLARI S01 E01
+http://bydnuhecb.pro:8080/series/symn385/cmrts01062024/185569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones - TAHT OYUNLARI S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kdHRLs05ia0E9X3Hi5Ts5Sc1jk.jpg" group-title="TR | S/ NETFLIX / YABANCI DIZI",Game of Thrones - TAHT OYUNLARI S01 E02
+http://bydnuhecb.pro:8080/series/symn385/cmrts01062024/185570.mkv
