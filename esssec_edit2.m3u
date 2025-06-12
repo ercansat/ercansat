@@ -5,36 +5,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8
 #EXTINF:-1 group-title="esssec",Vevo 90s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="esssec",MovieSphere (Australia)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="esssec",Ted (Australia)
-https://d3h6665dgjbyw3.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="esssec",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 group-title="esssec",MBC Drama KSA (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 group-title="esssec",Korean TV
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
 #EXTINF:-1 group-title="esssec",Love Magazine (Sweden)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
-#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/QKbegbG.png",Fashion TV
-https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/2q1e319.png",Fashion TV
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/1Rw5hy3.png",Fashion TV4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/pxCcrJz.png",Fashion TV Midnight Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/wJCHnwQ.png",Hallmark Drama
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/KNT57YG.png",Freeform East
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Movie",Action Holywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png",Celestial Classic Movies
-https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial2.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/QoksZG3.png",C-Span
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kvyVn1k.png",Fox News
 http://tvmate.icu:8080/owuraku@duck.com/owuraku@2023/47281
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/YI6MnKU.png",BBC News Asia Pacific (720p)
