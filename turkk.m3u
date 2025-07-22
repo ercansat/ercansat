@@ -10,9 +10,9 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="TELE 1" tvg-id="TELE.1.tr" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-https://b.fulltvizle.com/sozcu/playlist.m3u8
+https://b.fulltvizle.com/sozcu/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü Backup
-https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
+http://185.234.111.229:8000/play/a00y
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Halk.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1  tvg-name="Ekol TV" tvg-id="Ekol.TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Tv
@@ -33,10 +33,6 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1  tvg-name="CNN Türk" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
 https://b.fulltvizle.com/cnn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a73baff0-a3f5-434c-acc2-a00b5b625adf.png" group-title="Haber",Al Jazeera (English)
-https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a73baff0-a3f5-434c-acc2-a00b5b625adf.png" group-title="Haber",Al Jazeera (Arabic)
-https://live-hls-apps-aja-fa.getaj.net/AJA/05.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1  tvg-name="NOW TV" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
@@ -62,7 +58,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png"group-title="Genel",Trailer 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT BELGESEL
-http://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="Belgesel",NAT GEO WILD
