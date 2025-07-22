@@ -63,8 +63,10 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="Belgesel",NAT GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.tr" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="Belgesel",DISCOVERY CHANNEL
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="Discovery.Channel.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="Belgesel",DISCOVERY CHANNEL
 https://tv1.arectv30.sbs/live/discovery.m3u8
+#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY.SCIENCE.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Belgesel",DISCOVERY SCIENCE
+https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="ID" tvg-id="ID.tr" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DISCOVERY.ID.png" group-title="Belgesel",DISCOVERY ID
 https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="Belgesel",History
