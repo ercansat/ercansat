@@ -42,7 +42,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal.D.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="Atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-name="Star Tv" tvg-id="Star.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
@@ -63,10 +63,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="Belgesel",NAT GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-id="Discovery.Channel.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="Belgesel",DISCOVERY CHANNEL
-https://tv1.arectv30.sbs/live/discovery.m3u8
-#EXTINF:-1  tvg-name="DISCOVERY SCIENCE" tvg-id="DISCOVERY.SCIENCE.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Belgesel",DISCOVERY SCIENCE
-https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="Belgesel",History
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6856/index.m3u8
 #EXTINF:-1  tvg-name="BBC EARTH" tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Belgesel",BBC EARTH
