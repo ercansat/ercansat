@@ -19,8 +19,8 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1  tvg-name="MK TV" tvg-id="Mk.TV.tr" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1  tvg-name="Flash" tvg-id="Flash.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Haber",FLASH HABER FHD
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1  tvg-name="Meltem TV" tvg-id="Meltem.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT.Haber.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT Haber
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
 #EXTINF:-1  tvg-name="TGRT Haber" tvg-id="TGRT.Haber.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber",TGRT Haber
@@ -32,7 +32,9 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tvnet" tvg-id="Tvnet.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1  tvg-name="CNN Türk" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-https://b.fulltvizle.com/cnn/playlist.m3u8
+http://176.65.146.123:6002/play/a00z/index.m3u8
+#EXTINF:-1  tvg-name="Flash" tvg-id="Flash.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Haber",FLASH HABER FHD
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1  tvg-name="NOW TV" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
