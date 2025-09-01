@@ -63,7 +63,3 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-id="National.Geographic.Wild.tr" tvg-logo="http://f.pure-redirect.com/TR/nationalgeowild.png" group-title="Belgesel",NAT GEO WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1  tvg-name="Viasat History" tvg-id="Viasat.History.tr" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="Belgesel",History
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6856/index.m3u8
-#EXTINF:-1  tvg-name="BBC EARTH" tvg-id="bbcearth.tr" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" group-title="Belgesel",BBC EARTH
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6854/index.m3u8
