@@ -55,7 +55,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Genel",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png"group-title="Genel",Trailer 
+#EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo=""group-title="Genel",Trailer 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
