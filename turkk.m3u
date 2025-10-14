@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-name="HABERTÜRK TV" tvg-id="HABERTÜRK.TV.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",Haber Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1  tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/NTV.m3u8
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber.Global.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="tv.100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
@@ -34,9 +34,9 @@ https://izle.canlitvapp.com/cnn/index.m3u8
 #EXTINF:-1  tvg-name="A Haber" tvg-id="A.haber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1  tvg-name="NOW TV" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Show.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal.D.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
@@ -44,7 +44,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="Atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-name="Star Tv" tvg-id="Star.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT.1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT.2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="Genel",TRT 2
@@ -52,9 +52,9 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="CNBC-e" tvg-id="CNBC-e.tr" tvg-logo="https://tinyurl.com/logo7cnbce" group-title="Genel",CNBC-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Genel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Genel",DMax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo=""group-title="Genel",Trailer 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT BELGESEL
