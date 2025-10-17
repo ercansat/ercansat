@@ -10,7 +10,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="TELE 1" tvg-id="TELE.1.tr" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tele_1.m3u8
 #EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Halk.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1  tvg-name="Ekol TV" tvg-id="Ekol.TV.tr" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Tv
