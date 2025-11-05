@@ -15,8 +15,6 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1  tvg-name="MK TV" tvg-id="Mk.TV.tr" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1  tvg-name="İlke TV" tvg-id="ilketv.tr" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="Haber",İlke TV
-https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1  tvg-name="Meltem TV" tvg-id="Meltem.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1  tvg-name="TRT Haber" tvg-id="TRT.Haber.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT Haber
