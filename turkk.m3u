@@ -7,9 +7,9 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="tv.100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
+#EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV1
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-#EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
+#EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV2
 https://boncuktv.atakan1983.workers.dev/szctv
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Halk.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
