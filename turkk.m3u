@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tv_Net.m3u8
 #EXTINF:-1  tvg-name="CNN Türk" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
 https://cdn.tecostream.xyz/Cnn_Turk.m3u8
 #EXTINF:-1  tvg-name="A Haber" tvg-id="A.haber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
-http://95.174.71.114:80/TR-A-HABER/index.m3u8
+https://cdn.tecostream.xyz/A_haber.m3u8
 #EXTINF:-1  tvg-name="TELE 1" tvg-id="TELE.1.tr" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
