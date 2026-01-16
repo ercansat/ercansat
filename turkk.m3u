@@ -8,7 +8,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1  tvg-name="TV 100" tvg-id="tv.100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="SZC" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV1
-http://zafertv85.shop:8080/2859ademold/746rer4654673/196229
+# 
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="Halk.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1  tvg-name="MK TV" tvg-id="Mk.TV.tr" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Haber",MK TV
@@ -26,7 +26,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tvnet" tvg-id="Tvnet.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://cdn.tecostream.xyz/Tv_Net.m3u8
 #EXTINF:-1  tvg-name="CNN Türk" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-http://zafertv85.shop:8080/2859ademold/746rer4654673/6210
+#
 #EXTINF:-1  tvg-name="A Haber" tvg-id="A.haber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://cdn.tecostream.xyz/A_haber.m3u8
 #EXTINF:-1  tvg-name="TV 8" tvg-id="TV.8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
