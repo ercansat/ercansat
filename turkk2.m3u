@@ -60,9 +60,9 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT.2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="Genel",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Genel",TLC
-https://trn03.tulix.tv/gt-tlc-tv/index.m3u8?checkedby:MyWay
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Genel",DMax
-https://trn03.tulix.tv/gt-dmax-tv/index.m3u8?checkedby:MyWay
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 #EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png"group-title="Genel",Trailer 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/trt-belgesel-logo-150x150.png" group-title="Genel",TRT BELGESEL
