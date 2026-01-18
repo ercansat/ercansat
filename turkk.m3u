@@ -57,5 +57,5 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo="https://pbs.twimg.com/profile_images/699256336425455616/6Ii-yyve_400x400.png"group-title="Genel",Trailer 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
-#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.19.01/69a03b09fca64ae0b1503a05729cdf22.png" group-title="Belgesel",TRT BELGESEL
+#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRT.Belgesel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/trt-belgesel-logo.png" group-title="Genel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
