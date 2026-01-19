@@ -20,15 +20,13 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tvnet"tvg-id="Tvnet.tr"tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png"group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="Haber",AKİT TV
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1  tvg-name="A Haber" tvg-id="A.haber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber2
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="FlashTv.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Haber",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="Haber",Ulusal Kanal
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Haber",Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="Haber",TÜRK HABER
