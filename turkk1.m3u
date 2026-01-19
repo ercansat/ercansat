@@ -1,22 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT.1.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="Genel",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="NOW TV"tvg-id="NOW.tr"tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png"group-title="Genel",Now TV
-https://a.abdcev.workers.dev/live/index.m3u8
-#EXTINF:-1 tvg-name="TV 8"tvg-id="TV.8.tr"tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png"group-title="Genel",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 tvg-name="TV 8"tvg-id="TV.8.tr"tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png"group-title="Genel",TV 8 (backup)
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="Kanal.D.tr"tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png"group-title="Genel",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-#EXTINF:-1 tvg-name="Show TV"tvg-id="Show.tr"tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png"group-title="Genel",Show TV-2
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="Show TV"tvg-id="Show.tr"tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png"group-title="Genel",Show TV
-https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
-#EXTINF:-1 tvg-name="Star Tv"tvg-id="Star.tr"tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png"group-title="Genel",Star TV
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 tvg-name="ATV"tvg-id="Atv.tr"tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"group-title="Genel",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="HABERTÜRK TV"tvg-id="HABERTÜRK.TV.tr"tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png"group-title="Haber",Haber Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png"group-title="Haber",NTV
@@ -55,7 +37,3 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-name="Meltem TV"tvg-id="Meltem.TV.tr"tvg-logo="https://i.hizliresim.com/n9otvqm.png"group-title="Haber",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1 tvg-name="TLC"tvg-id="TLC.tr"tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png"group-title="Genel",TLC
-http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
-#EXTINF:-1 tvg-name="DMAX"tvg-id="DMAX.tr"tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png"group-title="Genel",DMax
-http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
