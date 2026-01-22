@@ -12,7 +12,14 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8
 #EXTINF:-1  tvg-name="Halk TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/playlist.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1  tvg-name="Haber Mozaik" tvg-id="" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Haber",Haber Mozaik
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/habermozaik/habermozaik.m3u8
 #EXTINF:-1  tvg-name="MK TV" tvg-id="MkTV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1  tvg-name="Meltem TV" tvg-id="MeltemTV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",Meltem TV
@@ -57,6 +64,9 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-8
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1  tvg-name="Star Tv" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star-audio_tur=96000-video=3000000.m3u8?bitrate=(1800k|3600k)&
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
