@@ -5,7 +5,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
-#EXTINF:-1  tvg-name="TV 100" tvg-id="tv.100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
+#EXTINF:-1  tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1  tvg-name="Sözcü Tv" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
@@ -28,6 +28,8 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tvnet" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1  tvg-name="CNN Türk" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1  tvg-name="A Haber" tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber2
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
@@ -49,23 +51,23 @@ https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-#EXTINF:-1  tvg-name="ATV" tvg-id="Atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
+#EXTINF:-1  tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8
-#EXTINF:-1  tvg-name="ATV" tvg-id="Atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV1
+#EXTINF:-1  tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1  tvg-name="Star Tv" tvg-id="Star.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
+#EXTINF:-1  tvg-name="Star Tv" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
-#EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Genel",TRT 1
+#EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr
+#EXTINF:-1  tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Genel",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Genel",TLC
 https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Genel",DMax
 https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
-#EXTINF:-1  tvg-id="lovemagazineuk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png"group-title="Genel",Trailer 
+#EXTINF:-1  tvg-name="LMagazine" tvg-id="lovemagazine.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png"group-title="Genel",Trailer 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
-#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRTBelgesel.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/trt-belgesel-logo-150x150.png" group-title="Genel",TRT BELGESEL
+#EXTINF:-1  tvg-name="TRT Belgesel" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Genel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
