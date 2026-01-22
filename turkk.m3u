@@ -39,7 +39,6 @@ https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/playlist.m3u8
-#EXTINF:-1  tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8 (backup)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-name="NOW TV"tvg-id="Fox.tr"tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png"group-title="Genel",Now TV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
@@ -55,7 +54,6 @@ https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8
-#EXTINF:-1  tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV1
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1  tvg-name="Star Tv" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
