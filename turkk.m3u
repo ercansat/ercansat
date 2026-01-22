@@ -28,7 +28,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://dsmartgo-live.ercdn.net/habermozaik/habermozaik.m3u8
 #EXTINF:-1  tvg-name="MK TV" tvg-id="MkTV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1  tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",Meltem TV
+#EXTINF:-1  tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1  tvg-name="TRT HABER HD" tvg-id="TRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT Haber
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
