@@ -34,7 +34,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
 #EXTINF:-1  tvg-name="TGRT Haber" tvg-id="TGRT.HABER.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1  tvg-name="24 TV HD" tvg-id="24.TV.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber",Tv 24
+#EXTINF:-1  tvg-name="24 TV" tvg-id="24.TV.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1  tvg-name="ÜLKE TV HD" tvg-id="ÜLKE.TV.HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber",ÜLKE TV HD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
