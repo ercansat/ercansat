@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" url-tvg="url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 #EXTINF:-1  tvg-name="HABERTÜRK HD" tvg-id="HABERTÜRK.HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",Haber Türk
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
