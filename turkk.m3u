@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml,https://www.open-epg.com/files/turkey2.xml.gz"
 #EXTINF:-1  tvg-name="HABERTURK HD" tvg-id="HABERTURK.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",HABERTURK
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
