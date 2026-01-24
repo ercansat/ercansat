@@ -70,7 +70,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8
 #EXTINF:-1  tvg-name="STAR TV" tvg-id="STAR TV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",STAR TV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/star/star.m3u8
+https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -85,8 +85,6 @@ https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
-#EXTINF:-1  tvg-name="LMagazine" tvg-id="lovemagazine.uk" tvg-logo="
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT BELGESEL" tvg-id="TRT BELGESEL.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Genel",TRT BELGESEL
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
