@@ -11,10 +11,14 @@ https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/playlist.m3u8
 https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
@@ -117,6 +121,12 @@ https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTINF:-1 tvg-name="TYT TÜRK"tvg-id="TYT.TÜRK.tr"tvg-logo="https://tytturk.com/upload/tyt-logo.png"group-title="Genel",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Genel",CNBC-E
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/cnbce/cnbce.m3u8
+
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Genel",TRT BELGESEL
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
