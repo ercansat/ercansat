@@ -13,7 +13,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
+https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
