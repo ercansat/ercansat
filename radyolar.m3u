@@ -1,42 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",SLOW HOME
-http://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Baba Radyo
-https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Kafa Radyo
-https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Kral Pop
-https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w1813872028_b128000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Power Turk
-https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Pal Nostalji
-https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Radyo D
-https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Fenomen Türk
-https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Power - Pop
-https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Radyo Fenomen
-https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Best Fm
-https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Pal Station
-https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Power Plus
-https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Pal FM
-https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Power - Love
-https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Full FM Türkiye
-https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",Radyo Voyage
-https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",AKUSTiK
-https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",POP HOME
-https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
 #EXTINF:-1,radyo voyage
 http://voyagewmp.radyotvonline.com/
 #EXTINF:-1,Tanishka Bahl, Kushagra, Bharath, Saaheal - Finding Her (Female Version)
