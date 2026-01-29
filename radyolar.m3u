@@ -37,3 +37,37 @@ https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png"group-title="⚡Radyo",POP HOME
 https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:-1,radyo voyage
+http://voyagewmp.radyotvonline.com/
+#EXTINF:-1,Tanishka Bahl, Kushagra, Bharath, Saaheal - Finding Her (Female Version)
+https://22653.live.streamtheworld.com/SC030_SO1AAC.aac
+#EXTINF:-1,Tierra Whack - Black Magic Woman
+https://28563.live.streamtheworld.com/JOY_FMAAC.aac
+#EXTINF:-1,Power FM, İstanbul
+https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8
+#EXTINF:-1,Radyo Fenomen
+https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
+#EXTINF:-1,Rockland
+https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+#EXTINF:-1,GEORGE MICHAEL * FREEDOM
+http://live.radyotvonline.com:8090/
+#EXTINF:-1,Lenka - Everything At Once  (Single Version)
+https://onair.goldfm.be:8000/stream
+#EXTINF:-1,The Who - Baba O'Riley
+https://rockfm.rockfm.com.tr:9450/stream
+#EXTINF:-1,Radyo Home - World Hits
+https://ssl4.radyotvonline.com/radyohome/worldhit.stream_aac/playlist.m3u8
+#EXTINF:-1,Houseland
+https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
+#EXTINF:-1,Goksel - Unutulmaz
+https://anadolu.liderhost.com.tr:10973/;
+#EXTINF:-1,SLOW HOME
+https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
+#EXTINF:-1,hbsezen - Saat seni sen geçiyor
+https://radyo1.radyo-dinle.tc:7018/;
+#EXTINF:-1,TurKuaZ oTo DJ
+https://anadolu.liderhost.com.tr:10918/;
+#EXTINF:-1,POWERTÜRK AKUSTİK
+https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8
+#EXTINF:-1,Michael Bolton - How Am I Supposed To Live Without You
+https://anadolu.liderhost.com.tr:10964/;
