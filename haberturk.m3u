@@ -14,3 +14,9 @@ https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" group-title="Haber" catchup="append" catchup-days="7" catchup-source="https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8?start=${start}&end=${end}",TV100 kimi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" group-title="Haber" catchup="append" catchup-days="7" catchup-source="https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8?start=${start}&end=${end}",TV100 vlc
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://www.dsmart.com.tr/
+https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
+
