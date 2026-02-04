@@ -44,13 +44,19 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT HABER
-https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8
 
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber",TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
 #EXTINF:-1 tvg-name="24 TV" tvg-id="24.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="ÜLKE.TV.HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber",ÜLKE TV HD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -69,6 +75,11 @@ https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-name="Genel Mozaik" tvg-id="Mozaik" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Genel Mozaik
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/ulusalmozaik/ulusalmozaik_1080p.m3u8
 
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
@@ -106,20 +117,19 @@ https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="Genel",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Genel",TLC
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="Genel",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.HD.tr
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
-
-#EXTINF:-1 tvg-name="TYT TÜRK"tvg-id="TYT.TÜRK.tr"tvg-logo="https://tytturk.com/upload/tyt-logo.png"group-title="Genel",TYT Turk
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 #EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Genel",CNBC-E
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
