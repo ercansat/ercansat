@@ -115,7 +115,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Genel",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Genel",TRT 2
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8
@@ -125,7 +125,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Genel",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Genel",DMAX
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
