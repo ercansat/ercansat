@@ -34,11 +34,10 @@ https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/habermozaik/habermozaik.m3u8
-# Not: TR3'te tam eşleşme yok, boş bıraktım veya "HABER.GLOBAL.HD.tr" gibi yakın kullanabilirsin
 
 #EXTINF:-1 tvg-name="MK TV" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-# Not: TR3'te görünmüyor, boş veya kendi ID'nle bırak
+
 
 #EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
@@ -114,9 +113,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8
 
-
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="Genel",TRT 2
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8
