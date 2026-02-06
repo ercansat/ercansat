@@ -77,12 +77,12 @@ https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
 
-#EXTINF:-1 tvg-name="Bi Kanal" tvg-id="Bi.KANAL.TR" tvg-logo="https://dsmart-static-v2.ercdn.net/content/H/00/73067/Thumbnail.png?v=638869140394735196" group-title="Haber",Bi Kanal
+#EXTINF:-1 tvg-name="Bi Kanal" tvg-id="Bi.Kanal.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/H/00/73067/Thumbnail.png?v=638869140394735196" group-title="Haber",Bi Kanal
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/cine1/cine1.m3u8
 
-#EXTINF:-1 tvg-name="Ulusal" tvg-id="ULUSAL.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/B/M1/13568/Thumbnail.png?v=636928346850541326" group-title="Haber",Ulusal TV
+#EXTINF:-1 tvg-name="Ulusal" tvg-id="ULUSAL.KANAL.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/B/M1/13568/Thumbnail.png?v=636928346850541326" group-title="Haber",Ulusal TV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/ulusaltv/ulusaltv.m3u8
@@ -92,7 +92,7 @@ https://dsmartgo-live.ercdn.net/ulusaltv/ulusaltv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8
 
-#EXTINF:-1 tvg-name="Flash TV" tvg-id="Flash.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png?v=638838583824183907" group-title="Haber",Flash Haber
+#EXTINF:-1 tvg-name="Flash TV" tvg-id="FLASH.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png?v=638838583824183907" group-title="Haber",Flash Haber
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
