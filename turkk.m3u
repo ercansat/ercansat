@@ -58,7 +58,9 @@ https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber_1080p.m3u8
 https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="ÜLKE.TV.HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber",ÜLKE TV HD
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/ulketv/ulketv.m3u8
 
 #EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.HD.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
@@ -74,6 +76,26 @@ https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-name="Bi Kanal" tvg-id="Bi.KANAL.TR" tvg-logo="https://dsmart-static-v2.ercdn.net/content/H/00/73067/Thumbnail.png?v=638869140394735196" group-title="Haber",Bi Kanal
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/cine1/cine1.m3u8
+
+#EXTINF:-1 tvg-name="Ulusal" tvg-id="ULUSAL.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/B/M1/13568/Thumbnail.png?v=636928346850541326" group-title="Haber",Ulusal TV
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/ulusaltv/ulusaltv.m3u8
+
+#EXTINF:-1 tvg-name="Lider Haber" tvg-id="Lider.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986" group-title="Haber",Lider Haber
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8
+
+#EXTINF:-1 tvg-name="Flash TV" tvg-id="Flash.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png?v=638838583824183907" group-title="Haber",Flash Haber
+#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 #EXTINF:-1 tvg-name="Genel Mozaik" tvg-id="Mozaik" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Genel Mozaik
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
