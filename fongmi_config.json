@@ -1,54 +1,30 @@
 {
-  "spider": "https://raw.githubusercontent.com/FongMi/TV/release/jar/custom_spider.jar",
-  "wallpaper": "https://picsum.photos/1280/720/",
-  "lives": [
+  "ver": "1.0",
+  "title": "Benim Türkiye Playlistim",
+  "update": "2026-02-08",
+  "author": "Ercan",
+  "logo": "https://i.ibb.co/abc123/logo.png",
+  "categories": [
     {
-      "group": "D-Smart Haber",
-      "channels": [
+      "name": "Haber",
+      "items": [
         {
-          "name": "HABERTURK HD",
-          "urls": [
-            "proxy://do=live&type=m3u8&url=https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/playlist.m3u8&header=User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&header=Referer=https://www.dsmartgo.com.tr"
-          ],
+          "name": "HABERTÜRK HD",
+          "logo": "https://i.ibb.co/wdwm0fn/haberturk.png",
+          "url": "https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/playlist.m3u8",
           "epg": "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
-          "logo": "https://i.ibb.co/wdwm0fn/haberturk.png"
+          "tvg-id": "HABERTÜRK.HD.tr",
+          "referer": "https://www.dsmartgo.com.tr/canli-yayin",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "NTV",
-          "urls": [
-            "proxy://do=live&type=m3u8&url=https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8&header=User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&header=Referer=https://www.dsmartgo.com.tr"
-          ],
+          "name": "TV 100",
+          "logo": "https://i.ibb.co/bLpTdYZ/tv100.png",
+          "url": "https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8",
           "epg": "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
-          "logo": "https://i.ibb.co/9c7MvWX/ntv.png"
-        },
-        {
-          "name": "HABER GLOBAL",
-          "urls": [
-            "proxy://do=live&type=m3u8&url=https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8&header=User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&header=Referer=https://www.dsmartgo.com.tr/"
-          ],
-          "epg": "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
-          "logo": "https://i.ibb.co/k58p7P2/hglobal.png"
-        }
-      ]
-    },
-    {
-      "group": "D-Smart Genel",
-      "channels": [
-        {
-          "name": "TV8",
-          "urls": [
-            "proxy://do=live&type=m3u8&url=https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8&header=User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&header=Referer=https://www.dsmartgo.com.tr"
-          ],
-          "epg": "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
-          "logo": "https://i.ibb.co/tXKXNDz/tv8.png"
-        },
-        {
-          "name": "NOW",
-          "urls": [
-            "proxy://do=live&type=m3u8&url=https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/playlist.m3u8&header=User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&header=Referer=https://www.dsmartgo.com.tr"
-          ],
-          "epg": "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
-          "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
+          "tvg-id": "TV100.tr",
+          "referer": "https://www.dsmartgo.com.tr/canli-yayin",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       ]
     }
