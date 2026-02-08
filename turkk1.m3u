@@ -44,7 +44,7 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-name="BENGÜTÜRK" tvg-id="BENGÜTÜRK.tr" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="Haber",BENGÜTÜRK TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 tvg-name="Türk Haber" tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="Haber",TÜRK HABER
+#EXTINF:-1 tvg-name="Türk Haber" tvg-id="TURKHABER.tr" tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="Haber",TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Yeniçağ" tvg-id="YENİÇAĞ.TV.tr" tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png" group-title="Haber",YENİÇAĞ TV
