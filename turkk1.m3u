@@ -6,7 +6,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png"group-title="Haber",NTV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 
-#EXTINF:-1 tvg-name="CNN Türk" tvg-id="CNN.Türk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
+#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png"group-title="Haber",HABER GLOBAL
@@ -61,7 +61,7 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-name="MK TV" tvg-id="Mk.TV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png"group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Meltem TV" tvg-id="MELTEM.TV.tr "tvg-logo="https://i.hizliresim.com/n9otvqm.png"group-title="Haber",Meltem TV
+#EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Lider Haber" tvg-id="Lider.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986" group-title="Haber",Lider Haber
