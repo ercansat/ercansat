@@ -1,0 +1,17 @@
+{
+  "lives": [
+    {
+      "name": "Türk Kanalları",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/ercansat/ercansat/refs/heads/main/turkk1.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz",
+      "logo": "",
+      "catchup": "default",
+      "catchupSource": "",
+      "catchupDays": "1",
+      "timeout": 15
+    }
+  ]
+}
