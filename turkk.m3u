@@ -77,11 +77,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
 
 #EXTINF:-1 tvg-name="Lider Haber" tvg-id="Lider.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986" group-title="Haber",Lider Haber
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
-
-#EXTINF:-1 tvg-name="Flash TV" tvg-id="
+#EXTINF:-1 tvg-name="Flash TV" tvg-id="FLASH.HABER.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Haber",FLASH HABER
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
@@ -129,7 +127,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Genel",TRT 2
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
+https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Genel",TLC
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
