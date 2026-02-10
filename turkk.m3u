@@ -87,7 +87,7 @@ https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-name="Genel Mozaik" tvg-id="Mozaik" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Genel Mozaik
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/ulusalmozaik/ulusalmozaik_1080p.m3u8
+https://dsmartgo-live.ercdn.net/ulusalmozaik/ulusalmozaik_1080p.m3u8
 
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
