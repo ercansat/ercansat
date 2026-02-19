@@ -1,10 +1,10 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz" 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" 
 
 #EXTINF:-1 tvg-name="HABERTURK HD" tvg-id="HABERTÜRK.HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
-https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
@@ -13,7 +13,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8
+http://65.108.239.207:80/sozcutv/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
