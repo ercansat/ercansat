@@ -7,9 +7,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8 
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png"group-title="Haber",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
@@ -36,9 +34,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:-1 tvg-name="A Haber" tvg-id="A.HABER.HD.tr" tvg-logo="https://i.ibb.co/qjzfKDN/ahaber.jpg" group-title="Haber",A HABER
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
+https://cdn.tecostream.xyz/A_haber.m3u8
 
 #EXTINF:-1 tvg-name="Flash TV" tvg-id="FLASH.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png?v=638838583824183907" group-title="Haber",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
@@ -47,9 +43,7 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sözcü Tv" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",SÖZCÜ TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8
+https://boncuktv.seni-elime-gecirirsem.workers.dev/szctv
 
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png"group-title="Haber",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
@@ -62,7 +56,4 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Lider Haber" tvg-id="Lider.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986" group-title="Haber",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-
-#EXTINF:-1 tvg-name="TYTTurk" tvg-id="TYTTurk.tr" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="Haber",TYT Turk
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
