@@ -13,7 +13,6 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
 https://boncuktv.seni-elime-gecirirsem.workers.dev/szctv
 
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
@@ -56,7 +55,6 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 https://a.abdcev.workers.dev/live/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",SHOW TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 https://boncuktv.seni-elime-gecirirsem.workers.dev/showtv
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
