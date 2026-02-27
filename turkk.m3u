@@ -13,7 +13,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/szctv
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
@@ -40,7 +40,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-https://boncuktv.seni-elime-gecirirsem.workers.dev/cnnt
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 
 #EXTINF:-1 tvg-name="AHABER" tvg-id="A.HABER.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A HABER
 https://cdn.tecostream.xyz/A_haber.m3u8
@@ -55,7 +55,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 https://a.abdcev.workers.dev/live/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",SHOW TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/showtv
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
