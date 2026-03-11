@@ -66,7 +66,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-EXTINF:-1 tvg-name="TYTTURK" tvg-id="TYTTurk.tr" tvg-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg",TYTTURK
+#EXTINF:-1 tvg-name="TYTTURK" tvg-id="TYTTurk.tr" tvg-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg",TYTTURK
 http://live.mobi-tv.workers.dev/?ID=732
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
