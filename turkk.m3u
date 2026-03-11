@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn
 #EXTINF:-1 tvg-name="AHABER" tvg-id="A.HABER.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A HABER
 https://cdn.tecostream.xyz/A_haber.m3u8
 
-#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",Ulusal Kanal
+#EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-id="ULUSAL.KANAL.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",ULUSAL KANAL
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 
 #EXTINF:-1 tvg-name="Lider Haber" tvg-id="Lider.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986" group-title="Haber",Lider Haber
@@ -69,7 +69,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-name="TYTTURK" tvg-id="TYTTurk.tr" tvg-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg" group-title="Genel",TYTTURK
+#EXTINF:-1 tvg-name="TYT TÜRK" tvg-id="TYT.TÜRK.tr" tvg-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg" group-title="Genel",TYT TÜRK
 http://live.mobi-tv.workers.dev/?ID=732
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
