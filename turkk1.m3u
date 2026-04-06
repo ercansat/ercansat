@@ -10,7 +10,7 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png"group-title="Haber",HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8
 
 #EXTINF:-1 tvg-name="24" tvg-id="24.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png"group-title="Haber",TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
@@ -50,10 +50,3 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="MK TV" tvg-id="Mk.TV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png"group-title="Haber",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-
-#EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",MELTEM TV
-https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Lider Haber" tvg-id="Lider.HABER.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986" group-title="Haber",Lider Haber
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-
